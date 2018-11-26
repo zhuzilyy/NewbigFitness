@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.gufei.bigfitness"
+    android:versionCode="4"
+    android:versionName="1.1.2" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="25" />
+
+    <!-- 访问网络 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 写入扩展存储，向扩展卡写入数据 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!-- 摄像头 -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <!-- 获取运营商信息 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 用于访问wifi网络信息 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 用于读取手机当前的状态 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- 这个权限用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- 这个权限用于访问GPS定位 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- 这个权限用于获取wifi的获取权限，wifi信息会用来进行网络定位 -->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <!-- SD卡读取权限，用户写入离线定位数据 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <!-- iBeancon功能所需权限 -->
+    ;
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.GET_TASKS" /> <!-- 浮动通知权限 -->
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" /> <!-- 自定义权限 -->
+    <uses-permission android:name="getui.permission.GetuiService.com.example.gufei.bigfitness" />
+
+    <permission
+        android:name="getui.permission.GetuiService.com.example.gufei.bigfitness"
+        android:protectionLevel="normal" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" /> <!-- Don't require camera, as this requires a rear camera. This allows it to work on the Nexus 7 -->
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.front"
+        android:required="false" /> <!-- TODO replace above two with next line after Android 4.2 -->
+    <!-- <uses-feature android:name="android.hardware.camera.any"/> -->
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.flash"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.screen.landscape"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.wifi"
+        android:required="false" />
+
+    <application
+        android:name="com.example.gufei.bigfitness.App"
+        android:allowBackup="true"
+        android:icon="@mipmap/ui"
+        android:label="@string/app_name"
+        android:launchMode="standard"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+        android:usesCleartextTraffic="true" >
+        <meta-data
+            android:name="channel"
+            android:value="test" />
+
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.main.MainActivity"
+            android:screenOrientation="portrait" />
+
+        <!--
+            <receiver
+            android:name=".com.GuFei.Jpush.Receiver.MyReceiver"
+            android:enabled="true"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.REGISTRATION" /> &lt;!&ndash; Required  用户注册SDK的intent &ndash;&gt;
+                <action android:name="cn.jpush.android.intent.MESSAGE_RECEIVED" /> &lt;!&ndash; Required  用户接收SDK消息的intent &ndash;&gt;
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED" /> &lt;!&ndash; Required  用户接收SDK通知栏信息的intent &ndash;&gt;
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_OPENED" /> &lt;!&ndash; Required  用户打开自定义通知栏的intent &ndash;&gt;
+                <action android:name="cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK" /> &lt;!&ndash; Optional 用户接受Rich Push Javascript 回调函数的intent &ndash;&gt;
+                <action android:name="cn.jpush.android.intent.CONNECTION" /> &lt;!&ndash; 接收网络变化 连接/断开 since 1.6.3 &ndash;&gt;
+                <action android:name="android.intent.action.MEDIA_MOUNTED" />
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="com.example.gufei.bigfitness" />
+            </intent-filter>
+        </receiver>
+        -->
+
+
+        <!--
+        <service
+            android:name=".com.GuFei.Jpush.Service.RegisterService"
+            android:enabled="true"
+            android:priority="1000">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </service>
+        -->
+        <!-- 用户自定义服务继承自GTIntentService,作为SDK与APP桥梁服务,用来接收各种消息和命令回复 -->
+
+        <service android:name="com.example.gufei.bigfitness.com.GuFei.Push.IntentService" />
+        <service
+            android:name="com.example.gufei.bigfitness.com.GuFei.Push.PushService"
+            android:exported="true"
+            android:label="PushService"
+            android:process=":pushservice" />
+
+        <receiver android:name="com.igexin.sdk.PushReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="com.igexin.sdk.action.refreshls" />
+                <action android:name="android.intent.action.MEDIA_MOUNTED" />
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Schedule.ScheduleActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.User.Login.LoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.User.welcome.WelcomeActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.yanzhenjie.album.AlbumActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="图库"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:windowSoftInputMode="stateAlwaysHidden|stateHidden" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.User.Messages.MessagesListActivity"
+            android:screenOrientation="portrait" />
+        <!-- <activity android:name=".com.GuFei.Ui.AddressList.AddressListFragMent" /> -->
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.AddressList.AddressDetails.AddressDetailsActivity"
+            android:screenOrientation="portrait" />
+        <!-- <activity android:name=".com.GuFei.Ui.User.MyCenter.main.MyCenterMainFragMent" /> -->
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.User.MyCenter.seting.SetingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.User.MyCenter.appraise.AppraiseActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.User.MyCenter.personainfo.PersonalInfoActivity"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.User.MyCenter.coach.CoachInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.User.MyCenter.img_video_list.ImgVideoListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.Record.FollowUpRecordActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.CustomerList.CustomerListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.CustomerInfo.CustomerInfoCollectionActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.ReservationRecord.ReservationRecordActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.Main.CustomerMainActivity"
+            android:label="@string/title_activity_customer_main"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <!-- <activity -->
+        <!-- &lt;!&ndash;android:name=".com.GuFei.Ui.FragMent.SelectListFragent"&ndash;&gt; -->
+        <!-- android:label="@string/title_activity_select_list_fragent" -->
+        <!-- android:theme="@style/Theme.AppCompat.Light.NoActionBar" /> -->
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.GeneralComponent.Query.QueryActivity"
+            android:screenOrientation="portrait" />
+        <!-- <activity android:name=".com.GuFei.Ui.test.TestListActivity" /> -->
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.AddAppointment.AddAppointmentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.AddFollow.AddFollowActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.TrainingPlan.Add.TrainingPlanAddActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.TrainingPlan.List.TrainingPlanListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.SiteSelection.SiteSelectionActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Members.CourseAppointmentAdd.CourseAppointmentAddActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Members.AppointmentDetails.AppointmentDetailsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Members.Course.List.CourseListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Members.MedicalReportDocuments.MedicalReportDocumentsListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.VideoPlayView.VideoPlayActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.User.MyCenter.img_video_list.ImageActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Filter.FilterListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.PublicSea.List.PublicSeaListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.PublicSea.searchlist.PublicSeaSearchListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.AppointmentRecord.AppointmentRecordActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.PublicSea.Details.PublicSeaInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Members.Main.MembersMainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Members.Record.MembersFollowUpRecordActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Web.WebActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Members.MembersInfo.MembersInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.AddCustomer.CustomerInfo.CustomerAddCollectionActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Members.AddReport.AddReportActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Members.LessonReportDocuments.LessonReportDocumentsListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Members.LessonInfo.LessonInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Members.Course.Details.CourseDetailsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Members.Private.LessonInfo.LessonInfoPrivateActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Members.MembersInfoDetails.MembersInfoDetailsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.EditCustomer.CustomerEditCollectionActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Members.AddAppointment.AddMebersAppointmentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Members.cardlist.CardListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Members.cardinfo.CardInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Members.cardinfo.TimeCard.TimeCardInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Members.ReservationRecord.ReservationRecordMembersActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Members.AppointmentRecord.MembersAppointmentRecordActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Members.EditAppointment.EditMebersAppointmentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Members.AddFollow.AddMembersFollowActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Members.LessonList.LessonListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Schedule.activity.ListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Schedule.ScheduleAddAppointment.ScheduleAddAppointmentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Scan.ScanActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Schedule.ReservationRecord.ReservationRecordScheduleActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Schedule.AddAppointment.AddAppointmentScheduleActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Members.TeacherFilter.TeacherFilterListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.About.AboutActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Charts.ChartsMainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Charts.Main2Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.Charts.List.ChartsListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.LessonInfoDetails.PrivateLessson.PrivateLesssonActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.LessonInfoDetails.GroupLesson.GroupLesssonActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Ui.CustomScanActivity"
+            android:screenOrientation="portrait" />
+        <!-- <provider -->
+        <!-- android:name="android.support.v4.content.FileProvider" -->
+        <!-- android:authorities="com.xykj.customview.fileprovider" -->
+        <!-- android:exported="false" -->
+        <!-- android:grantUriPermissions="true"> -->
+        <!-- <meta-data -->
+        <!-- android:name="android.support.FILE_PROVIDER_PATHS" -->
+        <!-- android:resource="@xml/filepaths"/> -->
+        <!-- </provider> -->
+        <meta-data
+            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+            android:value="GlideModule" /> <!-- 第三方应用配置 -->
+        <meta-data
+            android:name="PUSH_APPID"
+            android:value="zdvD2BdmjQ76f5PCUqEov8" />
+        <meta-data
+            android:name="PUSH_APPKEY"
+            android:value="n945npyn1y8wwjEb1u7x36" />
+        <meta-data
+            android:name="PUSH_APPSECRET"
+            android:value="MUkJGxj8NAADdZiB8xkE32" /> <!-- 配置SDK核心服务 -->
+        <service
+            android:name="com.igexin.sdk.PushService"
+            android:exported="true"
+            android:label="NotificationCenter"
+            android:process=":pushservice" >
+            <intent-filter>
+                <action android:name="com.igexin.sdk.action.service.message" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name="com.igexin.sdk.PushActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:process=":pushservice"
+            android:taskAffinity="com.igexin.sdk.PushActivityTask"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.igexin.sdk.GActivity"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:process=":pushservice"
+            android:taskAffinity="com.igexin.sdk.PushActivityTask"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity android:name="com.soundcloud.android.crop.CropImageActivity" />
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.example.gufei.bigfitness.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
+        <activity
+            android:name="com.darsh.multipleimageselect.activities.AlbumSelectActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/MultipleImageSelectTheme" >
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.darsh.multipleimageselect.activities.ImageSelectActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/MultipleImageSelectTheme" >
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+            android:clearTaskOnLaunch="true"
+            android:screenOrientation="sensorLandscape"
+            android:stateNotNeeded="true"
+            android:theme="@style/zxing_CaptureTheme"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+    </application>
+
+</manifest>

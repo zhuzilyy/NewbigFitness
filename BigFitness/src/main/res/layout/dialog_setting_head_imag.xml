@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/shape_linearlayout">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:text="选择图片"
+            android:textColor="#A4AAB3"
+            android:textSize="13sp"
+            android:gravity="center"
+            />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#666666"/>
+        <TextView
+            android:id="@+id/tv_cancel"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:text="取消"
+            android:textColor="#F3301A"
+            android:textSize="20sp"
+            android:gravity="center"
+            />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#666666"/>
+        <TextView
+            android:id="@+id/tv_take_picture"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:text="拍照"
+            android:textColor="#0074F9"
+            android:textSize="20sp"
+            android:gravity="center"
+            />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#666666"/>
+        <TextView
+            android:id="@+id/tv_phono_album"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:text="相册"
+            android:textColor="#0074F9"
+            android:textSize="20sp"
+            android:gravity="center"
+            />
+
+
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,900 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:2:1-217:12
+	package
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:4:5-43
+		INJECTED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml
+		INJECTED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml
+		INJECTED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml
+		INJECTED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:9:5-81
+MERGED from [com.yanzhenjie:album:1.0.0] C:\Users\Administrator\.android\build-cache\d3e4c2f76ca213dd025bd3627a5e09ca7a7f6ff9\output\AndroidManifest.xml:11:5-81
+MERGED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:18:5-81
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\Administrator\.android\build-cache\0ea2ac124a1b289ab70bd1ab34b64cf5cc920374\output\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:10:5-80
+MERGED from [com.yanzhenjie:album:1.0.0] C:\Users\Administrator\.android\build-cache\d3e4c2f76ca213dd025bd3627a5e09ca7a7f6ff9\output\AndroidManifest.xml:10:5-80
+MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\Administrator\.android\build-cache\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\output\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.CAMERA
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:12:5-65
+MERGED from [com.yanzhenjie:album:1.0.0] C:\Users\Administrator\.android\build-cache\d3e4c2f76ca213dd025bd3627a5e09ca7a7f6ff9\output\AndroidManifest.xml:9:5-65
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\Administrator\.android\build-cache\0ea2ac124a1b289ab70bd1ab34b64cf5cc920374\output\AndroidManifest.xml:12:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:12:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:14:5-79
+MERGED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:16:5-76
+MERGED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:18:5-75
+MERGED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:18:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:24:5-76
+MERGED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:24:22-73
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:26:5-27:47
+	tools:ignore
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:27:9-44
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:26:22-81
+uses-permission#android.permission.VIBRATE
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:28:5-66
+MERGED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:28:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:29:5-68
+MERGED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:29:22-65
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:30:5-31:47
+	tools:ignore
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:31:9-44
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:30:22-70
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:32:5-69
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:32:22-66
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:33:5-81
+MERGED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:33:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:36:5-68
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:36:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:37:5-74
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:37:22-71
+application
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:39:5-215:19
+MERGED from [NewbigFitness:library:unspecified] E:\NewbigFitness\library\build\intermediates\bundles\default\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\Administrator\.android\build-cache\aaa418f1f71ec28055f90f63ef5bd5a25a2882e0\output\AndroidManifest.xml:22:5-20
+MERGED from [me.yokeyword:fragmentation:0.7.9] C:\Users\Administrator\.android\build-cache\b57a0315bfbbc99fea4e13bbdae05ce7f1f84fec\output\AndroidManifest.xml:9:5-12:19
+MERGED from [com.victor:lib:1.0.4] C:\Users\Administrator\.android\build-cache\95d9923b3759ee950f7553433575ab94bdf709e6\output\AndroidManifest.xml:11:5-14:19
+MERGED from [com.prolificinteractive:material-calendarview:1.4.0] C:\Users\Administrator\.android\build-cache\abf7c188f1f4af12ab80fb8e44e8e8727a866b7a\output\AndroidManifest.xml:12:5-20
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\Administrator\.android\build-cache\0a20b77bce7c362e3d0af2b02b2e2013b011fe77\output\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\Administrator\.android\build-cache\5224649571d4937d5b1daa4a87fc7eb3878f7be5\output\AndroidManifest.xml:11:5-15:19
+MERGED from [cn.jiguang.sdk:jcore:1.1.1] C:\Users\Administrator\.android\build-cache\bd612b48cda0a2fb3574f125c0aafb050f2ca0db\output\AndroidManifest.xml:11:5-12:19
+MERGED from [com.yanzhenjie:album:1.0.0] C:\Users\Administrator\.android\build-cache\d3e4c2f76ca213dd025bd3627a5e09ca7a7f6ff9\output\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support.test:runner:0.5] C:\Users\Administrator\.android\build-cache\640245c39686e9903a83cd729d3a0fbc38b406b8\output\AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] C:\Users\Administrator\.android\build-cache\4221717104748d43be10df709ee46b5903aa73f5\output\AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] C:\Users\Administrator\.android\build-cache\fd93f7db53c7ed29ae827b45ff63ac47c19e1138\output\AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\ed12bc4d75043748c378fc9d4026abae956993b7\output\AndroidManifest.xml:9:5-20
+MERGED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:32:5-82:19
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\Administrator\.android\build-cache\0ea2ac124a1b289ab70bd1ab34b64cf5cc920374\output\AndroidManifest.xml:14:5-26:19
+MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\Administrator\.android\build-cache\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\output\AndroidManifest.xml:13:5-34:19
+MERGED from [org.xutils:xutils:3.3.36] C:\Users\Administrator\.android\build-cache\4270fb1e4958fbd12528499ac8feeaa4d1a27772\output\AndroidManifest.xml:12:5-20
+MERGED from [com.lcodecorex:tkrefreshlayout:1.0.7] C:\Users\Administrator\.android\build-cache\121e0df06e04193b9fac27cb6f86800203f71bbb\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.jaeger.statusbarutil:library:1.4.0] C:\Users\Administrator\.android\build-cache\9017e53b4697cbb66347a1560e32348580663c2d\output\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\fac1e64b34affd092a574c0853246c0642929d58\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\a1cf38f149a80b04a3baf6a52525f5d9b5def9b8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\f260a7fae4aafb475f2b8b531d24e18f9f1f256b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Administrator\.android\build-cache\80837bd12ffd30dce16454a91f170002363d9ecd\output\AndroidManifest.xml:26:5-20
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:45:5-53:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\fa806f24a478369c4a3b1565ab2bab3ac0c66ced\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\cd27a3d40acedf60fd80638c064e258acaf289cb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\6f0dfbbdb060f01ecf4d2cb337910f1b5e222871\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\afc467b11e9ed725ed7a86a9905af2fa562afc0c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\10edda28c3c9cfd38ea377db69ca9c62877df808\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\e4a1f5699f03949432b728fcb469baaa55f67b6f\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:43:9-41
+	android:supportsRtl
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:45:9-35
+	android:launchMode
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:44:9-38
+	android:allowBackup
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:41:9-35
+	android:icon
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:42:9-34
+	android:theme
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:46:9-65
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:40:9-28
+	android:usesCleartextTraffic
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:32:18-53
+meta-data#channel
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:47:9-65
+	android:value
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:47:43-63
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:47:20-42
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.main.MainActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:48:9-50:15
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:49:13-49
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:48:19-65
+service#com.example.gufei.bigfitness.com.GuFei.Push.IntentService
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:92:8-64
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:92:17-61
+service#com.example.gufei.bigfitness.com.GuFei.Push.PushService
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:93:9-97:46
+	android:process
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:97:13-43
+	android:label
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:96:13-40
+	android:exported
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:95:13-36
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:94:13-55
+receiver#com.igexin.sdk.PushReceiver
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:101:9-111:20
+MERGED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:56:9-66:20
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:101:19-61
+intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.BOOT_COMPLETED+android.intent.action.MEDIA_MOUNTED+android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE+com.igexin.sdk.action.refreshls
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:102:13-110:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:103:17-79
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:103:25-76
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:104:17-79
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:104:25-76
+action#android.intent.action.USER_PRESENT
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:105:17-77
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:105:25-74
+action#com.igexin.sdk.action.refreshls
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:106:17-74
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:106:25-71
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:107:17-78
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:107:25-75
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:108:17-87
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:108:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:109:17-90
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:109:25-87
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Schedule.ScheduleActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:116:9-114
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:116:75-111
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:116:19-73
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.User.Login.LoginActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:117:9-113
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:117:74-110
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:117:19-72
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.User.welcome.WelcomeActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:118:9-124:20
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:118:78-114
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:118:19-76
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:119:13-123:29
+action#android.intent.action.MAIN
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:120:17-69
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:120:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:122:17-77
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:122:27-74
+activity#com.yanzhenjie.album.AlbumActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:125:9-131:75
+	android:label
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:129:13-31
+	android:windowSoftInputMode
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:131:13-72
+	android:configChanges
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:128:13-74
+	android:theme
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:130:13-69
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:127:13-62
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.User.Messages.MessagesListActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:132:9-123
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:132:84-120
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:132:19-82
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.AddressList.AddressDetails.AddressDetailsActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:134:9-138
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:134:99-135
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:134:19-97
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.User.MyCenter.seting.SetingActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:136:9-124
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:136:85-121
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:136:19-83
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.User.MyCenter.appraise.AppraiseActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:137:9-128
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:137:89-125
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:137:19-87
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.User.MyCenter.personainfo.PersonalInfoActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:138:9-139:38
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:138:96-132
+	android:exported
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:139:13-36
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:138:19-94
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.User.MyCenter.coach.CoachInfoActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:140:9-126
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:140:87-123
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:140:19-85
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.User.MyCenter.img_video_list.ImgVideoListActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:141:9-138
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:141:99-135
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:141:19-97
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.Record.FollowUpRecordActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:142:9-137
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:142:99-135
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:142:19-96
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.CustomerList.CustomerListActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:143:9-141
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:143:102-138
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:143:19-100
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.CustomerInfo.CustomerInfoCollectionActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:144:9-151
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:144:112-148
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:144:19-110
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.ReservationRecord.ReservationRecordActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:145:9-151
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:145:113-149
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:145:19-110
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.Main.CustomerMainActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:146:9-149:72
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:147:88-124
+	android:label
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:148:13-65
+	android:theme
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:149:13-69
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:147:13-86
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.GeneralComponent.Query.QueryActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:154:9-125
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:154:86-122
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:154:19-84
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.AddAppointment.AddAppointmentActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:156:9-145
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:156:106-142
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:156:19-104
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.AddFollow.AddFollowActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:157:9-135
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:157:96-132
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:157:19-94
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.TrainingPlan.Add.TrainingPlanAddActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:158:9-148
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:158:109-145
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:158:19-107
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.TrainingPlan.List.TrainingPlanListActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:159:9-150
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:159:112-148
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:159:19-109
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.SiteSelection.SiteSelectionActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:160:9-143
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:160:105-141
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:160:19-102
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Members.CourseAppointmentAdd.CourseAppointmentAddActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:161:9-146
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:161:107-143
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:161:19-105
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Members.AppointmentDetails.AppointmentDetailsActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:162:9-142
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:162:104-140
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:162:19-101
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Members.Course.List.CourseListActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:163:9-127
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:163:89-125
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:163:19-86
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Members.MedicalReportDocuments.MedicalReportDocumentsListActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:164:9-154
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:164:116-152
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:164:19-113
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.VideoPlayView.VideoPlayActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:165:9-120
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:165:82-118
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:165:19-79
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.User.MyCenter.img_video_list.ImageActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:166:9-131
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:166:92-128
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:166:19-90
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Filter.FilterListActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:167:9-114
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:167:76-112
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:167:19-73
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.PublicSea.List.PublicSeaListActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:168:9-125
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:168:87-123
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:168:19-84
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.PublicSea.searchlist.PublicSeaSearchListActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:169:9-137
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:169:99-135
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:169:19-96
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.AppointmentRecord.AppointmentRecordActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:170:9-151
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:170:113-149
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:170:19-110
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.PublicSea.Details.PublicSeaInfoActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:171:9-128
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:171:90-126
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:171:19-87
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Members.Main.MembersMainActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:172:9-121
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:172:83-119
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:172:19-80
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Members.Record.MembersFollowUpRecordActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:173:9-133
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:173:95-131
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:173:19-92
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Web.WebActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:174:9-104
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:174:66-102
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:174:19-63
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Members.MembersInfo.MembersInfoActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:175:9-128
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:175:90-126
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:175:19-87
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.AddCustomer.CustomerInfo.CustomerAddCollectionActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:176:9-162
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:176:124-160
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:176:19-121
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Members.AddReport.AddReportActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:177:9-124
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:177:86-122
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:177:19-83
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Members.LessonReportDocuments.LessonReportDocumentsListActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:178:9-152
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:178:114-150
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:178:19-111
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Members.LessonInfo.LessonInfoActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:179:9-126
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:179:87-123
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:179:19-85
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Members.Course.Details.CourseDetailsActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:180:9-133
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:180:95-131
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:180:19-92
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Members.Private.LessonInfo.LessonInfoPrivateActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:181:9-141
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:181:103-139
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:181:19-100
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Members.MembersInfoDetails.MembersInfoDetailsActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:182:9-142
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:182:104-140
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:182:19-101
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.EditCustomer.CustomerEditCollectionActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:183:9-151
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:183:113-149
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:183:19-110
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Members.AddAppointment.AddMebersAppointmentActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:184:9-140
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:184:102-138
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:184:19-99
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Members.cardlist.CardListActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:185:9-122
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:185:83-119
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:185:19-81
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Members.cardinfo.CardInfoActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:186:9-122
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:186:84-120
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:186:19-81
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Members.cardinfo.TimeCard.TimeCardInfoActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:187:9-135
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:187:97-133
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:187:19-94
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Members.ReservationRecord.ReservationRecordMembersActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:188:9-147
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:188:109-145
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:188:19-106
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Members.AppointmentRecord.MembersAppointmentRecordActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:189:9-147
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:189:109-145
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:189:19-106
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Members.EditAppointment.EditMebersAppointmentActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:190:9-142
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:190:104-140
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:190:19-101
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Members.AddFollow.AddMembersFollowActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:191:9-131
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:191:93-129
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:191:19-90
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Members.LessonList.LessonListActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:192:9-126
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:192:88-124
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:192:19-85
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Schedule.activity.ListActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:193:9-119
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:193:81-117
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:193:19-78
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Schedule.ScheduleAddAppointment.ScheduleAddAppointmentActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:194:9-151
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:194:112-148
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:194:19-110
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Scan.ScanActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:195:9-106
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:195:68-104
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:195:19-65
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Schedule.ReservationRecord.ReservationRecordScheduleActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:196:9-149
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:196:111-147
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:196:19-108
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Schedule.AddAppointment.AddAppointmentScheduleActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:197:9-143
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:197:104-140
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:197:19-102
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Members.TeacherFilter.TeacherFilterListActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:198:9-136
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:198:98-134
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:198:19-95
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.About.AboutActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:199:9-108
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:199:70-106
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:199:19-67
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Charts.ChartsMainActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:200:9-114
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:200:76-112
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:200:19-73
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Charts.Main2Activity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:201:9-109
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:201:71-107
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:201:19-68
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.Charts.List.ChartsListActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:202:9-119
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:202:81-117
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:202:19-78
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.LessonInfoDetails.PrivateLessson.PrivateLesssonActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:203:9-163
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:203:125-161
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:203:19-122
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.CustomerManagement.LessonInfoDetails.GroupLesson.GroupLesssonActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:204:9-158
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:204:120-156
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:204:19-117
+activity#com.example.gufei.bigfitness.com.GuFei.Ui.CustomScanActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:205:9-106
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:205:68-104
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:205:19-66
+uses-sdk
+INJECTED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [io.realm:realm-android-library:2.1.1] C:\Users\Administrator\.android\build-cache\310f9e72b627d4585a2f4af12697b4b3a775dbc9\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] C:\Users\Administrator\.android\build-cache\46936c0c0f2982fa1fcfed30a9c38ba1d37b6dd3\output\AndroidManifest.xml:7:5-43
+MERGED from [NewbigFitness:pickerview:unspecified] E:\NewbigFitness\pickerview\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [NewbigFitness:library:unspecified] E:\NewbigFitness\library\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\Administrator\.android\build-cache\aaa418f1f71ec28055f90f63ef5bd5a25a2882e0\output\AndroidManifest.xml:20:5-43
+MERGED from [com.github.hotchemi:permissionsdispatcher:2.3.1] C:\Users\Administrator\.android\build-cache\9a2d614c244c80561302a963ab5b091bb22a1148\output\AndroidManifest.xml:6:5-9:55
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\Administrator\.android\build-cache\1acdf75d4fb7c91d43f8d902cdaf00eaf597b499\output\AndroidManifest.xml:5:5-43
+MERGED from [com.orhanobut:logger:1.15] C:\Users\Administrator\.android\build-cache\b891993044f4a6fa02e82295ae650681f364aa8b\output\AndroidManifest.xml:6:5-43
+MERGED from [me.yokeyword:fragmentation:0.7.9] C:\Users\Administrator\.android\build-cache\b57a0315bfbbc99fea4e13bbdae05ce7f1f84fec\output\AndroidManifest.xml:5:5-7:41
+MERGED from [net.danlew:android.joda:2.9.4.1] C:\Users\Administrator\.android\build-cache\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\output\AndroidManifest.xml:6:5-43
+MERGED from [com.victor:lib:1.0.4] C:\Users\Administrator\.android\build-cache\95d9923b3759ee950f7553433575ab94bdf709e6\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.prolificinteractive:material-calendarview:1.4.0] C:\Users\Administrator\.android\build-cache\abf7c188f1f4af12ab80fb8e44e8e8727a866b7a\output\AndroidManifest.xml:8:5-10:41
+MERGED from [net.opacapp:multiline-collapsingtoolbar:1.2.2] C:\Users\Administrator\.android\build-cache\e0899055bb6a52068dd9008e5194f158747e5d62\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\Administrator\.android\build-cache\0a20b77bce7c362e3d0af2b02b2e2013b011fe77\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jude:rollviewpager:1.4.5] C:\Users\Administrator\.android\build-cache\59c71a32d172e373e646c9a55cd0993d8a2a1dbe\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\Administrator\.android\build-cache\5224649571d4937d5b1daa4a87fc7eb3878f7be5\output\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.jiguang.sdk:jcore:1.1.1] C:\Users\Administrator\.android\build-cache\bd612b48cda0a2fb3574f125c0aafb050f2ca0db\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.yanzhenjie:album:1.0.0] C:\Users\Administrator\.android\build-cache\d3e4c2f76ca213dd025bd3627a5e09ca7a7f6ff9\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.test.espresso:espresso-core:2.2.2] C:\Users\Administrator\.android\build-cache\ff3d567668bd62fbe409518baaadcdc13bb4edd4\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:rules:0.5] C:\Users\Administrator\.android\build-cache\a43695d6317ae80e924b1572c231739458f6a9ac\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.test:runner:0.5] C:\Users\Administrator\.android\build-cache\640245c39686e9903a83cd729d3a0fbc38b406b8\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] C:\Users\Administrator\.android\build-cache\4221717104748d43be10df709ee46b5903aa73f5\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] C:\Users\Administrator\.android\build-cache\fd93f7db53c7ed29ae827b45ff63ac47c19e1138\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\ed12bc4d75043748c378fc9d4026abae956993b7\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:7:5-9:41
+MERGED from [jp.wasabeef:glide-transformations:2.0.0] C:\Users\Administrator\.android\build-cache\1d8733383ed8b331357b33a47c82260d551e4bd8\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\Administrator\.android\build-cache\0ea2ac124a1b289ab70bd1ab34b64cf5cc920374\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.soundcloud.android.crop:lib_crop:1.0.0] C:\Users\Administrator\.android\build-cache\7dde7fa3e6ad7be31118ed48a20ccb5cec88b64b\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\Administrator\.android\build-cache\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\output\AndroidManifest.xml:7:5-9:41
+MERGED from [me.shaohui.advancedluban:library:1.3.2] C:\Users\Administrator\.android\build-cache\13783f1e5171ea26ac0af95ca99ebd8ffbc2b8e9\output\AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\Administrator\.android\build-cache\01a8488bf0808e151e6767762d6107bab7c06df8\output\AndroidManifest.xml:19:5-43
+MERGED from [org.xutils:xutils:3.3.36] C:\Users\Administrator\.android\build-cache\4270fb1e4958fbd12528499ac8feeaa4d1a27772\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.lcodecorex:tkrefreshlayout:1.0.7] C:\Users\Administrator\.android\build-cache\121e0df06e04193b9fac27cb6f86800203f71bbb\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.zhy:autolayout:1.4.5] C:\Users\Administrator\.android\build-cache\0eb19a36e70d77d1dd6de500189ec332117a54c8\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.jaeger.statusbarutil:library:1.4.0] C:\Users\Administrator\.android\build-cache\9017e53b4697cbb66347a1560e32348580663c2d\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\fac1e64b34affd092a574c0853246c0642929d58\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\a1cf38f149a80b04a3baf6a52525f5d9b5def9b8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\f260a7fae4aafb475f2b8b531d24e18f9f1f256b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\d94cea2c0578f281b3d22b01ada3e1ab21e38f26\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Administrator\.android\build-cache\80837bd12ffd30dce16454a91f170002363d9ecd\output\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\fa806f24a478369c4a3b1565ab2bab3ac0c66ced\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\cd27a3d40acedf60fd80638c064e258acaf289cb\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\6f0dfbbdb060f01ecf4d2cb337910f1b5e222871\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\afc467b11e9ed725ed7a86a9905af2fa562afc0c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\10edda28c3c9cfd38ea377db69ca9c62877df808\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\e4a1f5699f03949432b728fcb469baaa55f67b6f\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.github.hotchemi:permissionsdispatcher:2.3.1] C:\Users\Administrator\.android\build-cache\9a2d614c244c80561302a963ab5b091bb22a1148\output\AndroidManifest.xml:9:9-52
+	android:targetSdkVersion
+		INJECTED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml
+		INJECTED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml
+		INJECTED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\Administrator\.android\build-cache\5224649571d4937d5b1daa4a87fc7eb3878f7be5\output\AndroidManifest.xml:12:9-14:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\Administrator\.android\build-cache\5224649571d4937d5b1daa4a87fc7eb3878f7be5\output\AndroidManifest.xml:14:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\Administrator\.android\build-cache\5224649571d4937d5b1daa4a87fc7eb3878f7be5\output\AndroidManifest.xml:13:13-84
+uses-permission#android.permission.GET_TASKS
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:20:22-65
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:23:5-78
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:23:22-75
+uses-permission#getui.permission.GetuiService.${applicationId}
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:26:5-86
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:26:22-83
+permission#getui.permission.GetuiService.${applicationId}
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:28:5-30:44
+	android:protectionLevel
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:30:9-41
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:29:9-70
+meta-data#PUSH_APPID
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:35:9-37:47
+	android:value
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:36:13-38
+meta-data#PUSH_APPKEY
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:38:9-40:48
+	android:value
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:39:13-39
+meta-data#PUSH_APPSECRET
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:41:9-43:51
+	android:value
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:43:13-48
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:42:13-42
+service#com.igexin.sdk.PushService
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:46:9-54:19
+	android:process
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:50:13-43
+	android:label
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:49:13-47
+	android:exported
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:48:13-36
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:47:13-54
+intent-filter#com.igexin.sdk.action.service.message
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:51:13-53:29
+action#com.igexin.sdk.action.service.message
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:52:17-80
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:52:25-77
+activity#com.igexin.sdk.PushActivity
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:68:9-74:75
+	android:process
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:72:13-43
+	android:excludeFromRecents
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:70:13-46
+	android:exported
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:71:13-37
+	android:theme
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:74:13-72
+	android:taskAffinity
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:73:13-67
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:69:13-55
+activity#com.igexin.sdk.GActivity
+ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:75:9-81:75
+	android:process
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:79:13-43
+	android:excludeFromRecents
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:77:13-46
+	android:exported
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:78:13-36
+	android:theme
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:81:13-72
+	android:taskAffinity
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:80:13-67
+	android:name
+		ADDED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:76:13-52
+activity#com.soundcloud.android.crop.CropImageActivity
+ADDED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\Administrator\.android\build-cache\0ea2ac124a1b289ab70bd1ab34b64cf5cc920374\output\AndroidManifest.xml:15:9-82
+	android:name
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\Administrator\.android\build-cache\0ea2ac124a1b289ab70bd1ab34b64cf5cc920374\output\AndroidManifest.xml:15:19-79
+provider#android.support.v4.content.FileProvider
+ADDED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\Administrator\.android\build-cache\0ea2ac124a1b289ab70bd1ab34b64cf5cc920374\output\AndroidManifest.xml:17:9-25:20
+	android:authorities
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\Administrator\.android\build-cache\0ea2ac124a1b289ab70bd1ab34b64cf5cc920374\output\AndroidManifest.xml:19:13-64
+	android:grantUriPermissions
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\Administrator\.android\build-cache\0ea2ac124a1b289ab70bd1ab34b64cf5cc920374\output\AndroidManifest.xml:21:13-47
+	android:exported
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\Administrator\.android\build-cache\0ea2ac124a1b289ab70bd1ab34b64cf5cc920374\output\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\Administrator\.android\build-cache\0ea2ac124a1b289ab70bd1ab34b64cf5cc920374\output\AndroidManifest.xml:18:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\Administrator\.android\build-cache\0ea2ac124a1b289ab70bd1ab34b64cf5cc920374\output\AndroidManifest.xml:22:13-24:54
+	android:resource
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\Administrator\.android\build-cache\0ea2ac124a1b289ab70bd1ab34b64cf5cc920374\output\AndroidManifest.xml:24:17-51
+	android:name
+		ADDED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\Administrator\.android\build-cache\0ea2ac124a1b289ab70bd1ab34b64cf5cc920374\output\AndroidManifest.xml:23:17-67
+activity#com.darsh.multipleimageselect.activities.AlbumSelectActivity
+ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\Administrator\.android\build-cache\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\output\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\Administrator\.android\build-cache\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\output\AndroidManifest.xml:19:13-45
+	android:configChanges
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\Administrator\.android\build-cache\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\output\AndroidManifest.xml:18:13-59
+	android:theme
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\Administrator\.android\build-cache\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\output\AndroidManifest.xml:20:13-60
+	android:name
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\Administrator\.android\build-cache\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\output\AndroidManifest.xml:17:13-88
+intent-filter#android.intent.category.DEFAULT
+ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\Administrator\.android\build-cache\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\output\AndroidManifest.xml:21:13-23:29
+category#android.intent.category.DEFAULT
+ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\Administrator\.android\build-cache\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\output\AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\Administrator\.android\build-cache\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\output\AndroidManifest.xml:22:27-73
+activity#com.darsh.multipleimageselect.activities.ImageSelectActivity
+ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\Administrator\.android\build-cache\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\output\AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\Administrator\.android\build-cache\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\output\AndroidManifest.xml:28:13-45
+	android:configChanges
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\Administrator\.android\build-cache\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\output\AndroidManifest.xml:27:13-59
+	android:theme
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\Administrator\.android\build-cache\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\output\AndroidManifest.xml:29:13-60
+	android:name
+		ADDED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\Administrator\.android\build-cache\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\output\AndroidManifest.xml:26:13-88
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\fac1e64b34affd092a574c0853246c0642929d58\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\a1cf38f149a80b04a3baf6a52525f5d9b5def9b8\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\f260a7fae4aafb475f2b8b531d24e18f9f1f256b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\d94cea2c0578f281b3d22b01ada3e1ab21e38f26\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Administrator\.android\build-cache\80837bd12ffd30dce16454a91f170002363d9ecd\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\fa806f24a478369c4a3b1565ab2bab3ac0c66ced\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\cd27a3d40acedf60fd80638c064e258acaf289cb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\6f0dfbbdb060f01ecf4d2cb337910f1b5e222871\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\afc467b11e9ed725ed7a86a9905af2fa562afc0c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\10edda28c3c9cfd38ea377db69ca9c62877df808\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\e4a1f5699f03949432b728fcb469baaa55f67b6f\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\fac1e64b34affd092a574c0853246c0642929d58\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\fac1e64b34affd092a574c0853246c0642929d58\output\AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:25:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:33:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:36:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:39:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:42:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:46:9-52:63
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:48:13-45
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:49:13-56
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:50:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:52:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.3.0] C:\Users\Administrator\.android\build-cache\260b7483274dc87e6709c1386a566c2d7737a48a\output\AndroidManifest.xml:47:13-74

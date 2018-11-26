@@ -1,0 +1,994 @@
+[
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\charts_index1.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\charts_index1.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_record_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_record_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_custom_scan.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_custom_scan.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_booking__member_details.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_booking__member_details.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_album_select.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\\output\\res\\layout\\activity_album_select.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_image_select.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\\output\\res\\layout\\activity_image_select.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\pop_add_follow_appointent.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\pop_add_follow_appointent.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_training_plan_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_training_plan_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\list_activity_messages.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\list_activity_messages.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_filter_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_filter_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\view_toolbar_title.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\view_toolbar_title.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\change_pwd_view.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\change_pwd_view.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\list_activity_address.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\list_activity_address.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_record_lesson_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_record_lesson_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\topbar.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\topbar.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_test_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_test_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_base_application.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_base_application.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\message.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\view_spinner.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\view_spinner.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\fragment_training_plan_list_history.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\fragment_training_plan_list_history.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_training_plan_add.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_training_plan_add.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_publicseasearchlis.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_publicseasearchlis.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_training_plan_add.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_training_plan_add.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\pop_view_members_screening.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\pop_view_members_screening.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_appointment_course_add.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_appointment_course_add.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\album_activity_toolbar_album.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d3e4c2f76ca213dd025bd3627a5e09ca7a7f6ff9\\output\\res\\layout\\album_activity_toolbar_album.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_site_selection.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_site_selection.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_class_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_class_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0a20b77bce7c362e3d0af2b02b2e2013b011fe77\\output\\res\\layout\\search_view.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\fac1e64b34affd092a574c0853246c0642929d58\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\item_pop.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\item_pop.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_customer_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_customer_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_test_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_test_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\horizontal_exp_calendar.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\horizontal_exp_calendar.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\zxing_capture.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\260b7483274dc87e6709c1386a566c2d7737a48a\\output\\res\\layout\\zxing_capture.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\fac1e64b34affd092a574c0853246c0642929d58\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\album_item_album_dialog_folder.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d3e4c2f76ca213dd025bd3627a5e09ca7a7f6ff9\\output\\res\\layout\\album_item_album_dialog_folder.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_cardlist.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_cardlist.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\animate_view.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\animate_view.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\view_toolbar.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\view_toolbar.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\content_edit_view.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\content_edit_view.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_report_add.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_report_add.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_publicsea_member_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_publicsea_member_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_schedule_appointment_add.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_schedule_appointment_add.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_activity_follow_up_record.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_activity_follow_up_record.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_appointment_add.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_appointment_add.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\album_item_album_content_button.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d3e4c2f76ca213dd025bd3627a5e09ca7a7f6ff9\\output\\res\\layout\\album_item_album_content_button.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\page_view.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\page_view.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_course_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_course_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\my_camera.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\my_camera.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\include_pickerview_topbar.xml",
+        "source": "E:\\NewbigFitness\\pickerview\\build\\intermediates\\bundles\\default\\res\\layout\\include_pickerview_topbar.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_appraise_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_appraise_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\album_dialog_album_floder.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d3e4c2f76ca213dd025bd3627a5e09ca7a7f6ff9\\output\\res\\layout\\album_dialog_album_floder.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_main_nothing.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_main_nothing.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\\output\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\pop_view_publicsea_screening.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\pop_view_publicsea_screening.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\fragment_null.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\fragment_null.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\fragment_mon.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\fragment_mon.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_image.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_image.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_activity_appointment_up_record.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_activity_appointment_up_record.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_appointment_main.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_appointment_main.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\fragment_day.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\fragment_day.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_training_plan_list_top.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_training_plan_list_top.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_training_plan_add_history.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_training_plan_add_history.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_main_charts.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_main_charts.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\fac1e64b34affd092a574c0853246c0642929d58\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_charts_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_charts_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_web.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_web.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\fac1e64b34affd092a574c0853246c0642929d58\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\view_certificate.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\view_certificate.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_messgaes_main.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_messgaes_main.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\pop_view_publicsea_thrown.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\pop_view_publicsea_thrown.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_booking_details.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_booking_details.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_card_details_documents_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_card_details_documents_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_video_play.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_video_play.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_about.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\card_appointment_main.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\card_appointment_main.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_lessoninfo_private.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_lessoninfo_private.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\list_activity_charts.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\list_activity_charts.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_booking_details.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_booking_details.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_select_list_fragent.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_select_list_fragent.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_customer_main.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_customer_main.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\label_cell_view.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\label_cell_view.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\layout_basepickerview.xml",
+        "source": "E:\\NewbigFitness\\pickerview\\build\\intermediates\\bundles\\default\\res\\layout\\layout_basepickerview.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_lesson_details_documents_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_lesson_details_documents_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\pop_view_class_record_screening.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\pop_view_class_record_screening.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_publicsea_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_publicsea_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_messgaes_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_messgaes_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_scan.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_scan.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\pickerview_charts_mon_time.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\pickerview_charts_mon_time.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\pickerview_time.xml",
+        "source": "E:\\NewbigFitness\\pickerview\\build\\intermediates\\bundles\\default\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\fragment_index4.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\fragment_index4.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\layout_item.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\layout_item.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\fac1e64b34affd092a574c0853246c0642929d58\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_coach_info.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_coach_info.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_address_details.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_address_details.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\pop_view_customer_screening.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\pop_view_customer_screening.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\pickerview_charts_day_time.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\pickerview_charts_day_time.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_follow_add.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_follow_add.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\view_bezier.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\121e0df06e04193b9fac27cb6f86800203f71bbb\\output\\res\\layout\\view_bezier.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\fragment_schedule_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\fragment_schedule_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\view_comer.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\view_comer.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_appointment_details.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_appointment_details.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_publicsea_list_bbbbbbbbbbbb.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_publicsea_list_bbbbbbbbbbbb.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_details_lesson_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_details_lesson_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_lesson_private_details_documents_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_lesson_private_details_documents_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_lessoninfo_group.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_lessoninfo_group.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\list_activity_customer.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\list_activity_customer.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\fragment_week.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\fragment_week.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\grid_view_item_album_select.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\\output\\res\\layout\\grid_view_item_album_select.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_appraise.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_appraise.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\loading.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\item_edit_pop.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\item_edit_pop.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\list_follow_up_record.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\list_follow_up_record.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\view_toolbar_btn_fragment.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\view_toolbar_btn_fragment.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\pickerview_custom_time.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\pickerview_custom_time.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\item_tab_layout.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\item_tab_layout.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_schedule.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_schedule.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\item_phone_item.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\item_phone_item.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\view_customer_event.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\view_customer_event.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\pop_view_notice.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\pop_view_notice.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\pop_view_private_members_screening.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\pop_view_private_members_screening.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\fac1e64b34affd092a574c0853246c0642929d58\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\grid_view_item_image_select.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\\output\\res\\layout\\grid_view_item_image_select.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_members_info.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_members_info.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_training_plan_list_plus.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_training_plan_list_plus.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\pickerview_options.xml",
+        "source": "E:\\NewbigFitness\\pickerview\\build\\intermediates\\bundles\\default\\res\\layout\\pickerview_options.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\newton_cradle_loading.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95d9923b3759ee950f7553433575ab94bdf709e6\\output\\res\\layout\\newton_cradle_loading.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\pop_view_publicsea_gain.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\pop_view_publicsea_gain.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\pop_view_giving_screening.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\pop_view_giving_screening.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\fragment_index3.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\fragment_index3.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\view_toolbar_btn.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\view_toolbar_btn.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\fac1e64b34affd092a574c0853246c0642929d58\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\list_activity_img_video.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\list_activity_img_video.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_query.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_query.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\pop_view_charts_teacher_screening.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\pop_view_charts_teacher_screening.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\card_appointment_mon.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\card_appointment_mon.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\item_phone_title.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\item_phone_title.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\card_schedule_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\card_schedule_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_main2.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\getui_notification.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\\output\\res\\layout\\getui_notification.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_personal_info.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_personal_info.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_charts_mon_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_charts_mon_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_customer_info_collection.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_customer_info_collection.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\fac1e64b34affd092a574c0853246c0642929d58\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_login.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_filter_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_filter_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\fac1e64b34affd092a574c0853246c0642929d58\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\suggest_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0a20b77bce7c362e3d0af2b02b2e2013b011fe77\\output\\res\\layout\\suggest_item.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_site_selection.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_site_selection.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_card_time_details_documents_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_card_time_details_documents_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_reservation_record.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_reservation_record.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\fac1e64b34affd092a574c0853246c0642929d58\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\dialog_setting_head_imag.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\dialog_setting_head_imag.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\fac1e64b34affd092a574c0853246c0642929d58\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\content_select_list_fragent.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\content_select_list_fragent.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_seting.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_seting.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\day_cell_view.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\day_cell_view.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\fragment_training_plan_list_today.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\fragment_training_plan_list_today.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_publicsealist.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_publicsealist.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_details_charts_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_details_charts_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\content_customer_main.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\content_customer_main.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\view_loading.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\view_loading.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\view_spinner_edit.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\view_spinner_edit.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\view_toolbar_spinner.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\view_toolbar_spinner.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\view_customer_into_highseas.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\view_customer_into_highseas.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_training_plan_list_null.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_training_plan_list_null.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\album_dialog_album_preview.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d3e4c2f76ca213dd025bd3627a5e09ca7a7f6ff9\\output\\res\\layout\\album_dialog_album_preview.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\pop_view_add_action.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\pop_view_add_action.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\view_sinaheader.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\121e0df06e04193b9fac27cb6f86800203f71bbb\\output\\res\\layout\\view_sinaheader.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\book_loading.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95d9923b3759ee950f7553433575ab94bdf709e6\\output\\res\\layout\\book_loading.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_training_plan_list_line.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_training_plan_list_line.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\item_footer.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\item_footer.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\fac1e64b34affd092a574c0853246c0642929d58\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\zxing_barcode_scanner.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\260b7483274dc87e6709c1386a566c2d7737a48a\\output\\res\\layout\\zxing_barcode_scanner.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_course_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_course_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_multimedia_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_multimedia_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\pop_view_charts_screening.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\pop_view_charts_screening.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\mark_cell_view.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\mark_cell_view.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\crop__activity_crop.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7dde7fa3e6ad7be31118ed48a20ccb5cec88b64b\\output\\res\\layout\\crop__activity_crop.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\fac1e64b34affd092a574c0853246c0642929d58\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\album_activity_album.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d3e4c2f76ca213dd025bd3627a5e09ca7a7f6ff9\\output\\res\\layout\\album_activity_album.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\pop_view_add_action_num.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\pop_view_add_action_num.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_members_main.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_members_main.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_my_center_main.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_my_center_main.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\view_toolbar_main.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\view_toolbar_main.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_medical_report_documents_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_medical_report_documents_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_welcome.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_second.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\fragment_index.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\fragment_index.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\list_members_follow_up_record.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\list_members_follow_up_record.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\footview.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\footview.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\layout_toast.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\layout_toast.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_lesson_report_documents_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_lesson_report_documents_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\album_item_album_content_image.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d3e4c2f76ca213dd025bd3627a5e09ca7a7f6ff9\\output\\res\\layout\\album_item_album_content_image.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_course_details.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_course_details.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_site_list.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_site_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\item_tab_charts_layout.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\item_tab_charts_layout.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\spinnerlayout.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\spinnerlayout.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\fragment_index1.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\fragment_index1.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\pop_view_non_customer_screening.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\pop_view_non_customer_screening.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_publuic_customer_info.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_publuic_customer_info.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\fac1e64b34affd092a574c0853246c0642929d58\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_customer_add_collection.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_customer_add_collection.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\crop__layout_done_cancel.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7dde7fa3e6ad7be31118ed48a20ccb5cec88b64b\\output\\res\\layout\\crop__layout_done_cancel.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_members_info_details.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_members_info_details.xml"
+    }
+]

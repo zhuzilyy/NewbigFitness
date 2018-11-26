@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\NewbigFitness\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9390ef679554b70853e62b9d10375cb3173ee23">
+        <dex dex="E:\NewbigFitness\BigFitness\build\intermediates\transforms\dex\debug\folders\1000\4\classes_c2aeeb7b81636faa3370f9bc593c774a47978fa6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\NewbigFitness\pickerview\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76510e79440c09c591be16483d136a06a83de021">
+        <dex dex="E:\NewbigFitness\BigFitness\build\intermediates\transforms\dex\debug\folders\1000\4\classes_61563854b19e6474b1429779d72ce8077a879c2c\classes.dex" />
+    </item>
+
+</items>

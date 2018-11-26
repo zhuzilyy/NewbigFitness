@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\shape_corner.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\shape_corner.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\text_round_rect.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\text_round_rect.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\text_round_rect_4.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\text_round_rect_4.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\item_layer_shape.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\item_layer_shape.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\shape_switch.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\shape_switch.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\text_round_rect_3.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\text_round_rect_3.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\shape_search.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\shape_search.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\thumb.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\thumb.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\sex_select_blue.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\sex_select_blue.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\rounded_edittext.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\rounded_edittext.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\ic_error.png",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\ic_error.png"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\bg.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\text_round_rect_2.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\text_round_rect_2.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\sex_checkbox.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\sex_checkbox.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\text_round_rect_5.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\text_round_rect_5.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\shape_three_shadow.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\shape_three_shadow.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\crop__texture.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7dde7fa3e6ad7be31118ed48a20ccb5cec88b64b\\output\\res\\drawable\\crop__texture.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\shape_btn_unclick.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\shape_btn_unclick.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\sex_select_red.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\sex_select_red.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\mark_custom1.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\mark_custom1.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\fac1e64b34affd092a574c0853246c0642929d58\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\fac1e64b34affd092a574c0853246c0642929d58\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\anim_loading_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\121e0df06e04193b9fac27cb6f86800203f71bbb\\output\\res\\drawable\\anim_loading_view.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\fac1e64b34affd092a574c0853246c0642929d58\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\loading_bg.9.png",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\loading_bg.9.png"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\gray_thumb.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\gray_thumb.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\edit_search.png",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\edit_search.png"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\mark_custom2.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\mark_custom2.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\text_round_rect_6.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\text_round_rect_6.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\btn_click_red_havebackground.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\btn_click_red_havebackground.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\background_with_shadow.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\background_with_shadow.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\checked.png",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\checked.png"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\sex_selected.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\sex_selected.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\gray_track.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\gray_track.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\shape_linearlayout.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\shape_linearlayout.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\mark_selected.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\mark_selected.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\seachview_border.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\seachview_border.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\sex_select_non_customer.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\sex_select_non_customer.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\track.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\track.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\signingray.png",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\signingray.png"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\sex_checkbox_red.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\sex_checkbox_red.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\fac1e64b34affd092a574c0853246c0642929d58\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\sex_select_non.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\sex_select_non.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\shape_button.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\shape_button.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\signingreen.png",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\signingreen.png"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\scan_image.png",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\scan_image.png"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\sex_checkbox_blue.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\sex_checkbox_blue.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\crop__selectable_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7dde7fa3e6ad7be31118ed48a20ccb5cec88b64b\\output\\res\\drawable\\crop__selectable_background.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\ic_exception.png",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\ic_exception.png"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\login_shape.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\login_shape.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\color_cursor_white.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0a20b77bce7c362e3d0af2b02b2e2013b011fe77\\output\\res\\drawable\\color_cursor_white.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\fac1e64b34affd092a574c0853246c0642929d58\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\text_round_rect_1.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\text_round_rect_1.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\textedit_layer_shape.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\textedit_layer_shape.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\mark_today.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\mark_today.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\image_placeholder.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\\output\\res\\drawable\\image_placeholder.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\shape_comer.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\shape_comer.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\checkbox.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\checkbox.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\shape_toast_layout.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\shape_toast_layout.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\checkbox_style.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\checkbox_style.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\selector_pickerview_btn.xml",
+        "source": "E:\\NewbigFitness\\pickerview\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_pickerview_btn.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\unchecked.png",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\unchecked.png"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\mark_custom3.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\mark_custom3.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\btn_click_black_havebackground.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\btn_click_black_havebackground.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\shape_logout.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\shape_logout.xml"
+    }
+]

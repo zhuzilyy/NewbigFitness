@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="dimension" name="borderRadius"/>
+    <attr name="type">
+        <enum name="circle" value="0"/>
+        <enum name="round" value="1"/>
+    </attr>
+    <color name="cpb_default_color">#33b5e5</color>
+    <declare-styleable name="NGHorizontalScrollCursor">
+        <attr format="integer" name="space"/>
+        <attr format="color" name="cursorcolor"/>
+    </declare-styleable>
+    <declare-styleable name="RoundImageView">
+        <attr name="borderRadius"/>
+        <attr name="type"/>
+    </declare-styleable>
+    <declare-styleable name="StrokeTextView">
+        <attr format="color|reference" name="outerColor"/>
+        <attr format="color|reference" name="innnerColor"/>
+    </declare-styleable>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="cpb_default_stroke_width">4dp</dimen>
+    <integer name="cpb_default_max_sweep_angle">300</integer>
+    <integer name="cpb_default_min_sweep_angle">20</integer>
+</resources>

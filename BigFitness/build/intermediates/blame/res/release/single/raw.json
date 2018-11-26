@@ -1,0 +1,1938 @@
+[
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_brunei",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_brunei"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_kolkata",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_kolkata"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_yekaterinburg",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_yekaterinburg"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_gibraltar",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_gibraltar"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_mogadishu",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_mogadishu"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmt_4",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmt_4"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_guayaquil",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_guayaquil"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_merida",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_merida"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_recife",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_recife"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_atlantic_jan_mayen",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_atlantic_jan_mayen"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_phoenix",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_phoenix"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_antarctica_syowa",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_antarctica_syowa"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_guam",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_guam"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_algiers",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_algiers"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_australia_lindeman",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_australia_lindeman"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_wallis",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_wallis"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_juba",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_juba"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_argentina_cordoba",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_argentina_cordoba"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_aqtobe",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_aqtobe"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_ensenada",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_ensenada"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmt_5",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmt_5"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_met",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_met"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_lagos",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_lagos"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_santarem",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_santarem"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_stockholm",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_stockholm"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_maputo",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_maputo"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_tarawa",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_tarawa"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_chuuk",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_chuuk"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_jayapura",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_jayapura"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_taipei",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_taipei"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_inuvik",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_inuvik"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_singapore",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_singapore"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_fakaofo",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_fakaofo"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_mexico_city",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_mexico_city"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_godthab",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_godthab"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_indiana_indianapolis",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_indiana_indianapolis"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_bangkok",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_bangkok"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_boise",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_boise"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmt_2",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmt_2"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_argentina_salta",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_argentina_salta"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_astrakhan",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_astrakhan"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_dushanbe",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_dushanbe"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_rarotonga",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_rarotonga"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmt_3",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmt_3"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_wet",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_wet"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_luanda",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_luanda"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_mbabane",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_mbabane"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_argentina_san_juan",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_argentina_san_juan"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_detroit",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_detroit"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_whitehorse",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_whitehorse"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_palau",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_palau"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_argentina_rio_gallegos",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_argentina_rio_gallegos"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_managua",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_managua"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_ouagadougou",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_ouagadougou"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmtplus10",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmtplus10"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_montevideo",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_montevideo"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_damascus",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_damascus"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_antarctica_dumontdurville",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_antarctica_dumontdurville"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_bishkek",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_bishkek"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_rome",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_rome"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_argentina_jujuy",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_argentina_jujuy"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_rosario",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_rosario"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_krasnoyarsk",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_krasnoyarsk"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_gaza",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_gaza"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_australia_lord_howe",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_australia_lord_howe"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_bogota",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_bogota"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmt_1",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmt_1"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_luxembourg",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_luxembourg"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_dar_es_salaam",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_dar_es_salaam"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_vienna",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_vienna"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_aqtau",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_aqtau"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_atlantic_bermuda",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_atlantic_bermuda"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmtplus11",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmtplus11"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_montreal",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_montreal"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_san_marino",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_san_marino"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_khartoum",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_khartoum"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_berlin",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_berlin"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_mst",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_mst"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_menominee",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_menominee"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_lusaka",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_lusaka"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_bissau",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_bissau"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_tirane",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_tirane"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_nipigon",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_nipigon"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_kralendijk",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_kralendijk"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_kabul",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_kabul"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_omsk",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_omsk"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_athens",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_athens"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pst8pdt",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pst8pdt"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_choibalsan",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_choibalsan"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_wake",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_wake"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_port_au_prince",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_port_au_prince"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_aruba",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_aruba"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_fortaleza",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_fortaleza"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_tegucigalpa",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_tegucigalpa"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_argentina_la_rioja",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_argentina_la_rioja"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_sao_paulo",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_sao_paulo"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_regina",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_regina"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_ndjamena",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_ndjamena"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_indiana_winamac",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_indiana_winamac"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_antarctica_palmer",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_antarctica_palmer"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_indian_mahe",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_indian_mahe"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_bahia_banderas",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_bahia_banderas"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_coral_harbour",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_coral_harbour"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_santo_domingo",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_santo_domingo"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_makassar",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_makassar"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_asuncion",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_asuncion"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_cet",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_cet"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_denver",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_denver"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_araguaina",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_araguaina"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_beirut",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_beirut"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_kathmandu",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_kathmandu"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_malta",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_malta"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_norfolk",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_norfolk"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_australia_hobart",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_australia_hobart"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_anguilla",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_anguilla"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_brussels",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_brussels"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_mazatlan",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_mazatlan"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_paris",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_paris"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_yakutsk",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_yakutsk"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_indiana_tell_city",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_indiana_tell_city"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_oslo",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_oslo"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_freetown",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_freetown"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_barnaul",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_barnaul"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_minsk",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_minsk"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_istanbul",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_istanbul"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_los_angeles",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_los_angeles"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_argentina_buenos_aires",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_argentina_buenos_aires"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_bucharest",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_bucharest"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_ljubljana",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_ljubljana"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_st_vincent",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_st_vincent"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_bratislava",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_bratislava"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_bangui",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_bangui"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_gaborone",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_gaborone"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_saipan",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_saipan"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\keep.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\\output\\res\\raw\\keep.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_tbilisi",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_tbilisi"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_jakarta",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_jakarta"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_kosrae",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_kosrae"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_resolute",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_resolute"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_eet",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_eet"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_scoresbysund",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_scoresbysund"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_vladivostok",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_vladivostok"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_yellowknife",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_yellowknife"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_el_aaiun",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_el_aaiun"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_guyana",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_guyana"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_pontianak",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_pontianak"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_bujumbura",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_bujumbura"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_swift_current",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_swift_current"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmt_11",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmt_11"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_guadeloupe",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_guadeloupe"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmtplus12",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmtplus12"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_karachi",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_karachi"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_qyzylorda",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_qyzylorda"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_andorra",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_andorra"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_baku",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_baku"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_atlantic_st_helena",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_atlantic_st_helena"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_sitka",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_sitka"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_kamchatka",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_kamchatka"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_cst6cdt",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_cst6cdt"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_chisinau",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_chisinau"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_phnom_penh",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_phnom_penh"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_irkutsk",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_irkutsk"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_asmara",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_asmara"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_seoul",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_seoul"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_indiana_vevay",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_indiana_vevay"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmt_10",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmt_10"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_auckland",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_auckland"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_pohnpei",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_pohnpei"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_lisbon",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_lisbon"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_funafuti",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_funafuti"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_arctic_longyearbyen",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_arctic_longyearbyen"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_midway",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_midway"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_johannesburg",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_johannesburg"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_jamaica",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_jamaica"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_guernsey",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_guernsey"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_podgorica",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_podgorica"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_juneau",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_juneau"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_est",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_est"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_chatham",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_chatham"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_belize",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_belize"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_tunis",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_tunis"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_utc",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_utc"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_thimphu",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_thimphu"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmt_13",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmt_13"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_australia_darwin",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_australia_darwin"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_fort_nelson",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_fort_nelson"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_vancouver",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_vancouver"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_north_dakota_new_salem",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_north_dakota_new_salem"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_antarctica_rothera",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_antarctica_rothera"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_pyongyang",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_pyongyang"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_lubumbashi",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_lubumbashi"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_indian_christmas",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_indian_christmas"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmt_8",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmt_8"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_riyadh",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_riyadh"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_panama",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_panama"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_indian_reunion",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_indian_reunion"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_bahia",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_bahia"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_australia_currie",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_australia_currie"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_dakar",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_dakar"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_dawson_creek",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_dawson_creek"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_maceio",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_maceio"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_montserrat",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_montserrat"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_zurich",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_zurich"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_australia_broken_hill",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_australia_broken_hill"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_ho_chi_minh",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_ho_chi_minh"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_lima",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_lima"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_yakutat",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_yakutat"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_st_lucia",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_st_lucia"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_isle_of_man",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_isle_of_man"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmt_12",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmt_12"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_casablanca",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_casablanca"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_kentucky_monticello",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_kentucky_monticello"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_new_york",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_new_york"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_australia_sydney",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_australia_sydney"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmt_9",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmt_9"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_hebron",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_hebron"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_thule",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_thule"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_zagreb",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_zagreb"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_dhaka",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_dhaka"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_dublin",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_dublin"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmt_6",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmt_6"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_tiraspol",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_tiraspol"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_belgrade",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_belgrade"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_australia_perth",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_australia_perth"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_tripoli",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_tripoli"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_kaliningrad",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_kaliningrad"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_chungking",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_chungking"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_cayenne",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_cayenne"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_cambridge_bay",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_cambridge_bay"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_marquesas",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_marquesas"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_conakry",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_conakry"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_argentina_comodrivadavia",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_argentina_comodrivadavia"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_indiana_marengo",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_indiana_marengo"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_tallinn",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_tallinn"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_kuwait",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_kuwait"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_moscow",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_moscow"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_north_dakota_beulah",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_north_dakota_beulah"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_dili",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_dili"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_honolulu",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_honolulu"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_moncton",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_moncton"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmt_14",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmt_14"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_argentina_mendoza",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_argentina_mendoza"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_winnipeg",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_winnipeg"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_tongatapu",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_tongatapu"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_paramaribo",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_paramaribo"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_barbados",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_barbados"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmt_7",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmt_7"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_atlantic_azores",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_atlantic_azores"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_tel_aviv",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_tel_aviv"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_almaty",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_almaty"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmtplus6",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmtplus6"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_muscat",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_muscat"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_timbuktu",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_timbuktu"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_australia_melbourne",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_australia_melbourne"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_antarctica_vostok",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_antarctica_vostok"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_kiev",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_kiev"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_apia",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_apia"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_johnston",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_johnston"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_novosibirsk",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_novosibirsk"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_rankin_inlet",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_rankin_inlet"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_australia_adelaide",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_australia_adelaide"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_metlakatla",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_metlakatla"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_australia_eucla",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_australia_eucla"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_rangoon",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_rangoon"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_london",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_london"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_tokyo",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_tokyo"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\zxing_beep.ogg",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\260b7483274dc87e6709c1386a566c2d7737a48a\\output\\res\\raw\\zxing_beep.ogg"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_bougainville",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_bougainville"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_tahiti",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_tahiti"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmtplus5",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmtplus5"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_pangnirtung",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_pangnirtung"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_dubai",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_dubai"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_est5edt",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_est5edt"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_ojinaga",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_ojinaga"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_tashkent",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_tashkent"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_grenada",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_grenada"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmt",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmt"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_khandyga",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_khandyga"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_prague",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_prague"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_kashgar",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_kashgar"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_novokuznetsk",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_novokuznetsk"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_srednekolymsk",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_srednekolymsk"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_tijuana",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_tijuana"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmtplus4",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmtplus4"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_pitcairn",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_pitcairn"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_niue",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_niue"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_argentina_ushuaia",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_argentina_ushuaia"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_indiana_knox",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_indiana_knox"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_monterrey",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_monterrey"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_adak",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_adak"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_glace_bay",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_glace_bay"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_oral",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_oral"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_nairobi",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_nairobi"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_uct",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_uct"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_nauru",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_nauru"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_atlantic_stanley",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_atlantic_stanley"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_zaporozhye",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_zaporozhye"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmtplus3",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmtplus3"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_danmarkshavn",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_danmarkshavn"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_keep.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_keep.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_monaco",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_monaco"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_manaus",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_manaus"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_copenhagen",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_copenhagen"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_kentucky_louisville",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_kentucky_louisville"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_hovd",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_hovd"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_amman",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_amman"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_indian_antananarivo",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_indian_antananarivo"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_tortola",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_tortola"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_noumea",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_noumea"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_marigot",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_marigot"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_port_moresby",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_port_moresby"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_indiana_petersburg",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_indiana_petersburg"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_antarctica_davis",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_antarctica_davis"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_indian_chagos",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_indian_chagos"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmtplus2",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmtplus2"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_ashgabat",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_ashgabat"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_hong_kong",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_hong_kong"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_galapagos",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_galapagos"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_qatar",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_qatar"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_eirunepe",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_eirunepe"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_hanoi",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_hanoi"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_atlantic_south_georgia",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_atlantic_south_georgia"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_pago_pago",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_pago_pago"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_madrid",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_madrid"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_monrovia",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_monrovia"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_kinshasa",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_kinshasa"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_libreville",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_libreville"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_goose_bay",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_goose_bay"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_urumqi",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_urumqi"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_harbin",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_harbin"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_windhoek",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_windhoek"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_atlantic_reykjavik",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_atlantic_reykjavik"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_indian_kerguelen",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_indian_kerguelen"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_easter",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_easter"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_anadyr",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_anadyr"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_douala",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_douala"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_cuiaba",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_cuiaba"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmtplus9",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmtplus9"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_indian_mauritius",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_indian_mauritius"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_bamako",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_bamako"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_banjul",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_banjul"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_ulyanovsk",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_ulyanovsk"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_anchorage",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_anchorage"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_jerusalem",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_jerusalem"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_lower_princes",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_lower_princes"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_zoneinfomap",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_zoneinfomap"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_ulaanbaatar",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_ulaanbaatar"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_ceuta",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_ceuta"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_accra",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_accra"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_chongqing",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_chongqing"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_sofia",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_sofia"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_kuching",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_kuching"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_argentina_san_luis",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_argentina_san_luis"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_cairo",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_cairo"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_budapest",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_budapest"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_maseru",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_maseru"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_shanghai",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_shanghai"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_creston",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_creston"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_kigali",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_kigali"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_chicago",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_chicago"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmtplus8",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmtplus8"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_vilnius",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_vilnius"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_nicosia",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_nicosia"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_helsinki",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_helsinki"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_antarctica_troll",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_antarctica_troll"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_porto_novo",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_porto_novo"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_st_kitts",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_st_kitts"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_antarctica_mawson",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_antarctica_mawson"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_majuro",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_majuro"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_argentina_catamarca",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_argentina_catamarca"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmtplus7",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmtplus7"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_st_johns",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_st_johns"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_antarctica_macquarie",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_antarctica_macquarie"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_curacao",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_curacao"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_istanbul",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_istanbul"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_brazzaville",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_brazzaville"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_lome",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_lome"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_asmera",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_asmera"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_volgograd",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_volgograd"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_harare",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_harare"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_havana",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_havana"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_chihuahua",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_chihuahua"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_warsaw",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_warsaw"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_chita",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_chita"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_boa_vista",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_boa_vista"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_dawson",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_dawson"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_matamoros",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_matamoros"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_macau",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_macau"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_efate",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_efate"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_nome",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_nome"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_sakhalin",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_sakhalin"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_noronha",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_noronha"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_miquelon",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_miquelon"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_samara",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_samara"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_indian_mayotte",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_indian_mayotte"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_edmonton",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_edmonton"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_skopje",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_skopje"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_st_thomas",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_st_thomas"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_samarkand",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_samarkand"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_sarajevo",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_sarajevo"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_kirov",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_kirov"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_hermosillo",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_hermosillo"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_vaduz",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_vaduz"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_nassau",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_nassau"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_la_paz",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_la_paz"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_bahrain",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_bahrain"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_port_of_spain",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_port_of_spain"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_busingen",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_busingen"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_simferopol",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_simferopol"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_antarctica_mcmurdo",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_antarctica_mcmurdo"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_antigua",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_antigua"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_north_dakota_center",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_north_dakota_center"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_costa_rica",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_costa_rica"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_indiana_vincennes",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_indiana_vincennes"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_st_barthelemy",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_st_barthelemy"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_santiago",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_santiago"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_enderbury",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_enderbury"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_mariehamn",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_mariehamn"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_antarctica_south_pole",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_antarctica_south_pole"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_caracas",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_caracas"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_tehran",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_tehran"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_jersey",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_jersey"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_hst",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_hst"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_sao_tome",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_sao_tome"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_yerevan",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_yerevan"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_dominica",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_dominica"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_kuala_lumpur",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_kuala_lumpur"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_vatican",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_vatican"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_belem",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_belem"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_malabo",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_malabo"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_blantyre",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_blantyre"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_argentina_tucuman",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_argentina_tucuman"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_djibouti",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_djibouti"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_rio_branco",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_rio_branco"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_porto_velho",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_porto_velho"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_atlantic_faroe",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_atlantic_faroe"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_el_salvador",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_el_salvador"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_aden",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_aden"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_nicosia",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_nicosia"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_atikokan",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_atikokan"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_nouakchott",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_nouakchott"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_belfast",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_belfast"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_atlantic_cape_verde",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_atlantic_cape_verde"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_colombo",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_colombo"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_etc_gmtplus1",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_etc_gmtplus1"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_australia_brisbane",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_australia_brisbane"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_kampala",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_kampala"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_fiji",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_fiji"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_indian_cocos",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_indian_cocos"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_thunder_bay",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_thunder_bay"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_grand_turk",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_grand_turk"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_antarctica_casey",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_antarctica_casey"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_guatemala",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_guatemala"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_baghdad",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_baghdad"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_halifax",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_halifax"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_campo_grande",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_campo_grande"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_ust_nera",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_ust_nera"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_manila",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_manila"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_atlantic_canary",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_atlantic_canary"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_indian_comoro",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_indian_comoro"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_magadan",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_magadan"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_iqaluit",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_iqaluit"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_mst7mdt",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_mst7mdt"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_cayman",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_cayman"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_tomsk",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_tomsk"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_uzhgorod",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_uzhgorod"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_asia_vientiane",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_asia_vientiane"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_amsterdam",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_amsterdam"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_rainy_river",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_rainy_river"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_blanc_sablon",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_blanc_sablon"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_niamey",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_niamey"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_gambier",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_gambier"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_abidjan",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_abidjan"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_puerto_rico",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_puerto_rico"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_indian_maldives",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_indian_maldives"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_atlantic_madeira",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_atlantic_madeira"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_europe_riga",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_europe_riga"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_kwajalein",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_kwajalein"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_africa_addis_ababa",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_africa_addis_ababa"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_guadalcanal",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_guadalcanal"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_martinique",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_martinique"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_toronto",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_toronto"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_pacific_kiritimati",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_pacific_kiritimati"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\raw\\joda_america_cancun",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\raw\\joda_america_cancun"
+    }
+]

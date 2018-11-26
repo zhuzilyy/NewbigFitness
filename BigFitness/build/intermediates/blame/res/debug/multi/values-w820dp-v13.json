@@ -1,0 +1,205 @@
+[
+    {
+        "outputFile": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\values-w820dp\\attr.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 51,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endLine": 6,
+                    "endColumn": 11,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\values-w820dp\\attr.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endLine": 7,
+                        "endColumn": 11,
+                        "endOffset": 226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 220,
+                    "endColumn": 51,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\values-w820dp\\defaults.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 719,
+                        "endColumn": 51,
+                        "endOffset": 766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endLine": 11,
+                    "endColumn": 24,
+                    "endOffset": 444
+                },
+                "from": {
+                    "file": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\values-w820dp\\attr.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 379,
+                        "endLine": 18,
+                        "endColumn": 24,
+                        "endOffset": 554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 449,
+                    "endLine": 15,
+                    "endColumn": 24,
+                    "endOffset": 579
+                },
+                "from": {
+                    "file": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\values-w820dp\\attr.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endLine": 13,
+                        "endColumn": 24,
+                        "endOffset": 371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 584,
+                    "endLine": 19,
+                    "endColumn": 24,
+                    "endOffset": 769
+                },
+                "from": {
+                    "file": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\values-w820dp\\attr.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 579,
+                        "endLine": 24,
+                        "endColumn": 24,
+                        "endOffset": 769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 774,
+                    "endColumn": 57,
+                    "endOffset": 827
+                },
+                "from": {
+                    "file": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 57,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 832,
+                    "endColumn": 54,
+                    "endOffset": 882
+                },
+                "from": {
+                    "file": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\values-w820dp\\defaults.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 772,
+                        "endColumn": 54,
+                        "endOffset": 822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 887,
+                    "endColumn": 61,
+                    "endOffset": 944
+                },
+                "from": {
+                    "file": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\values-w820dp\\defaults.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 890,
+                        "endColumn": 61,
+                        "endOffset": 947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 949,
+                    "endColumn": 60,
+                    "endOffset": 1005
+                },
+                "from": {
+                    "file": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\values-w820dp\\defaults.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 828,
+                        "endColumn": 60,
+                        "endOffset": 884
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,976 @@
+[
+    {
+        "outputFile": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fa\\values-fa.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 150,
+                    "endLine": 5,
+                    "endColumn": 14,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endLine": 5,
+                        "endColumn": 14,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endLine": 9,
+                    "endColumn": 14,
+                    "endOffset": 648
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 353,
+                        "endLine": 9,
+                        "endColumn": 14,
+                        "endOffset": 603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 653,
+                    "endLine": 13,
+                    "endColumn": 14,
+                    "endOffset": 906
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 608,
+                        "endLine": 13,
+                        "endColumn": 14,
+                        "endOffset": 861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 911,
+                    "endLine": 17,
+                    "endColumn": 14,
+                    "endOffset": 1165
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 866,
+                        "endLine": 17,
+                        "endColumn": 14,
+                        "endOffset": 1120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1170,
+                    "endLine": 21,
+                    "endColumn": 14,
+                    "endOffset": 1416
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1125,
+                        "endLine": 21,
+                        "endColumn": 14,
+                        "endOffset": 1371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1421,
+                    "endLine": 25,
+                    "endColumn": 14,
+                    "endOffset": 1674
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1376,
+                        "endLine": 25,
+                        "endColumn": 14,
+                        "endOffset": 1629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1679,
+                    "endLine": 29,
+                    "endColumn": 14,
+                    "endOffset": 1935
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1634,
+                        "endLine": 29,
+                        "endColumn": 14,
+                        "endOffset": 1890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1940,
+                    "endLine": 33,
+                    "endColumn": 14,
+                    "endOffset": 2197
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1895,
+                        "endLine": 33,
+                        "endColumn": 14,
+                        "endOffset": 2152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2202,
+                    "endLine": 37,
+                    "endColumn": 14,
+                    "endOffset": 2441
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2157,
+                        "endLine": 37,
+                        "endColumn": 14,
+                        "endOffset": 2396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2446,
+                    "endLine": 41,
+                    "endColumn": 14,
+                    "endOffset": 2689
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2401,
+                        "endLine": 41,
+                        "endColumn": 14,
+                        "endOffset": 2644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2694,
+                    "endLine": 45,
+                    "endColumn": 14,
+                    "endOffset": 2937
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2649,
+                        "endLine": 45,
+                        "endColumn": 14,
+                        "endOffset": 2892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2942,
+                    "endLine": 49,
+                    "endColumn": 14,
+                    "endOffset": 3178
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2897,
+                        "endLine": 49,
+                        "endColumn": 14,
+                        "endOffset": 3133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3183,
+                    "endLine": 53,
+                    "endColumn": 14,
+                    "endOffset": 3425
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3138,
+                        "endLine": 53,
+                        "endColumn": 14,
+                        "endOffset": 3380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3430,
+                    "endLine": 57,
+                    "endColumn": 14,
+                    "endOffset": 3677
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 3385,
+                        "endLine": 57,
+                        "endColumn": 14,
+                        "endOffset": 3632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3682,
+                    "endLine": 61,
+                    "endColumn": 14,
+                    "endOffset": 3929
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3637,
+                        "endLine": 61,
+                        "endColumn": 14,
+                        "endOffset": 3884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3934,
+                    "endLine": 65,
+                    "endColumn": 14,
+                    "endOffset": 4172
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3889,
+                        "endLine": 65,
+                        "endColumn": 14,
+                        "endOffset": 4127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4177,
+                    "endLine": 69,
+                    "endColumn": 14,
+                    "endOffset": 4423
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 4132,
+                        "endLine": 69,
+                        "endColumn": 14,
+                        "endOffset": 4378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4428,
+                    "endLine": 73,
+                    "endColumn": 14,
+                    "endOffset": 4678
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 4383,
+                        "endLine": 73,
+                        "endColumn": 14,
+                        "endOffset": 4633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 4683,
+                    "endLine": 77,
+                    "endColumn": 14,
+                    "endOffset": 4933
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 4638,
+                        "endLine": 77,
+                        "endColumn": 14,
+                        "endOffset": 4888
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 4938,
+                    "endColumn": 109,
+                    "endOffset": 5043
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 109,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5048,
+                    "endColumn": 109,
+                    "endOffset": 5153
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 109,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5158,
+                    "endColumn": 125,
+                    "endOffset": 5279
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 125,
+                        "endOffset": 396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5284,
+                    "endColumn": 102,
+                    "endOffset": 5382
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 401,
+                        "endColumn": 102,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 5387,
+                    "endColumn": 110,
+                    "endOffset": 5493
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 504,
+                        "endColumn": 110,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5498,
+                    "endColumn": 83,
+                    "endOffset": 5577
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 615,
+                        "endColumn": 83,
+                        "endOffset": 694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 5582,
+                    "endColumn": 102,
+                    "endOffset": 5680
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 699,
+                        "endColumn": 102,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 5685,
+                    "endColumn": 114,
+                    "endOffset": 5795
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endColumn": 114,
+                        "endOffset": 912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 5800,
+                    "endColumn": 78,
+                    "endOffset": 5874
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 917,
+                        "endColumn": 78,
+                        "endOffset": 991
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 5879,
+                    "endColumn": 77,
+                    "endOffset": 5952
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 996,
+                        "endColumn": 77,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 5957,
+                    "endColumn": 80,
+                    "endOffset": 6033
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1074,
+                        "endColumn": 80,
+                        "endOffset": 1150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 6038,
+                    "endColumn": 111,
+                    "endOffset": 6145
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1155,
+                        "endColumn": 111,
+                        "endOffset": 1262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 6150,
+                    "endColumn": 102,
+                    "endOffset": 6248
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1267,
+                        "endColumn": 102,
+                        "endOffset": 1365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 6253,
+                    "endColumn": 97,
+                    "endOffset": 6346
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1370,
+                        "endColumn": 97,
+                        "endOffset": 1463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 6351,
+                    "endColumn": 109,
+                    "endOffset": 6456
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1468,
+                        "endColumn": 109,
+                        "endOffset": 1573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 6461,
+                    "endColumn": 102,
+                    "endOffset": 6559
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1578,
+                        "endColumn": 102,
+                        "endOffset": 1676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 6564,
+                    "endColumn": 108,
+                    "endOffset": 6668
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1681,
+                        "endColumn": 108,
+                        "endOffset": 1785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 6673,
+                    "endColumn": 124,
+                    "endOffset": 6793
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1790,
+                        "endColumn": 124,
+                        "endOffset": 1910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 6798,
+                    "endColumn": 100,
+                    "endOffset": 6894
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1915,
+                        "endColumn": 100,
+                        "endOffset": 2011
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 6899,
+                    "endColumn": 71,
+                    "endOffset": 6966
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\7dde7fa3e6ad7be31118ed48a20ccb5cec88b64b\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 71,
+                        "endOffset": 167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 6971,
+                    "endColumn": 44,
+                    "endOffset": 7011
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\7dde7fa3e6ad7be31118ed48a20ccb5cec88b64b\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 172,
+                        "endColumn": 44,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 7016,
+                    "endColumn": 65,
+                    "endOffset": 7077
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\7dde7fa3e6ad7be31118ed48a20ccb5cec88b64b\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 65,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 7082,
+                    "endColumn": 58,
+                    "endOffset": 7136
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\7dde7fa3e6ad7be31118ed48a20ccb5cec88b64b\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 58,
+                        "endOffset": 337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 7141,
+                    "endColumn": 57,
+                    "endOffset": 7194
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\7dde7fa3e6ad7be31118ed48a20ccb5cec88b64b\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 342,
+                        "endColumn": 57,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 7199,
+                    "endColumn": 67,
+                    "endOffset": 7262
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 4893,
+                        "endColumn": 67,
+                        "endOffset": 4956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 7267,
+                    "endColumn": 127,
+                    "endOffset": 7390
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 4961,
+                        "endColumn": 127,
+                        "endOffset": 5084
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 7395,
+                    "endColumn": 127,
+                    "endOffset": 7518
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 5089,
+                        "endColumn": 127,
+                        "endOffset": 5212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 7523,
+                    "endColumn": 150,
+                    "endOffset": 7669
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\13e51e7c8cd6f9bdc01098364fc68506f3b69ad9\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 5217,
+                        "endColumn": 150,
+                        "endOffset": 5363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 7674,
+                    "endColumn": 80,
+                    "endOffset": 7750
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2016,
+                        "endColumn": 80,
+                        "endOffset": 2092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 7755,
+                    "endColumn": 100,
+                    "endOffset": 7851
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\values-fa\\values-fa.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2097,
+                        "endColumn": 100,
+                        "endOffset": 2193
+                    }
+                }
+            }
+        ]
+    }
+]
