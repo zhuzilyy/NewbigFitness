@@ -62,8 +62,6 @@ public class PersonalInfoActivityPresenter extends RxPresenter<PersonalInfoActiv
     @Override
     public void getUserInfo(int userid, String token) {
 
-
-
         Subscription subscription = api.getUserInfo(userid,token)
 
                 .compose(RxUtil.<UserInfo>rxSchedulerHelper())
