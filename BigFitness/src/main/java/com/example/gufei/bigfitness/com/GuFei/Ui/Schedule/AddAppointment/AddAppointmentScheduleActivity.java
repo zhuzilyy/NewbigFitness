@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
+import android.text.TextUtils;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
@@ -27,6 +28,7 @@ import com.example.gufei.bigfitness.com.GuFei.Ui.Filter.FilterListActivity;
 import com.example.gufei.bigfitness.com.GuFei.Ui.User.Login.LoginActivity;
 import com.example.gufei.bigfitness.util.SharedPreferenceUtil;
 import com.example.gufei.bigfitness.util.SpUtil;
+import com.example.gufei.bigfitness.util.TestUtlis;
 import com.google.gson.Gson;
 //import com.uuzuche.lib_zxing.activity.CodeUtils;
 
@@ -667,8 +669,11 @@ public class AddAppointmentScheduleActivity extends BaseActivity<AddAppointmentS
                     }else {
                         AppointmentTypeId1 = Integer.valueOf(AppointmentTypeId);
                     }
-                    if (AppointmentId.equals("0")){
-                        AppointmentId = null;
+
+                    if(!TextUtils.isEmpty(AppointmentId)){
+                        if (AppointmentId.equals("0")){
+                            AppointmentId = null;
+                        }
                     }
                     mPresenter.saveMemberAppiontment(UserName,
                             UserId,

@@ -266,7 +266,6 @@ public class AddressListFragMent extends BaseFragment<AddressListFragMentPresent
                                           int i1, int i2) {
 
             }
-
             @Override
             public void onTextChanged(CharSequence charSequence, int i, int i1,
                                       int i2) {
@@ -368,9 +367,6 @@ public class AddressListFragMent extends BaseFragment<AddressListFragMentPresent
         refresh_layout.setOnRefreshListener(new RefreshListenerAdapter(){
             @Override
             public void onRefresh(final TwinklingRefreshLayout refreshLayout) {
-
-
-
                 int userid = (int) SpUtil.get(mContext, USERIDKEY, 0);
 
                 String token = (String) SpUtil.get(mContext, TOKENKEY, "");

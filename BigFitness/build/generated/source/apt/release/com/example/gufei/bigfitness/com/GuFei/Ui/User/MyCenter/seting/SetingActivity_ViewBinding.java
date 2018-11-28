@@ -18,11 +18,11 @@ import java.lang.Override;
 public class SetingActivity_ViewBinding<T extends SetingActivity> implements Unbinder {
   protected T target;
 
-  private View view2131821172;
-
   private View view2131821173;
 
   private View view2131821174;
+
+  private View view2131821175;
 
   @UiThread
   public SetingActivity_ViewBinding(final T target, View source) {
@@ -33,7 +33,7 @@ public class SetingActivity_ViewBinding<T extends SetingActivity> implements Unb
     target.toolbar = Utils.findRequiredViewAsType(source, R.id.toolbar, "field 'toolbar'", Toolbar.class);
     view = Utils.findRequiredView(source, R.id.change_password_btn, "field 'changePasswordBtn' and method 'onViewClicked'");
     target.changePasswordBtn = Utils.castView(view, R.id.change_password_btn, "field 'changePasswordBtn'", TextView.class);
-    view2131821172 = view;
+    view2131821173 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -42,7 +42,7 @@ public class SetingActivity_ViewBinding<T extends SetingActivity> implements Unb
     });
     view = Utils.findRequiredView(source, R.id.about_btn, "field 'aboutBtn' and method 'onViewClicked'");
     target.aboutBtn = Utils.castView(view, R.id.about_btn, "field 'aboutBtn'", TextView.class);
-    view2131821173 = view;
+    view2131821174 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -51,7 +51,7 @@ public class SetingActivity_ViewBinding<T extends SetingActivity> implements Unb
     });
     view = Utils.findRequiredView(source, R.id.login_out_btn, "field 'loginOutBtn' and method 'onViewClicked'");
     target.loginOutBtn = Utils.castView(view, R.id.login_out_btn, "field 'loginOutBtn'", Button.class);
-    view2131821174 = view;
+    view2131821175 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -74,12 +74,12 @@ public class SetingActivity_ViewBinding<T extends SetingActivity> implements Unb
     target.loginOutBtn = null;
     target.activityAddressDetails = null;
 
-    view2131821172.setOnClickListener(null);
-    view2131821172 = null;
     view2131821173.setOnClickListener(null);
     view2131821173 = null;
     view2131821174.setOnClickListener(null);
     view2131821174 = null;
+    view2131821175.setOnClickListener(null);
+    view2131821175 = null;
 
     this.target = null;
   }

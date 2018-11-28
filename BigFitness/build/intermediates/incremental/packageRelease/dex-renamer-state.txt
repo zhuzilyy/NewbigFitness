@@ -1,4 +1,4 @@
-#Fri Nov 02 17:27:31 CST 2018
+#Wed Nov 28 14:48:11 CST 2018
 base.0=E\:\\NewbigFitness\\BigFitness\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
 renamed.1=classes2.dex
 renamed.0=classes.dex

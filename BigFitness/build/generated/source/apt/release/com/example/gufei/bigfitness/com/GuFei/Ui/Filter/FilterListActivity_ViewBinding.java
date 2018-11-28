@@ -8,6 +8,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.Button;
 import android.widget.SearchView;
+import android.widget.TextView;
 import butterknife.Unbinder;
 import butterknife.internal.DebouncingOnClickListener;
 import butterknife.internal.Utils;
@@ -18,7 +19,7 @@ import java.lang.Override;
 public class FilterListActivity_ViewBinding<T extends FilterListActivity> implements Unbinder {
   protected T target;
 
-  private View view2131820977;
+  private View view2131820978;
 
   @UiThread
   public FilterListActivity_ViewBinding(final T target, View source) {
@@ -30,13 +31,14 @@ public class FilterListActivity_ViewBinding<T extends FilterListActivity> implem
     target.toolbar = Utils.findRequiredViewAsType(source, R.id.toolbar, "field 'toolbar'", Toolbar.class);
     view = Utils.findRequiredView(source, R.id.btn_complete, "field 'btnComplete' and method 'onViewClicked'");
     target.btnComplete = Utils.castView(view, R.id.btn_complete, "field 'btnComplete'", Button.class);
-    view2131820977 = view;
+    view2131820978 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
         target.onViewClicked();
       }
     });
+    target.tv_nodata = Utils.findRequiredViewAsType(source, R.id.tv_nodata, "field 'tv_nodata'", TextView.class);
   }
 
   @Override
@@ -49,9 +51,10 @@ public class FilterListActivity_ViewBinding<T extends FilterListActivity> implem
     target.searchView = null;
     target.toolbar = null;
     target.btnComplete = null;
+    target.tv_nodata = null;
 
-    view2131820977.setOnClickListener(null);
-    view2131820977 = null;
+    view2131820978.setOnClickListener(null);
+    view2131820978 = null;
 
     this.target = null;
   }

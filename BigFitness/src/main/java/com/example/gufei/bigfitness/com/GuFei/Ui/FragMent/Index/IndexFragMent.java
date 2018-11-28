@@ -185,11 +185,7 @@ public class IndexFragMent extends BaseFragment<IndexFragMentPresenter> implemen
     private int userid;
     private String token;
     private int clubid;
-
-
     private List<MainMsgBean.ResultBean> datas = new ArrayList<MainMsgBean.ResultBean>();
-
-
     @Override
     public void onAttach(Context context) {
         mActivity = (Activity) context;

@@ -30,7 +30,7 @@ public class AddAppointmentScheduleActivity_ViewBinding<T extends AddAppointment
 
   private View view2131820767;
 
-  private View view2131821167;
+  private View view2131821168;
 
   private View view2131820757;
 
@@ -38,7 +38,7 @@ public class AddAppointmentScheduleActivity_ViewBinding<T extends AddAppointment
 
   private View view2131820783;
 
-  private View view2131821163;
+  private View view2131821164;
 
   private View view2131820758;
 
@@ -102,7 +102,7 @@ public class AddAppointmentScheduleActivity_ViewBinding<T extends AddAppointment
     target.layoutTrainingPlan = Utils.findRequiredViewAsType(source, R.id.layout_training_plan, "field 'layoutTrainingPlan'", LinearLayout.class);
     view = Utils.findRequiredView(source, R.id.layout_course_type, "field 'layoutCourseType' and method 'onViewClicked'");
     target.layoutCourseType = Utils.castView(view, R.id.layout_course_type, "field 'layoutCourseType'", LinearLayout.class);
-    view2131821167 = view;
+    view2131821168 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -151,7 +151,7 @@ public class AddAppointmentScheduleActivity_ViewBinding<T extends AddAppointment
     target.memberText = Utils.findRequiredViewAsType(source, R.id.member_text, "field 'memberText'", TextView.class);
     view = Utils.findRequiredView(source, R.id.member_btn, "field 'memberBtn' and method 'onViewClicked'");
     target.memberBtn = Utils.castView(view, R.id.member_btn, "field 'memberBtn'", RelativeLayout.class);
-    view2131821163 = view;
+    view2131821164 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -218,16 +218,16 @@ public class AddAppointmentScheduleActivity_ViewBinding<T extends AddAppointment
     view2131820776 = null;
     view2131820767.setOnClickListener(null);
     view2131820767 = null;
-    view2131821167.setOnClickListener(null);
-    view2131821167 = null;
+    view2131821168.setOnClickListener(null);
+    view2131821168 = null;
     view2131820757.setOnClickListener(null);
     view2131820757 = null;
     view2131820780.setOnClickListener(null);
     view2131820780 = null;
     view2131820783.setOnClickListener(null);
     view2131820783 = null;
-    view2131821163.setOnClickListener(null);
-    view2131821163 = null;
+    view2131821164.setOnClickListener(null);
+    view2131821164 = null;
     view2131820758.setOnClickListener(null);
     view2131820758 = null;
 

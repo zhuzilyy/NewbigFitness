@@ -18,11 +18,11 @@ import java.lang.Override;
 public class LoginActivity_ViewBinding<T extends LoginActivity> implements Unbinder {
   protected T target;
 
-  private View view2131821055;
+  private View view2131821056;
 
-  private View view2131821058;
+  private View view2131821059;
 
-  private View view2131821053;
+  private View view2131821054;
 
   @UiThread
   public LoginActivity_ViewBinding(final T target, View source) {
@@ -33,7 +33,7 @@ public class LoginActivity_ViewBinding<T extends LoginActivity> implements Unbin
     target.password = Utils.findRequiredViewAsType(source, R.id.password, "field 'password'", EditText.class);
     view = Utils.findRequiredView(source, R.id.invisible_password, "field 'invisiblePassword' and method 'onClick'");
     target.invisiblePassword = Utils.castView(view, R.id.invisible_password, "field 'invisiblePassword'", ImageView.class);
-    view2131821055 = view;
+    view2131821056 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -42,7 +42,7 @@ public class LoginActivity_ViewBinding<T extends LoginActivity> implements Unbin
     });
     view = Utils.findRequiredView(source, R.id.remberCheckBox, "field 'remberCheckBox' and method 'onClick'");
     target.remberCheckBox = Utils.castView(view, R.id.remberCheckBox, "field 'remberCheckBox'", CheckBox.class);
-    view2131821058 = view;
+    view2131821059 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -51,7 +51,7 @@ public class LoginActivity_ViewBinding<T extends LoginActivity> implements Unbin
     });
     view = Utils.findRequiredView(source, R.id.login_btn, "field 'loginBtn' and method 'onClick'");
     target.loginBtn = Utils.castView(view, R.id.login_btn, "field 'loginBtn'", Button.class);
-    view2131821053 = view;
+    view2131821054 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -72,12 +72,12 @@ public class LoginActivity_ViewBinding<T extends LoginActivity> implements Unbin
     target.remberCheckBox = null;
     target.loginBtn = null;
 
-    view2131821055.setOnClickListener(null);
-    view2131821055 = null;
-    view2131821058.setOnClickListener(null);
-    view2131821058 = null;
-    view2131821053.setOnClickListener(null);
-    view2131821053 = null;
+    view2131821056.setOnClickListener(null);
+    view2131821056 = null;
+    view2131821059.setOnClickListener(null);
+    view2131821059 = null;
+    view2131821054.setOnClickListener(null);
+    view2131821054 = null;
 
     this.target = null;
   }

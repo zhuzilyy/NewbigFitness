@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.LinearLayout;
@@ -518,15 +519,10 @@ public class FilterListActivity extends BaseActivity<FilterListActivityPresenter
                     }
                 }
                 break;
-
         }
-
         if (datas.size() > 0) {
             defaultSelect(datas.get(0));
-        }else{
-            tv_nodata.setVisibility(View.VISIBLE);
         }
-
         commonAdapter = new CommonAdapter<FilterBean.FilterListBean>(R.layout.cardview_filter_list, this, datas) {
             @Override
             protected void convert(final ViewHolder holder, final FilterBean.FilterListBean listBean, final int i) {

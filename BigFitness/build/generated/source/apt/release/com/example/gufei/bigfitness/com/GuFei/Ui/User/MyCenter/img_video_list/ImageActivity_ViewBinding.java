@@ -15,7 +15,7 @@ import java.lang.Override;
 public class ImageActivity_ViewBinding<T extends ImageActivity> implements Unbinder {
   protected T target;
 
-  private View view2131820970;
+  private View view2131820971;
 
   @UiThread
   public ImageActivity_ViewBinding(final T target, View source) {
@@ -24,7 +24,7 @@ public class ImageActivity_ViewBinding<T extends ImageActivity> implements Unbin
     View view;
     view = Utils.findRequiredView(source, R.id.imgView, "field 'imgView' and method 'onViewClicked'");
     target.imgView = Utils.castView(view, R.id.imgView, "field 'imgView'", ImageView.class);
-    view2131820970 = view;
+    view2131820971 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -41,8 +41,8 @@ public class ImageActivity_ViewBinding<T extends ImageActivity> implements Unbin
 
     target.imgView = null;
 
-    view2131820970.setOnClickListener(null);
-    view2131820970 = null;
+    view2131820971.setOnClickListener(null);
+    view2131820971 = null;
 
     this.target = null;
   }

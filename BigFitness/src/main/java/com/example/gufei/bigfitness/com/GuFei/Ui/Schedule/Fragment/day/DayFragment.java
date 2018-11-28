@@ -5,6 +5,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.graphics.RectF;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -82,13 +83,8 @@ public class DayFragment extends BaseFragment<DayPresenter> implements DayContra
         super.onAttach(context);
         fragMentListening = (FragMentListening) mActivity;
     }
-
-
-
     @Override
     public void loadData(List<Schedule.ResultBean> list) {
-
-
         btnComplete.setText("今天");
         mNewEvent.clear();
         this.list = list;

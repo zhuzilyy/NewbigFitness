@@ -8,12 +8,12 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\notification_template_media_custom.xml"
     },
     {
-        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_search_view.xml"
-    },
-    {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_record_list.xml",
         "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_record_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_search_view.xml"
     },
     {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_custom_scan.xml",
@@ -24,12 +24,12 @@
         "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_booking__member_details.xml"
     },
     {
-        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_album_select.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\\output\\res\\layout\\activity_album_select.xml"
-    },
-    {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_image_select.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\\output\\res\\layout\\activity_image_select.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_album_select.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\\output\\res\\layout\\activity_album_select.xml"
     },
     {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\pop_add_follow_appointent.xml",
@@ -60,12 +60,12 @@
         "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\change_pwd_view.xml"
     },
     {
-        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\list_activity_address.xml",
-        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\list_activity_address.xml"
-    },
-    {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_record_lesson_list.xml",
         "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_record_lesson_list.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\list_activity_address.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\list_activity_address.xml"
     },
     {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\topbar.xml",
@@ -76,12 +76,12 @@
         "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_test_list.xml"
     },
     {
-        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_base_application.xml",
-        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_base_application.xml"
-    },
-    {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\message.xml",
         "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_base_application.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_base_application.xml"
     },
     {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\view_spinner.xml",
@@ -112,20 +112,20 @@
         "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_publicseasearchlis.xml"
     },
     {
-        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_training_plan_add.xml",
-        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_training_plan_add.xml"
-    },
-    {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\pop_view_members_screening.xml",
         "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\pop_view_members_screening.xml"
     },
     {
-        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_appointment_course_add.xml",
-        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_appointment_course_add.xml"
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_training_plan_add.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_training_plan_add.xml"
     },
     {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\album_activity_toolbar_album.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\d3e4c2f76ca213dd025bd3627a5e09ca7a7f6ff9\\output\\res\\layout\\album_activity_toolbar_album.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_appointment_course_add.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_appointment_course_add.xml"
     },
     {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_site_selection.xml",
@@ -196,12 +196,12 @@
         "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\animate_view.xml"
     },
     {
-        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\view_toolbar.xml",
-        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\view_toolbar.xml"
-    },
-    {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\content_edit_view.xml",
         "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\content_edit_view.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\view_toolbar.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\view_toolbar.xml"
     },
     {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_report_add.xml",
@@ -260,12 +260,12 @@
         "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_appraise_list.xml"
     },
     {
-        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\album_dialog_album_floder.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d3e4c2f76ca213dd025bd3627a5e09ca7a7f6ff9\\output\\res\\layout\\album_dialog_album_floder.xml"
-    },
-    {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\album_dialog_album_floder.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d3e4c2f76ca213dd025bd3627a5e09ca7a7f6ff9\\output\\res\\layout\\album_dialog_album_floder.xml"
     },
     {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_main_nothing.xml",
@@ -316,12 +316,12 @@
         "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_training_plan_list_top.xml"
     },
     {
-        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_training_plan_add_history.xml",
-        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_training_plan_add_history.xml"
-    },
-    {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\activity_main_charts.xml",
         "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\activity_main_charts.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\cardview_training_plan_add_history.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\cardview_training_plan_add_history.xml"
     },
     {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",

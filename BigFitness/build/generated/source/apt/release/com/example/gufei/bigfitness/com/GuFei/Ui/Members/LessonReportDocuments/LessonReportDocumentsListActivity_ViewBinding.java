@@ -19,9 +19,9 @@ import java.lang.Override;
 public class LessonReportDocumentsListActivity_ViewBinding<T extends LessonReportDocumentsListActivity> implements Unbinder {
   protected T target;
 
-  private View view2131821022;
+  private View view2131821023;
 
-  private View view2131821021;
+  private View view2131821022;
 
   @UiThread
   public LessonReportDocumentsListActivity_ViewBinding(final T target, View source) {
@@ -34,7 +34,7 @@ public class LessonReportDocumentsListActivity_ViewBinding<T extends LessonRepor
     target.swipeRefreshLayout = Utils.findRequiredViewAsType(source, R.id.swiperefreshlayoutid, "field 'swipeRefreshLayout'", SwipeRefreshLayout.class);
     view = Utils.findRequiredView(source, R.id.btn_screen, "field 'btnScreen' and method 'onViewClicked'");
     target.btnScreen = Utils.castView(view, R.id.btn_screen, "field 'btnScreen'", ImageView.class);
-    view2131821022 = view;
+    view2131821023 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -43,7 +43,7 @@ public class LessonReportDocumentsListActivity_ViewBinding<T extends LessonRepor
     });
     target.tvNoMore = Utils.findRequiredViewAsType(source, R.id.tv_noMore, "field 'tvNoMore'", TextView.class);
     view = Utils.findRequiredView(source, R.id.btn_up_img, "method 'onViewClicked'");
-    view2131821021 = view;
+    view2131821022 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -65,10 +65,10 @@ public class LessonReportDocumentsListActivity_ViewBinding<T extends LessonRepor
     target.btnScreen = null;
     target.tvNoMore = null;
 
+    view2131821023.setOnClickListener(null);
+    view2131821023 = null;
     view2131821022.setOnClickListener(null);
     view2131821022 = null;
-    view2131821021.setOnClickListener(null);
-    view2131821021 = null;
 
     this.target = null;
   }

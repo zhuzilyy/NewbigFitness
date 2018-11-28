@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.support.v4.app.FragmentManager;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.view.MotionEvent;
 import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
@@ -29,8 +30,6 @@ import static com.example.gufei.bigfitness.Constants.USERNAMEKEY;
 import static com.example.gufei.bigfitness.util.ToastUtil.s;
 
 public class CustomerMainActivity extends AppCompatActivity {
-
-
     @BindView(R.id.customer_acquisition_btn)
     LinearLayout customerAcquisitionBtn;
     @BindView(R.id.customer_list_btn)
@@ -43,7 +42,10 @@ public class CustomerMainActivity extends AppCompatActivity {
     Toolbar toolbar;
 //    @BindView(R.id.department_customer_btn)
 //    LinearLayout departmentCustomerBtn;
-
+    private long lastClickTime;
+    /**
+     * switch of limit for click
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -118,5 +120,20 @@ public class CustomerMainActivity extends AppCompatActivity {
                 }
             }
         });
+    }
+    @Override
+    public boolean dispatchTouchEvent(MotionEvent ev) {
+        if (ev.getAction() == MotionEvent.ACTION_DOWN) {
+            if (isFastDoubleClick()) {
+                return true;
+            }
+        }
+        return super.dispatchTouchEvent(ev);
+    }
+    public boolean isFastDoubleClick() {
+        long time = System.currentTimeMillis();
+        long timeD = time - lastClickTime;
+        lastClickTime = time;
+        return timeD <= 300;
     }
 }
