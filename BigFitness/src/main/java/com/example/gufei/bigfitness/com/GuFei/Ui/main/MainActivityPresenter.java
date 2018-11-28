@@ -1,5 +1,7 @@
 package com.example.gufei.bigfitness.com.GuFei.Ui.main;
 
+import android.util.Log;
+
 import com.example.gufei.bigfitness.App;
 import com.example.gufei.bigfitness.base.RxPresenter;
 import com.example.gufei.bigfitness.com.GuFei.Model.local.AppPreloadDicBean;
@@ -8,6 +10,8 @@ import com.example.gufei.bigfitness.com.GuFei.Model.local.CustomerSourceBean;
 import com.example.gufei.bigfitness.com.GuFei.NetWork.Api;
 import com.example.gufei.bigfitness.util.RxUtil;
 import com.example.gufei.bigfitness.util.SpUtil;
+
+import java.util.List;
 
 import javax.inject.Inject;
 
@@ -54,6 +58,7 @@ public class MainActivityPresenter extends RxPresenter<MainActivityContract.View
 
     @Override
     public void updata(int userid, String token, int clubid,String IsDepartManager  ,String DepartId  ) {
+        Log.i("tag",clubid+"=======clubid=======");
         Subscription subscription = api.getappPreloadDic( userid,  token,  clubid,IsDepartManager,DepartId)
 
                 .compose(RxUtil.<AppPreloadDicBean>rxSchedulerHelper())
@@ -61,7 +66,6 @@ public class MainActivityPresenter extends RxPresenter<MainActivityContract.View
                 .subscribe(new Action1<AppPreloadDicBean>() {
                     @Override
                     public void call(AppPreloadDicBean normalResponse) {
-
                         if (normalResponse.getCode()==0) {
 
                             SpUtil.put(App.context, CUSTOMERTAGKEY, toJson(normalResponse.getResult().getCustomerTag()));

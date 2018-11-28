@@ -22,9 +22,9 @@ public class FollowUpRecordActivity_ViewBinding<T extends FollowUpRecordActivity
 
   private View view2131820825;
 
-  private View view2131821436;
+  private View view2131821437;
 
-  private View view2131821155;
+  private View view2131821156;
 
   @UiThread
   public FollowUpRecordActivity_ViewBinding(final T target, View source) {
@@ -49,7 +49,7 @@ public class FollowUpRecordActivity_ViewBinding<T extends FollowUpRecordActivity
     });
     view = Utils.findRequiredView(source, R.id.btn_customer_info, "field 'btnCustomerInfo' and method 'onViewClicked'");
     target.btnCustomerInfo = Utils.castView(view, R.id.btn_customer_info, "field 'btnCustomerInfo'", ImageView.class);
-    view2131821436 = view;
+    view2131821437 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -58,7 +58,7 @@ public class FollowUpRecordActivity_ViewBinding<T extends FollowUpRecordActivity
     });
     view = Utils.findRequiredView(source, R.id.fab, "field 'floatingActionButton' and method 'onViewClicked'");
     target.floatingActionButton = Utils.castView(view, R.id.fab, "field 'floatingActionButton'", FloatingActionButton.class);
-    view2131821155 = view;
+    view2131821156 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -86,10 +86,10 @@ public class FollowUpRecordActivity_ViewBinding<T extends FollowUpRecordActivity
 
     view2131820825.setOnClickListener(null);
     view2131820825 = null;
-    view2131821436.setOnClickListener(null);
-    view2131821436 = null;
-    view2131821155.setOnClickListener(null);
-    view2131821155 = null;
+    view2131821437.setOnClickListener(null);
+    view2131821437 = null;
+    view2131821156.setOnClickListener(null);
+    view2131821156 = null;
 
     this.target = null;
   }

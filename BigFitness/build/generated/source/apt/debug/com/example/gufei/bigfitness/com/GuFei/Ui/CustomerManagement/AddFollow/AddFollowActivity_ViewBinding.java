@@ -19,9 +19,9 @@ import java.lang.Override;
 public class AddFollowActivity_ViewBinding<T extends AddFollowActivity> implements Unbinder {
   protected T target;
 
-  private View view2131820977;
+  private View view2131820978;
 
-  private View view2131820968;
+  private View view2131820969;
 
   @UiThread
   public AddFollowActivity_ViewBinding(final T target, View source) {
@@ -32,7 +32,7 @@ public class AddFollowActivity_ViewBinding<T extends AddFollowActivity> implemen
     target.toolbar = Utils.findRequiredViewAsType(source, R.id.toolbar, "field 'toolbar'", Toolbar.class);
     view = Utils.findRequiredView(source, R.id.btn_complete, "field 'btnRelease' and method 'onViewClicked'");
     target.btnRelease = Utils.castView(view, R.id.btn_complete, "field 'btnRelease'", Button.class);
-    view2131820977 = view;
+    view2131820978 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -45,7 +45,7 @@ public class AddFollowActivity_ViewBinding<T extends AddFollowActivity> implemen
     target.textContext = Utils.findRequiredViewAsType(source, R.id.text_content, "field 'textContext'", EditText.class);
     view = Utils.findRequiredView(source, R.id.btn_select_img, "field 'btnSelectImg' and method 'onViewClicked'");
     target.btnSelectImg = Utils.castView(view, R.id.btn_select_img, "field 'btnSelectImg'", ImageView.class);
-    view2131820968 = view;
+    view2131820969 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -69,10 +69,10 @@ public class AddFollowActivity_ViewBinding<T extends AddFollowActivity> implemen
     target.textContext = null;
     target.btnSelectImg = null;
 
-    view2131820977.setOnClickListener(null);
-    view2131820977 = null;
-    view2131820968.setOnClickListener(null);
-    view2131820968 = null;
+    view2131820978.setOnClickListener(null);
+    view2131820978 = null;
+    view2131820969.setOnClickListener(null);
+    view2131820969 = null;
 
     this.target = null;
   }

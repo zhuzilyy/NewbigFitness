@@ -134,9 +134,7 @@ public class CustomerInfoAddCollectionActivity extends BaseActivity<CustomerInfo
 
     @Override
     protected int getLayout() {
-
         return R.layout.activity_customer_add_collection;
-
     }
 
     @Override

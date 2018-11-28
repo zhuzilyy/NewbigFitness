@@ -20,7 +20,7 @@ import java.lang.Override;
 public class AppointmentRecordActivity_ViewBinding<T extends AppointmentRecordActivity> implements Unbinder {
   protected T target;
 
-  private View view2131821155;
+  private View view2131821156;
 
   @UiThread
   public AppointmentRecordActivity_ViewBinding(final T target, View source) {
@@ -38,7 +38,7 @@ public class AppointmentRecordActivity_ViewBinding<T extends AppointmentRecordAc
     target.btnCustomerInfo = Utils.findRequiredViewAsType(source, R.id.btn_customer_info, "field 'btnCustomerInfo'", ImageView.class);
     view = Utils.findRequiredView(source, R.id.fab, "field 'fab' and method 'onViewClicked'");
     target.fab = Utils.castView(view, R.id.fab, "field 'fab'", FloatingActionButton.class);
-    view2131821155 = view;
+    view2131821156 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -64,8 +64,8 @@ public class AppointmentRecordActivity_ViewBinding<T extends AppointmentRecordAc
     target.btnCustomerInfo = null;
     target.fab = null;
 
-    view2131821155.setOnClickListener(null);
-    view2131821155 = null;
+    view2131821156.setOnClickListener(null);
+    view2131821156 = null;
 
     this.target = null;
   }

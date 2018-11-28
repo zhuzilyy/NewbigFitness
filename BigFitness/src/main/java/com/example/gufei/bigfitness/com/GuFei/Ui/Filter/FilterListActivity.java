@@ -116,8 +116,8 @@ public class FilterListActivity extends BaseActivity<FilterListActivityPresenter
     Toolbar toolbar;
     @BindView(R.id.btn_complete)
     Button btnComplete;
-
-
+    @BindView(R.id.tv_nodata)
+    TextView tv_nodata;
     public String mId;
     /**
      * id
@@ -265,7 +265,6 @@ public class FilterListActivity extends BaseActivity<FilterListActivityPresenter
 //        datas.add(FirstBean);
 
         switch (type) {
-
             case CUSTOMERTAGID:
                 datas = FString2Bean(SpUtil.get(context, CUSTOMERTAGKEY, "").toString());
                 break;
@@ -280,7 +279,8 @@ public class FilterListActivity extends BaseActivity<FilterListActivityPresenter
                 datas = FString2Bean(SpUtil.get(context, WARDROBETYPEKEY, "").toString());
                 break;
             case MEMBERINTENTID:
-                datas = FString2Bean(SpUtil.get(context, MEMBERINTENTKEY, "").toString());
+                //datas = FString2Bean(SpUtil.get(context, MEMBERINTENTKEY, "").toString());
+                datas = FString2Bean(SpUtil.get(context, CUSTOMERINTENTKEY, "").toString());
                 break;
             case MANGERLISTID:
                 if (personType.equals("会籍")) {
@@ -517,14 +517,14 @@ public class FilterListActivity extends BaseActivity<FilterListActivityPresenter
                         }
                     }
                 }
-
-
                 break;
 
         }
 
         if (datas.size() > 0) {
             defaultSelect(datas.get(0));
+        }else{
+            tv_nodata.setVisibility(View.VISIBLE);
         }
 
         commonAdapter = new CommonAdapter<FilterBean.FilterListBean>(R.layout.cardview_filter_list, this, datas) {

@@ -133,7 +133,7 @@ public class ListUtil {
      * @return list  List<bean>
      */
     public static List<FilterBean.FilterListBean> FString2Bean(String Str) {
-
+        Log.i("tag",Str);
         List<FilterBean.FilterListBean> Rlist = new ArrayList<FilterBean.FilterListBean>();
         FilterBean.FilterListBean FirstBean = new FilterBean.FilterListBean();
 //        FirstBean.setID(999999);

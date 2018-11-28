@@ -47,15 +47,15 @@ public final class R {
         public static final int ic_arrow = 0x7f020079;
     }
     public static final class id {
-        public static final int draweeView = 0x7f1103fe;
+        public static final int draweeView = 0x7f1103ff;
         public static final int ex_header = 0x7f110004;
         public static final int item_touch_helper_previous_elevation = 0x7f11000b;
-        public static final int iv_arrow = 0x7f110405;
-        public static final int iv_loading = 0x7f110406;
-        public static final int ripple = 0x7f110401;
-        public static final int round1 = 0x7f1103ff;
-        public static final int round2 = 0x7f110400;
-        public static final int tv = 0x7f110407;
+        public static final int iv_arrow = 0x7f110406;
+        public static final int iv_loading = 0x7f110407;
+        public static final int ripple = 0x7f110402;
+        public static final int round1 = 0x7f110400;
+        public static final int round2 = 0x7f110401;
+        public static final int tv = 0x7f110408;
     }
     public static final class layout {
         public static final int view_bezier = 0x7f0400ee;

@@ -13,6 +13,7 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.example.gufei.bigfitness.R;
 import com.example.gufei.bigfitness.base.BaseActivity;
@@ -170,7 +171,6 @@ public class CustomerEditCollectionActivity extends BaseActivity<CustomerEditCol
         String CustomerId = intent.getStringExtra(PUT_STR);
         mPresenter.getCustomerInfoById(UserId, token, ClubId, UserName, CustomerId);
     }
-
     @Override
     protected void initData() {
 

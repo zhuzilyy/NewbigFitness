@@ -15,6 +15,7 @@ import android.widget.LinearLayout;
 import android.widget.RadioButton;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.example.gufei.bigfitness.R;
 import com.example.gufei.bigfitness.base.BaseActivity;
@@ -253,10 +254,9 @@ public class CustomerAddCollectionActivity extends BaseActivity<CustomerAddColle
         switch (view.getId()) {
 
             case R.id.btn_complete:
+
                 //提交信息
-
                 if (EdituserName.getText().toString().equals("")) {
-
                     s(mContext, "请选择填写客户名称");
                     return;
                 }
@@ -319,10 +319,8 @@ public class CustomerAddCollectionActivity extends BaseActivity<CustomerAddColle
                 startActivityForResult(intent, CUSTOMERSOURCEID);//使用时需定义变量requestCode
                 break;
             case R.id.customer_will_btn:
-
                 //意向
                 intent.putExtra(mStrType, MEMBERINTENTID);
-
                 startActivityForResult(intent, MEMBERINTENTID);//使用时需定义变量requestCode
 
                 break;

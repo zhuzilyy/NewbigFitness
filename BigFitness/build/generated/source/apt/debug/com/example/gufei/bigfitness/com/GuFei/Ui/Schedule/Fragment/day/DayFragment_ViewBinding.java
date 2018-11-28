@@ -19,7 +19,7 @@ import java.lang.Override;
 public class DayFragment_ViewBinding<T extends DayFragment> implements Unbinder {
   protected T target;
 
-  private View view2131820977;
+  private View view2131820978;
 
   @UiThread
   public DayFragment_ViewBinding(final T target, View source) {
@@ -31,7 +31,7 @@ public class DayFragment_ViewBinding<T extends DayFragment> implements Unbinder 
     target.title = Utils.findRequiredViewAsType(source, R.id.tv_title, "field 'title'", TextView.class);
     view = Utils.findRequiredView(source, R.id.btn_complete, "field 'btnComplete' and method 'onViewClicked'");
     target.btnComplete = Utils.castView(view, R.id.btn_complete, "field 'btnComplete'", Button.class);
-    view2131820977 = view;
+    view2131820978 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -53,8 +53,8 @@ public class DayFragment_ViewBinding<T extends DayFragment> implements Unbinder 
     target.btnComplete = null;
     target.btnBack = null;
 
-    view2131820977.setOnClickListener(null);
-    view2131820977 = null;
+    view2131820978.setOnClickListener(null);
+    view2131820978 = null;
 
     this.target = null;
   }

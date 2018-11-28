@@ -46,7 +46,7 @@ public class CoachInfoActivity_ViewBinding<T extends CoachInfoActivity> implemen
 
   private View view2131820896;
 
-  private View view2131820977;
+  private View view2131820978;
 
   @UiThread
   public CoachInfoActivity_ViewBinding(final T target, View source) {
@@ -183,7 +183,7 @@ public class CoachInfoActivity_ViewBinding<T extends CoachInfoActivity> implemen
     target.activityAddressDetails = Utils.findRequiredViewAsType(source, R.id.activity_address_details, "field 'activityAddressDetails'", LinearLayout.class);
     view = Utils.findRequiredView(source, R.id.btn_complete, "field 'btnComplete' and method 'onViewClicked'");
     target.btnComplete = Utils.castView(view, R.id.btn_complete, "field 'btnComplete'", Button.class);
-    view2131820977 = view;
+    view2131820978 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -266,8 +266,8 @@ public class CoachInfoActivity_ViewBinding<T extends CoachInfoActivity> implemen
     view2131820893 = null;
     view2131820896.setOnClickListener(null);
     view2131820896 = null;
-    view2131820977.setOnClickListener(null);
-    view2131820977 = null;
+    view2131820978.setOnClickListener(null);
+    view2131820978 = null;
 
     this.target = null;
   }

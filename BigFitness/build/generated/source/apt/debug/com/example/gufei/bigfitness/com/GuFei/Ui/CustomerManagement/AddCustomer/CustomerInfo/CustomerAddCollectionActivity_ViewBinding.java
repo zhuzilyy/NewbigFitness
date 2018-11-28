@@ -37,7 +37,7 @@ public class CustomerAddCollectionActivity_ViewBinding<T extends CustomerAddColl
 
   private View view2131820935;
 
-  private View view2131820977;
+  private View view2131820978;
 
   private View view2131820906;
 
@@ -147,7 +147,7 @@ public class CustomerAddCollectionActivity_ViewBinding<T extends CustomerAddColl
     target.tvTitle = Utils.findRequiredViewAsType(source, R.id.tv_title, "field 'tvTitle'", TextView.class);
     view = Utils.findRequiredView(source, R.id.btn_complete, "field 'btnComplete' and method 'onClick'");
     target.btnComplete = Utils.castView(view, R.id.btn_complete, "field 'btnComplete'", Button.class);
-    view2131820977 = view;
+    view2131820978 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -243,8 +243,8 @@ public class CustomerAddCollectionActivity_ViewBinding<T extends CustomerAddColl
     view2131820931 = null;
     view2131820935.setOnClickListener(null);
     view2131820935 = null;
-    view2131820977.setOnClickListener(null);
-    view2131820977 = null;
+    view2131820978.setOnClickListener(null);
+    view2131820978 = null;
     view2131820906.setOnClickListener(null);
     view2131820906 = null;
     view2131820907.setOnClickListener(null);
