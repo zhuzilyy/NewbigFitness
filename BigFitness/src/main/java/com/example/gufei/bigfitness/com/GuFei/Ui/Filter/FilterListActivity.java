@@ -280,7 +280,6 @@ public class FilterListActivity extends BaseActivity<FilterListActivityPresenter
                 datas = FString2Bean(SpUtil.get(context, WARDROBETYPEKEY, "").toString());
                 break;
             case MEMBERINTENTID:
-
                 datas = FString2Bean(SpUtil.get(context, MEMBERINTENTKEY, "").toString());
                 break;
             case MANGERLISTID:

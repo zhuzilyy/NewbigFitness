@@ -51,7 +51,6 @@ import static com.example.gufei.bigfitness.Constants.USERIDKEY;
 import static com.example.gufei.bigfitness.Constants.USERNAMEKEY;
 
 public abstract class Base2Activity<T extends BasePresenter> extends TakePhotoActivity implements BaseView {
-
     @Inject
     protected T mPresenter;/**presenter MVP的P*/
     protected Activity mContext;
@@ -72,7 +71,6 @@ public abstract class Base2Activity<T extends BasePresenter> extends TakePhotoAc
         if (layoutId != 0) {
             setContentView(layoutId);
         }
-
         mUnBinder = ButterKnife.bind(this);
         mContext = this;
         TAG = this.getClass().getSimpleName();

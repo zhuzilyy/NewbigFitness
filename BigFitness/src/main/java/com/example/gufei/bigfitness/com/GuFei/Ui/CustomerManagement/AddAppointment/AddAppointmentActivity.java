@@ -388,7 +388,6 @@ public class AddAppointmentActivity extends BaseActivity<AddAppointmentActivityP
                 break;
 
             case R.id.btn_confirm:
-
                 String UserName = (String) SpUtil.get(mContext, USERNAMEKEY, "");
 
                 int UserId = (int) SpUtil.get(mContext, USERIDKEY, 0);

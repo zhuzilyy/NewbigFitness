@@ -143,21 +143,26 @@ public class ListUtil {
         List<FilterBean.FilterListBean> temp = (List<FilterBean.FilterListBean>) new Gson().fromJson(Str, new TypeToken<List<FilterBean.FilterListBean>>() {
         }.getType());
         List<FilterBean.FilterListBean> list = new ArrayList<FilterBean.FilterListBean>();
-        if (!(temp.get(0).getIsShow() == null)) {
-            //预处理 不显示人员
-            for (int i = 0; i < temp.size(); i++) {
-                if (temp.get(i).getIsShow().toString().equals("T")) {
-                    list.add(temp.get(i));
+        if (temp!=null && temp.size()>0){
+
+            if (!(temp.get(0).getIsShow() == null)) {
+                //预处理 不显示人员
+                for (int i = 0; i < temp.size(); i++) {
+                    if (temp.get(i).getIsShow().toString().equals("T")) {
+                        list.add(temp.get(i));
+                    }
                 }
+            } else {
+
+                list.addAll(temp);
+
             }
-        } else {
-
-            list.addAll(temp);
+            for (int i = 0; i < list.size(); i++) {
+                Rlist.add(list.get(i));
+            }
 
         }
-        for (int i = 0; i < list.size(); i++) {
-            Rlist.add(list.get(i));
-        }
+
         return Rlist;
     }
 

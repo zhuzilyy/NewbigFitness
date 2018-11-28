@@ -260,8 +260,6 @@ public class PersonalInfoActivity extends Base2Activity<PersonalInfoActivityPres
 
     @OnClick({R.id.btn_back, R.id.btn_edit, R.id.info_coach_btn, R.id.head_img_iv, R.id.head_img_btn, R.id.head_name_btn, R.id.head_sex_btn, R.id.head_age_btn, R.id.head_tel_btn, R.id.head_id_btn, R.id.head_mail_btn, R.id.head_user_id_btn, R.id.head_user_type_btn, R.id.head_club_btn, R.id.head_department_btn, R.id.head_position_btn, R.id.head_role_btn, R.id.head_have_btn, R.id.head_drop_btn})
     public void onViewClicked(View view) {
-
-
         switch (view.getId()) {
             case R.id.info_coach_btn:
                 Intent intent = new Intent(PersonalInfoActivity.this, CoachInfoActivity.class);
@@ -282,7 +280,7 @@ public class PersonalInfoActivity extends Base2Activity<PersonalInfoActivityPres
                 }
                 break;
             case R.id.head_name_btn:
-                // 名称
+                //                // 名称
 
                 break;
             case R.id.head_sex_btn:

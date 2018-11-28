@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -310,11 +311,11 @@ public class AddAppointmentScheduleActivity extends BaseActivity<AddAppointmentS
 
     @Override
     public void succeed(CodeBean codeBean) {
+        Log.i("tag",codeBean.getCode()+"======getCode======");
         btnConfirm.setEnabled(true);
         SharedPreferenceUtil.remove(TRAININGPLANKEY);
         s(mContext, "预约成功！");
         finish();
-
     }
 
     @Override
@@ -593,7 +594,6 @@ public class AddAppointmentScheduleActivity extends BaseActivity<AddAppointmentS
                     break;
                 }
             case R.id.btn_confirm:
-
                 if ((appointTypeValue==null ||
                         AppointmentTypeIdValue==null||
                         MemberId==null ||

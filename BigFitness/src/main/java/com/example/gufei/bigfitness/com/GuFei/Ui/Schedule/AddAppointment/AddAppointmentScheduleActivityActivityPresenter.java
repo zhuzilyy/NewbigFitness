@@ -1,5 +1,7 @@
 package com.example.gufei.bigfitness.com.GuFei.Ui.Schedule.AddAppointment;
 
+import android.util.Log;
+
 import com.example.gufei.bigfitness.base.RxPresenter;
 import com.example.gufei.bigfitness.com.GuFei.Model.local.CodeBean;
 import com.example.gufei.bigfitness.com.GuFei.NetWork.Api;
@@ -30,7 +32,24 @@ public class AddAppointmentScheduleActivityActivityPresenter extends RxPresenter
 
     @Override
     public void saveMemberAppiontment(String UserName, int UserId, String token, int ClubId, String appointType, String AppointmentTypeId, String Content, String MemberId, String EndTime, String StartTime, String Tipinterval, String Tipstarttime, String LessonId, String PlanInfo,String IsMakeUp, String AppointmentId) {
-
+      /*  if (true){
+            Log.i("tag",UserName+"=======UserName======");
+            Log.i("tag",UserId+"=======UserId======");
+            Log.i("tag",token+"=======token======");
+            Log.i("tag",ClubId+"=======ClubId======");
+            Log.i("tag",appointType+"=======appointType======");
+            Log.i("tag",AppointmentTypeId+"=======AppointmentTypeId======");
+            Log.i("tag",Content+"=======Content======");
+            Log.i("tag",EndTime+"=======EndTime======");
+            Log.i("tag",StartTime+"=======StartTime======");
+            Log.i("tag",Tipinterval+"=======Tipinterval======");
+            Log.i("tag",Tipstarttime+"=======Tipstarttime======");
+            Log.i("tag",LessonId+"=======LessonId======");
+            Log.i("tag",PlanInfo+"=======PlanInfo======");
+            Log.i("tag",IsMakeUp+"=======IsMakeUp======");
+            Log.i("tag",AppointmentId+"=======AppointmentId======");
+            return;
+        }*/
         Subscription subscription = api.saveMemberAppiontment(UserName  ,UserId  ,token  ,ClubId  ,appointType  ,AppointmentTypeId  ,Content  ,MemberId  ,EndTime  ,StartTime  ,Tipinterval  ,Tipstarttime  ,LessonId  ,PlanInfo  ,IsMakeUp  ,AppointmentId)
                 .compose(RxUtil.<CodeBean>rxSchedulerHelper())
                 .subscribe(new Action1<CodeBean>() {
