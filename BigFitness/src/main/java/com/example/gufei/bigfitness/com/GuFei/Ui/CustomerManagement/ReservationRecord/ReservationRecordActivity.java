@@ -175,12 +175,8 @@ public class ReservationRecordActivity extends BaseActivity<ReservationRecordAct
         CustomerSex = intent.getStringExtra(PUT_STR + "Sex");
         CustomerId = intent.getStringExtra(PUT_STR + "Id");
         layoutTime.setVisibility(View.GONE);
-
         datas = new ArrayList<>();
-
         commonAdapter = new CommonAdapter<AppointmentByIdBean.ResultBean.ContactListBean>(R.layout.cardview_booking_details, this, datas) {
-
-
             @Override
             protected void convert(final ViewHolder holder, final AppointmentByIdBean.ResultBean.ContactListBean listBean, int i) {
 
@@ -330,7 +326,6 @@ public class ReservationRecordActivity extends BaseActivity<ReservationRecordAct
     @Override
     public void outLogin() {
         s(this, "您的帐号在其他设备登录");
-
         Intent intent = new Intent(context, LoginActivity.class);
         remove();
         startActivity(intent);

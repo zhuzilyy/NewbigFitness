@@ -179,7 +179,6 @@ public class LoginActivity extends BaseActivity<LoginActivityPresenter> implemen
 
     @Override
     public void remove() {
-
         SpUtil.remove(mContext, ACCOUNTKEY);
         SpUtil.remove(mContext, PASSWRODKEY);
         SpUtil.remove(mContext, DEVICECODEKEY);
@@ -191,7 +190,6 @@ public class LoginActivity extends BaseActivity<LoginActivityPresenter> implemen
         SpUtil.remove(mContext, PERSONTYPEKEY);
         SpUtil.remove(mContext, ISDERPARTMANAGERKEY);
         SpUtil.remove(mContext, DEPARTIDKEY);
-
     }
 
     @Override

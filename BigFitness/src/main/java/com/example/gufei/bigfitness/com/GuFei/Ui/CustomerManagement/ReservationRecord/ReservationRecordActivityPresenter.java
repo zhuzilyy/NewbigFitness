@@ -44,7 +44,6 @@ public class ReservationRecordActivityPresenter extends RxPresenter<ReservationR
                 .subscribe(new Action1<CodeBean>() {
                     @Override
                     public void call(CodeBean normalResponse) {
-
                         if (normalResponse.getCode()==0){
 
                             mView.savesucceed(normalResponse);

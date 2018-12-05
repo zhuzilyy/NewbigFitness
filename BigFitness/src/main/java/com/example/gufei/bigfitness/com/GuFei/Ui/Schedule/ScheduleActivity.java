@@ -296,8 +296,6 @@ finish();
             if (!(weekFragment ==null))
                 weekFragment.RefreshData(date);
         }
-
-
         handler.post(new Runnable() {
             @Override
             public void run() {

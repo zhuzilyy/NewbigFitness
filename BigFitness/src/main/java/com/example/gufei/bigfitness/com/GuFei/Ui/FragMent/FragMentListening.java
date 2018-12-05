@@ -1,7 +1,5 @@
 package com.example.gufei.bigfitness.com.GuFei.Ui.FragMent;
 
-import com.example.gufei.bigfitness.com.GuFei.Model.local.MainMsgBean;
-
 /**
  * Created by Administrator on 2017/6/21.
  */

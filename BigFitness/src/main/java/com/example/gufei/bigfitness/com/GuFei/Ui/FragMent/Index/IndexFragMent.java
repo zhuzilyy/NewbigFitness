@@ -5,6 +5,7 @@ import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -14,6 +15,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 import com.example.gufei.bigfitness.R;
@@ -174,8 +176,8 @@ public class IndexFragMent extends BaseFragment<IndexFragMentPresenter> implemen
     LinearLayout layoutBottomBirthdayresult;
     @BindView(R.id.charts_btn)
     LinearLayout chartsBtn;
-
-
+    @BindView(R.id.swipeRefreshLayout)
+    SwipeRefreshLayout swipeRefreshLayout;
 
     private Context context;
     private FragMentListening fragMentListening;
@@ -193,8 +195,6 @@ public class IndexFragMent extends BaseFragment<IndexFragMentPresenter> implemen
         super.onAttach(context);
         fragMentListening = (FragMentListening) mActivity;
     }
-
-
     @Override
     public void onResume() {
         super.onResume();
@@ -211,8 +211,6 @@ public class IndexFragMent extends BaseFragment<IndexFragMentPresenter> implemen
     protected int getLayoutId() {
         return R.layout.fragment_index;
     }
-
-
     private void refresh() {
         mPresenter.updata(userid, token, clubid);
         mPresenter.getSineForMainPage(userid, token, clubid);
@@ -340,8 +338,31 @@ public class IndexFragMent extends BaseFragment<IndexFragMentPresenter> implemen
                 }
             });
         }
+            //刷新时间
+        initRefreshListener();
+
+    }
+
+    private void initRefreshListener() {
+
+        //设置进度条的颜色
+        swipeRefreshLayout.setColorSchemeResources(R.color.colorPrimary, R.color.colorPrimaryDark);
 
 
+        //设置进度条的大小样式
+        swipeRefreshLayout.setSize(SwipeRefreshLayout.DEFAULT);
+        swipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener()
+        {
+
+            @Override
+            public void onRefresh() {
+
+                refresh();
+
+            }
+
+
+        });
     }
 
 
@@ -371,7 +392,6 @@ public class IndexFragMent extends BaseFragment<IndexFragMentPresenter> implemen
 
     @NeedsPermission(Manifest.permission.CAMERA)
     void Scan() {
-
         Intent intent = new Intent(getActivity(), CaptureActivity.class);
         startActivityForResult(intent, REQUEST_CODE);
 
@@ -406,7 +426,6 @@ public class IndexFragMent extends BaseFragment<IndexFragMentPresenter> implemen
                 intent = new Intent(getActivity(), MessagesListActivity.class);
                 intent.putExtra("com.example.gufei.bigfitness.com.GuFei.Ui.main.title", "预约通知");
                getActivity().startActivity(intent);
-
                 break;
             case R.id.notice_change_btn:
                 intent = new Intent(getActivity(), MessagesListActivity.class);
@@ -419,15 +438,9 @@ public class IndexFragMent extends BaseFragment<IndexFragMentPresenter> implemen
                 intent.putExtra("com.example.gufei.bigfitness.com.GuFei.Ui.main.title", "会员生日通知");
                getActivity().startActivity(intent);
                 break;
-
-
             case R.id.ScanImg:
-
-
                 fragMentListening.BtnScan();
                 break;
-
-
             case R.id.btn_list_head:
 
                 if (recyclerView.getVisibility() == View.GONE) {
@@ -559,7 +572,7 @@ public class IndexFragMent extends BaseFragment<IndexFragMentPresenter> implemen
     @Override
     public void succeed(MainMsgBean mainMsgBean) {
 
-//        swipeRefreshLayout.setRefreshing(false);
+        swipeRefreshLayout.setRefreshing(false);
 
         try {
 
@@ -597,8 +610,6 @@ public class IndexFragMent extends BaseFragment<IndexFragMentPresenter> implemen
 
     @Override
     public void MainPagesucceed(SineForMainPageBean sineForMainPageBean) {
-
-
         //系统通知
         if (sineForMainPageBean.getResult().getResult().getCountNum() > 0) {
             textTitleSystem.setText(sineForMainPageBean.getResult().getResult().getTitle());

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Nov 26 13:26:04 CST 2018
+#Wed Dec 05 17:05:04 CST 2018
 1073.file=E\:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xxxhdpi-v4\\screening_down.png
 1090.base=E\:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\resources-debug.ap_
 1007.base=E\:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\resources-debug.ap_

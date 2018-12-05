@@ -116,7 +116,7 @@ public class AddressListFragMent extends BaseFragment<AddressListFragMentPresent
      * item标题标识为1
      */
     public static final int TITLE = 1;
-
+    private boolean firstLoading;
 
     @Override
     protected void initInject() {
@@ -325,28 +325,30 @@ public class AddressListFragMent extends BaseFragment<AddressListFragMentPresent
 
             }
         });
-
-        // 右边字母竖排的初始化以及监听
-        letterIndexView.init(new LetterIndexView.OnTouchLetterIndex() {
-            //实现移动接口
-            @Override
-            public void touchLetterWitch(String letter) {
-                // 中间显示的首字母
-                txt_center.setVisibility(View.VISIBLE);
-                txt_center.setText(letter);
-                // 首字母是否被包含
-                if (adapter.map_IsHead.containsKey(letter)) {
-                    // 设置首字母的位置
-                    listView.setSelection(adapter.map_IsHead.get(letter));
+        if (!firstLoading){
+            // 右边字母竖排的初始化以及监听
+            letterIndexView.init(new LetterIndexView.OnTouchLetterIndex() {
+                //实现移动接口
+                @Override
+                public void touchLetterWitch(String letter) {
+                    // 中间显示的首字母
+                    txt_center.setVisibility(View.VISIBLE);
+                    txt_center.setText(letter);
+                    // 首字母是否被包含
+                    if (adapter.map_IsHead.containsKey(letter)) {
+                        // 设置首字母的位置
+                        listView.setSelection(adapter.map_IsHead.get(letter));
+                    }
                 }
-            }
 
-            //实现抬起接口
-            @Override
-            public void touchFinish() {
-                txt_center.setVisibility(View.GONE);
-            }
-        });
+                //实现抬起接口
+                @Override
+                public void touchFinish() {
+                    txt_center.setVisibility(View.GONE);
+                }
+            });
+            firstLoading = true;
+        }
 
         /** listview点击事件 */
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {

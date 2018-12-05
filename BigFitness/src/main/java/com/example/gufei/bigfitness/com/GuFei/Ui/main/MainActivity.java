@@ -134,13 +134,11 @@ public class MainActivity extends BaseActivity<MainActivityPresenter> implements
         userId = (int) SpUtil.get(mContext, USERIDKEY,0);
         // 从资源文件中获取标题
         tabTitles = getResources().getStringArray(R.array.tabTitle);
-
         // 添加 Fragment
         fragments.add(new AddressListFragMent());
         fragments.add(new IndexFragMent());
         fragments.add(new MyCenterMainFragMent());
 //        fragments.add(new IndexFragMent());
-
 
         adapter = new MainAdapter(getSupportFragmentManager(), fragments, tabTitles);
         mViewPager.setOffscreenPageLimit(3);
@@ -487,11 +485,7 @@ public class MainActivity extends BaseActivity<MainActivityPresenter> implements
                 Toast.makeText(mContext, "无法打开摄像头，缺少必要权限，您应在应用管理中授予权限", Toast.LENGTH_LONG).show();
             }
         }
-
-
     }
-
-
     @Override
     public void BtnScan() {
 

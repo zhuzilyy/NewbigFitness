@@ -19,7 +19,7 @@ import java.lang.Override;
 public class Index1FragMent_ViewBinding<T extends Index1FragMent> implements Unbinder {
   protected T target;
 
-  private View view2131821333;
+  private View view2131821334;
 
   @UiThread
   public Index1FragMent_ViewBinding(final T target, View source) {
@@ -32,7 +32,7 @@ public class Index1FragMent_ViewBinding<T extends Index1FragMent> implements Unb
     target.spinner = Utils.findRequiredViewAsType(source, R.id.title_spinner, "field 'spinner'", Spinner.class);
     view = Utils.findRequiredView(source, R.id.btn_time, "field 'btnTime' and method 'onViewClicked'");
     target.btnTime = Utils.castView(view, R.id.btn_time, "field 'btnTime'", LinearLayout.class);
-    view2131821333 = view;
+    view2131821334 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -55,8 +55,8 @@ public class Index1FragMent_ViewBinding<T extends Index1FragMent> implements Unb
     target.btnTime = null;
     target.textUserName = null;
 
-    view2131821333.setOnClickListener(null);
-    view2131821333 = null;
+    view2131821334.setOnClickListener(null);
+    view2131821334 = null;
 
     this.target = null;
   }

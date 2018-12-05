@@ -122,8 +122,6 @@ public class ListFragment extends BaseFragment<LIstPresenter> implements ListCon
         super.onAttach(context);
         fragMentListening = (FragMentListening) mActivity;
     }
-
-
     @Override
     protected void initInject() {
         getFragmentComponent().inject(this);
@@ -165,11 +163,8 @@ public class ListFragment extends BaseFragment<LIstPresenter> implements ListCon
         btnComplete.setText("历史记录");
         btnComplete.setTag(false);
         commonAdapter = new CommonAdapter<AppointmentListByDateForOrderBean.ResultBean>(R.layout.card_schedule_list, mContext, datas) {
-
-
             @Override
             protected void convert(ViewHolder holder, final AppointmentListByDateForOrderBean.ResultBean listBean, int i) {
-
                 holder.setText(R.id.text_create_name, UserName);
 //                AppointmentId = listBean.getAppointmentId();
 //                 holder.setText(R.id.text_class, listBean.getAppType());
@@ -177,7 +172,6 @@ public class ListFragment extends BaseFragment<LIstPresenter> implements ListCon
                 Button btn1 = (Button) holder.getView(R.id.btn1);
                 Button btn2 = (Button) holder.getView(R.id.btn2);
                 Button btn3 = (Button) holder.getView(R.id.btn3);
-
                 if (listBean.getAppointmentOwner() == 1 && listBean.getAppointmentStatus() == 0) {
                     btn1.setVisibility(View.VISIBLE);
                     btn2.setVisibility(View.VISIBLE);
@@ -185,13 +179,11 @@ public class ListFragment extends BaseFragment<LIstPresenter> implements ListCon
                     btn1.setVisibility(View.GONE);
                     btn2.setVisibility(View.GONE);
                 }
-
                 if (listBean.getIsSignIn() == 0) {
                     btn3.setVisibility(View.GONE);
                 } else {
                     btn3.setVisibility(View.VISIBLE);
                 }
-
                 btn1.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
@@ -199,7 +191,6 @@ public class ListFragment extends BaseFragment<LIstPresenter> implements ListCon
                                 token);
                     }
                 });
-
                 btn2.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
@@ -219,6 +210,7 @@ public class ListFragment extends BaseFragment<LIstPresenter> implements ListCon
                             @Override
                             public void onSuccess(String result) {
                                 ResultBean resultBean = new Gson().fromJson(result, ResultBean.class);
+                                notifyDataSetChanged();
                                 if (resultBean.getRet() == 0) {
                                     Toast.makeText(mContext, "下课结束！", Toast.LENGTH_SHORT).show();
                                     UpDownLoading();
@@ -373,29 +365,20 @@ public class ListFragment extends BaseFragment<LIstPresenter> implements ListCon
 
 
         if (recyclerView.getLayoutManager() instanceof LinearLayoutManager) {
-
-
             //获取列表华东监听器 用于获取当前所在条数
             final LinearLayoutManager RecycViewlayoutManager = (LinearLayoutManager) recyclerView.getLayoutManager();
 
             //添加滚动条见监听器
             recyclerView.addOnScrollListener(new RecyclerView.OnScrollListener() {
-
-
                 @Override
                 public void onScrolled(RecyclerView recyclerView, int dx, int dy) {
-
                     super.onScrolled(recyclerView, dx, dy);
-
-
                     //总记录条数
                     //　int totalItemCount = linearLayoutManager.getItemCount();
                     int totalItemCount = recyclerView != null ? recyclerView.getAdapter().getItemCount() : 0;
-
                     //最后条数的位置
                     int lastVisubleItem = RecycViewlayoutManager.findLastVisibleItemPosition();
                     if (dy > 0) {
-
                         if (isLoadingMore && totalItemCount - 1 <= lastVisubleItem) {
                             if (tvTitle.getText().toString().equals("预约记录")) {
                                 isLoadingMore = false;
@@ -410,10 +393,8 @@ public class ListFragment extends BaseFragment<LIstPresenter> implements ListCon
                                 IsHistory = 1;
                                 UpDownLoading();
                             }
-
                         }
                     } else {
-
                         if (isLoadingMore && totalItemCount - 2 == 0) {
                             if (tvTitle.getText().toString().equals("预约记录")) {
                                 isLoadingMore = false;
@@ -438,16 +419,12 @@ public class ListFragment extends BaseFragment<LIstPresenter> implements ListCon
             });
 
         }
-
-
         DownPage = 1;
         IsHistory = 0;
         UpDownLoading();
-
     }
 
     private void getList() {
-
 //        mPresenter.getClassOver(
 //                AppointmentId,
 //                ClubId,
@@ -506,12 +483,10 @@ public class ListFragment extends BaseFragment<LIstPresenter> implements ListCon
 //                tvTitle.setText(string2chianStr(appointmentListByDateForOrderBean.getResult().get(0).getStartTime()));
                 }
 //            }
-
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
-
     @Override
     public void classsucceed(ClassOverBean classOverBean) {
         Toast.makeText(getActivity(), "下课结束！", Toast.LENGTH_SHORT).show();
@@ -532,7 +507,6 @@ public class ListFragment extends BaseFragment<LIstPresenter> implements ListCon
 
 
     private void UpDownLoading() {
-
         mPresenter.getAppointmentListByDateForOrder(
                 UserId,
                 token,
@@ -543,7 +517,6 @@ public class ListFragment extends BaseFragment<LIstPresenter> implements ListCon
                 IsHistory,
                 "up"
         );
-
     }
 
 

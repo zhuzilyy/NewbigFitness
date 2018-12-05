@@ -28,17 +28,20 @@ public interface Constants {
 //    String BASEURL = "http://211.159.175.148/";//外网
 //    String BASEURL = "http://123.207.246.64/";//外网/
 //    String BASEURL = "http://www.clfitsys.com:8080/";//3天一换外网//
-    String BASEURL = "http://www.18bai6.cn:9081/";//3天一换外网//
+      //String BASEURL = "http://www.clfitsys.com:9081/"
+
+    //String BASEURL = "http://www.18bai6.cn:9081/";//3天一换外网//
+    String BASEURL = "http://www.clfitsys.com:9081/";
 //    String IMAGURL= "http://www.18bai6.cn/";
     String IMAGURL= "https://www.clfitsys.com/";
-    String MEMBERURL = "http://www.18bai6.cn:8080/";//下课网址
+    //String MEMBERURL = "http://www.18bai6.cn:8080/";//
+    String MEMBERURL = "http://www.clfitsys.com:8080/";//下课网址下课网址
 //    String BASEURL = "http://175.146.123.44:7777/";//3天一换外网/
 //    String BASEURL="http://192.168.51.165:8080/MaxFit/";//张师傅
 //String BASEURL = "http://192.168.51.189:7778/";//3天一换外网//
     int ACTIVITY_REQUEST_SELECT_PHOTO = 100;
     int ACTIVITY_REQUEST_TAKE_PICTURE = 101;
     int ACTIVITY_REQUEST_PREVIEW_PHOTO = 102;
-
     String RESULT_TYPE = "result_type";
     String RESULT_ID = "result_id";
     String RESULT_STRING = "result_string";
