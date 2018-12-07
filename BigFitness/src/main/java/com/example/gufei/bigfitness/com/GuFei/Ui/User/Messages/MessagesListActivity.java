@@ -145,7 +145,6 @@ public class MessagesListActivity extends BaseActivity<MessagesListActivityPrese
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
 
                 switch (position) {
-
                     case 0:
                         break;
                     case 1:
@@ -156,8 +155,6 @@ public class MessagesListActivity extends BaseActivity<MessagesListActivityPrese
                         break;
 
                 }
-
-
                 refresh();
             }
 
@@ -384,31 +381,22 @@ public class MessagesListActivity extends BaseActivity<MessagesListActivityPrese
 
 
     }
-
-
     @Override
     public void succeed(MessageslistBean messageslistBean) {
-
         swipeRefreshLayout.setRefreshing(false);
-
         try {
-
             datas = messageslistBean.getResult();
-
             if (datas.size() == 0){
                 tvNoMore.setVisibility(View.VISIBLE);
+                swipeRefreshLayout.setVisibility(View.GONE);
             }else {
                 tvNoMore.setVisibility(View.GONE);
+                swipeRefreshLayout.setVisibility(View.VISIBLE);
                 commonAdapter.replaceData(datas);
             }
-
         } catch (Exception e) {
-
             e.printStackTrace();
-
         }
-
-
     }
 
     @Override

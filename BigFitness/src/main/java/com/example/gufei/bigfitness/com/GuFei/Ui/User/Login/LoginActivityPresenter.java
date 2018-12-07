@@ -32,6 +32,8 @@ public class LoginActivityPresenter extends RxPresenter<LoginActivityContract.Vi
                 .subscribe(new Action1<LoginBean>() {
                         @Override
                         public void call(LoginBean normalResponse) {
+                            String message = normalResponse.getMessage();
+                            int code= normalResponse.getCode();
                             if (normalResponse.getCode()==0){
                                 if (remember) {
                                     mView.remember(userName, passWord,DeviceCode,normalResponse,true);

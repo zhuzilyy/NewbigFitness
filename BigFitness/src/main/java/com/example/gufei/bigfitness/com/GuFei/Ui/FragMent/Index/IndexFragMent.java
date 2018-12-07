@@ -347,8 +347,6 @@ public class IndexFragMent extends BaseFragment<IndexFragMentPresenter> implemen
 
         //设置进度条的颜色
         swipeRefreshLayout.setColorSchemeResources(R.color.colorPrimary, R.color.colorPrimaryDark);
-
-
         //设置进度条的大小样式
         swipeRefreshLayout.setSize(SwipeRefreshLayout.DEFAULT);
         swipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener()

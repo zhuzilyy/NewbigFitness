@@ -3,15 +3,19 @@ package com.example.gufei.bigfitness.com.GuFei.Ui.AddressList;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
+import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
+import android.support.annotation.RequiresApi;
+import android.support.v4.widget.SwipeRefreshLayout;
 import android.text.Editable;
 import android.text.TextUtils;
 import android.text.TextWatcher;
 import android.util.Log;
 import android.view.KeyEvent;
 import android.view.LayoutInflater;
+import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
@@ -68,7 +72,7 @@ public class AddressListFragMent extends BaseFragment<AddressListFragMentPresent
     @BindView(R.id.phone_txt_center)
     TextView txt_center;
     @BindView(R.id.refresh_layout)
-    TwinklingRefreshLayout refresh_layout;
+    SwipeRefreshLayout refresh_layout;
 
     private Context context;
     private AddressEditListening addressEditListening;
@@ -128,8 +132,6 @@ public class AddressListFragMent extends BaseFragment<AddressListFragMentPresent
 
         return R.layout.list_activity_address;
     }
-
-
     /**
      * 成功回调
      *
@@ -137,9 +139,9 @@ public class AddressListFragMent extends BaseFragment<AddressListFragMentPresent
      */
     @Override
     public void succeed(AddressBookBean addressBookBean) {
-        refresh_layout.finishRefreshing();
+        //refresh_layout.finishRefreshing();
+        refresh_layout.setRefreshing(false);
         init();
-
 //        String[] str = getResources().getStringArray(R.array.phone_all);
 
         for (int i = 0; i < addressBookBean.getResult().size(); i++) {
@@ -159,8 +161,6 @@ public class AddressListFragMent extends BaseFragment<AddressListFragMentPresent
             phoneBean.setSex(addressBookBean.getResult().get(i).getSex());
 
 //            phoneBean.setPosition(addressBookBean.getResult().get(i).getna());
-
-
             list_all.add(phoneBean);
 
         }
@@ -363,10 +363,13 @@ public class AddressListFragMent extends BaseFragment<AddressListFragMentPresent
                 }
             }
         });
-
+        //设置进度条的颜色
+        refresh_layout.setColorSchemeResources(R.color.colorPrimary, R.color.colorPrimaryDark);
+        //设置进度条的大小样式
+        refresh_layout.setSize(SwipeRefreshLayout.DEFAULT);
         // 设置标题部分有阴影
         // listView.setShadowVisible(true);
-        refresh_layout.setOnRefreshListener(new RefreshListenerAdapter(){
+       /* refresh_layout.setOnRefreshListener(new RefreshListenerAdapter(){
             @Override
             public void onRefresh(final TwinklingRefreshLayout refreshLayout) {
                 int userid = (int) SpUtil.get(mContext, USERIDKEY, 0);
@@ -385,15 +388,25 @@ public class AddressListFragMent extends BaseFragment<AddressListFragMentPresent
              refreshLayout.finishLoadmore();
             }
         });
+*/
+       initRefreshListener();
+    }
+    private void initRefreshListener() {
+        refresh_layout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
+            @Override
+            public void onRefresh() {
+                int userid = (int) SpUtil.get(mContext, USERIDKEY, 0);
+                String token = (String) SpUtil.get(mContext, TOKENKEY, "");
+                String search = searchText;
+                int clubid = (int) SpUtil.get(mContext, CLUBIDKEY, 0);
+                mPresenter.getAddressBook(userid, token, search, clubid);
+            }
+        });
 
     }
-
     @Override
     public void initData() {
-
         context = this.getActivity();
-
-
         int userid = (int) SpUtil.get(mContext, USERIDKEY, 0);
 
         String token = (String) SpUtil.get(mContext, TOKENKEY, "");

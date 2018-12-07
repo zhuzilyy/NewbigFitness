@@ -3,13 +3,13 @@ package com.example.gufei.bigfitness.com.GuFei.Ui.AddressList;
 
 import android.support.annotation.CallSuper;
 import android.support.annotation.UiThread;
+import android.support.v4.widget.SwipeRefreshLayout;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 import butterknife.Unbinder;
 import butterknife.internal.Utils;
 import com.example.gufei.bigfitness.R;
-import com.lcodecore.tkrefreshlayout.TwinklingRefreshLayout;
 import java.lang.IllegalStateException;
 import java.lang.Override;
 
@@ -24,7 +24,7 @@ public class AddressListFragMent_ViewBinding<T extends AddressListFragMent> impl
     target.listView = Utils.findRequiredViewAsType(source, R.id.phone_listview, "field 'listView'", PinnedSectionListView.class);
     target.letterIndexView = Utils.findRequiredViewAsType(source, R.id.phone_LetterIndexView, "field 'letterIndexView'", LetterIndexView.class);
     target.txt_center = Utils.findRequiredViewAsType(source, R.id.phone_txt_center, "field 'txt_center'", TextView.class);
-    target.refresh_layout = Utils.findRequiredViewAsType(source, R.id.refresh_layout, "field 'refresh_layout'", TwinklingRefreshLayout.class);
+    target.refresh_layout = Utils.findRequiredViewAsType(source, R.id.refresh_layout, "field 'refresh_layout'", SwipeRefreshLayout.class);
   }
 
   @Override

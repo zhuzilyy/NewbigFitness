@@ -17,7 +17,7 @@ import java.lang.Override;
 public class TrainingPlanListTodayFragMent_ViewBinding<T extends TrainingPlanListTodayFragMent> implements Unbinder {
   protected T target;
 
-  private View view2131821339;
+  private View view2131821340;
 
   @UiThread
   public TrainingPlanListTodayFragMent_ViewBinding(final T target, View source) {
@@ -28,7 +28,7 @@ public class TrainingPlanListTodayFragMent_ViewBinding<T extends TrainingPlanLis
     target.swipeRefreshLayout = Utils.findRequiredViewAsType(source, R.id.swiperefreshlayoutid, "field 'swipeRefreshLayout'", SwipeRefreshLayout.class);
     view = Utils.findRequiredView(source, R.id.btn_null_Training_add, "field 'btnNullTrainingAdd' and method 'onViewClicked'");
     target.btnNullTrainingAdd = Utils.castView(view, R.id.btn_null_Training_add, "field 'btnNullTrainingAdd'", LinearLayout.class);
-    view2131821339 = view;
+    view2131821340 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -47,8 +47,8 @@ public class TrainingPlanListTodayFragMent_ViewBinding<T extends TrainingPlanLis
     target.swipeRefreshLayout = null;
     target.btnNullTrainingAdd = null;
 
-    view2131821339.setOnClickListener(null);
-    view2131821339 = null;
+    view2131821340.setOnClickListener(null);
+    view2131821340 = null;
 
     this.target = null;
   }

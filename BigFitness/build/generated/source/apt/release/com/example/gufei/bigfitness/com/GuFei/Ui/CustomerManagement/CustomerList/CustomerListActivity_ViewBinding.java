@@ -29,7 +29,7 @@ public class CustomerListActivity_ViewBinding<T extends CustomerListActivity> im
 
   private View view2131821145;
 
-  private View view2131821431;
+  private View view2131821432;
 
   private View view2131821156;
 
@@ -37,11 +37,11 @@ public class CustomerListActivity_ViewBinding<T extends CustomerListActivity> im
 
   private View view2131821150;
 
-  private View view2131821434;
-
   private View view2131821435;
 
   private View view2131821436;
+
+  private View view2131821437;
 
   private View view2131821154;
 
@@ -70,7 +70,7 @@ public class CustomerListActivity_ViewBinding<T extends CustomerListActivity> im
     });
     view = Utils.findRequiredView(source, R.id.type_department_btn, "field 'departmentBtn' and method 'onClick'");
     target.departmentBtn = Utils.castView(view, R.id.type_department_btn, "field 'departmentBtn'", RelativeLayout.class);
-    view2131821431 = view;
+    view2131821432 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -116,7 +116,7 @@ public class CustomerListActivity_ViewBinding<T extends CustomerListActivity> im
     });
     view = Utils.findRequiredView(source, R.id.btn_thrown_public, "field 'btnThrownPublic' and method 'onClick'");
     target.btnThrownPublic = Utils.castView(view, R.id.btn_thrown_public, "field 'btnThrownPublic'", TextView.class);
-    view2131821434 = view;
+    view2131821435 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -125,7 +125,7 @@ public class CustomerListActivity_ViewBinding<T extends CustomerListActivity> im
     });
     view = Utils.findRequiredView(source, R.id.btn_Change_membertype, "field 'btnChangeMembertype' and method 'onClick'");
     target.btnChangeMembertype = Utils.castView(view, R.id.btn_Change_membertype, "field 'btnChangeMembertype'", TextView.class);
-    view2131821435 = view;
+    view2131821436 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -134,7 +134,7 @@ public class CustomerListActivity_ViewBinding<T extends CustomerListActivity> im
     });
     view = Utils.findRequiredView(source, R.id.btn_Change_coachTrack, "field 'btnChangeCoachTrack' and method 'onClick'");
     target.btnChangeCoachTrack = Utils.castView(view, R.id.btn_Change_coachTrack, "field 'btnChangeCoachTrack'", TextView.class);
-    view2131821436 = view;
+    view2131821437 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -187,20 +187,20 @@ public class CustomerListActivity_ViewBinding<T extends CustomerListActivity> im
     view2131821142 = null;
     view2131821145.setOnClickListener(null);
     view2131821145 = null;
-    view2131821431.setOnClickListener(null);
-    view2131821431 = null;
+    view2131821432.setOnClickListener(null);
+    view2131821432 = null;
     view2131821156.setOnClickListener(null);
     view2131821156 = null;
     view2131820978.setOnClickListener(null);
     view2131820978 = null;
     view2131821150.setOnClickListener(null);
     view2131821150 = null;
-    view2131821434.setOnClickListener(null);
-    view2131821434 = null;
     view2131821435.setOnClickListener(null);
     view2131821435 = null;
     view2131821436.setOnClickListener(null);
     view2131821436 = null;
+    view2131821437.setOnClickListener(null);
+    view2131821437 = null;
     view2131821154.setOnClickListener(null);
     view2131821154 = null;
 

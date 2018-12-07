@@ -2,8 +2,10 @@ package com.example.gufei.bigfitness.base;
 
 
 import android.app.Activity;
+import android.app.AlertDialog;
 import android.content.BroadcastReceiver;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.graphics.Color;
@@ -91,6 +93,7 @@ public abstract class BaseActivity<T extends BasePresenter> extends AppCompatAct
     protected SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm", Locale.getDefault());
 
     public static boolean isForeground = false;
+    private NotificationReceiver myReceiver;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -100,6 +103,10 @@ public abstract class BaseActivity<T extends BasePresenter> extends AppCompatAct
         if (layoutId != 0) {
             setContentView(layoutId);
         }
+        myReceiver = new NotificationReceiver();
+        IntentFilter intentFilter = new IntentFilter();
+        intentFilter.addAction("com.action.receive.message");
+        registerReceiver(myReceiver,intentFilter);
 
         mUnBinder = ButterKnife.bind(this);
         mContext = this;
@@ -173,7 +180,6 @@ public abstract class BaseActivity<T extends BasePresenter> extends AppCompatAct
 
     @Override
     protected void onDestroy() {
-
         super.onDestroy();
        /* unregisterReceiver(mMessageReceiver);*/
 //        Intent resultIntent = new Intent();
@@ -183,6 +189,9 @@ public abstract class BaseActivity<T extends BasePresenter> extends AppCompatAct
 //        mContext.setResult(RESULT_OK, resultIntent);
         if (mPresenter != null) {
             mPresenter.detachView();
+        }
+        if (myReceiver!=null){
+            unregisterReceiver(myReceiver);
         }
         mUnBinder.unbind();
 
@@ -367,6 +376,28 @@ public abstract class BaseActivity<T extends BasePresenter> extends AppCompatAct
         SpUtil.remove(mContext, ISDERPARTMANAGERKEY);
         SpUtil.remove(mContext, DEPARTIDKEY);
 
+    }
+    //注册广播接收到通送的广播显示对话框
+    static class NotificationReceiver extends BroadcastReceiver{
+        @Override
+        public void onReceive(Context context, Intent intent) {
+            String action = intent.getAction();
+            if (action.equals("com.action.receive.message")){
+                String title = intent.getStringExtra("title");
+                String message = intent.getStringExtra("message");
+                AlertDialog.Builder dialog=new AlertDialog.Builder(context);
+                dialog.setTitle(title);//设置标题
+                dialog.setMessage(message);//设置信息具体内容
+                dialog.setCancelable(false);//设置是否可取消
+                dialog.setPositiveButton("确定", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        dialog.dismiss();
+                    }
+                });
+                dialog.show();
+            }
+        }
     }
 
 }

@@ -20,7 +20,7 @@ import java.lang.Override;
 public class Index4FragMent_ViewBinding<T extends Index4FragMent> implements Unbinder {
   protected T target;
 
-  private View view2131821333;
+  private View view2131821334;
 
   @UiThread
   public Index4FragMent_ViewBinding(final T target, View source) {
@@ -34,7 +34,7 @@ public class Index4FragMent_ViewBinding<T extends Index4FragMent> implements Unb
     target.recyclerView = Utils.findRequiredViewAsType(source, R.id.recyclerviewid, "field 'recyclerView'", RecyclerView.class);
     view = Utils.findRequiredView(source, R.id.btn_time, "field 'btnTime' and method 'onViewClicked'");
     target.btnTime = Utils.castView(view, R.id.btn_time, "field 'btnTime'", LinearLayout.class);
-    view2131821333 = view;
+    view2131821334 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -58,8 +58,8 @@ public class Index4FragMent_ViewBinding<T extends Index4FragMent> implements Unb
     target.btnTime = null;
     target.swipeRefreshLayout = null;
 
-    view2131821333.setOnClickListener(null);
-    view2131821333 = null;
+    view2131821334.setOnClickListener(null);
+    view2131821334 = null;
 
     this.target = null;
   }

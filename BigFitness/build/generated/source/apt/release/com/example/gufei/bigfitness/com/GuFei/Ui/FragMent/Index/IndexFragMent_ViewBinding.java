@@ -3,6 +3,7 @@ package com.example.gufei.bigfitness.com.GuFei.Ui.FragMent.Index;
 
 import android.support.annotation.CallSuper;
 import android.support.annotation.UiThread;
+import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.ImageView;
@@ -29,19 +30,19 @@ public class IndexFragMent_ViewBinding<T extends IndexFragMent> implements Unbin
 
   private View view2131821231;
 
-  private View view2131821294;
+  private View view2131821295;
 
-  private View view2131821301;
+  private View view2131821302;
 
-  private View view2131821306;
+  private View view2131821307;
 
-  private View view2131821311;
+  private View view2131821312;
 
-  private View view2131821316;
+  private View view2131821317;
 
-  private View view2131821322;
+  private View view2131821323;
 
-  private View view2131821328;
+  private View view2131821329;
 
   private View view2131821232;
 
@@ -99,7 +100,7 @@ public class IndexFragMent_ViewBinding<T extends IndexFragMent> implements Unbin
     target.recyclerView = Utils.findRequiredViewAsType(source, R.id.recyclerviewid, "field 'recyclerView'", RecyclerView.class);
     view = Utils.findRequiredView(source, R.id.notice_system_btn, "field 'noticeSystemBtn' and method 'onClick'");
     target.noticeSystemBtn = Utils.castView(view, R.id.notice_system_btn, "field 'noticeSystemBtn'", LinearLayout.class);
-    view2131821294 = view;
+    view2131821295 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -108,7 +109,7 @@ public class IndexFragMent_ViewBinding<T extends IndexFragMent> implements Unbin
     });
     view = Utils.findRequiredView(source, R.id.notice_Due_btn, "field 'noticeDueBtn' and method 'onClick'");
     target.noticeDueBtn = Utils.castView(view, R.id.notice_Due_btn, "field 'noticeDueBtn'", LinearLayout.class);
-    view2131821301 = view;
+    view2131821302 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -117,7 +118,7 @@ public class IndexFragMent_ViewBinding<T extends IndexFragMent> implements Unbin
     });
     view = Utils.findRequiredView(source, R.id.notice_Sign_btn, "field 'noticeSignBtn' and method 'onClick'");
     target.noticeSignBtn = Utils.castView(view, R.id.notice_Sign_btn, "field 'noticeSignBtn'", LinearLayout.class);
-    view2131821306 = view;
+    view2131821307 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -126,7 +127,7 @@ public class IndexFragMent_ViewBinding<T extends IndexFragMent> implements Unbin
     });
     view = Utils.findRequiredView(source, R.id.notice_appointment_btn, "field 'noticeAppointmentBtn' and method 'onClick'");
     target.noticeAppointmentBtn = Utils.castView(view, R.id.notice_appointment_btn, "field 'noticeAppointmentBtn'", LinearLayout.class);
-    view2131821311 = view;
+    view2131821312 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -135,7 +136,7 @@ public class IndexFragMent_ViewBinding<T extends IndexFragMent> implements Unbin
     });
     view = Utils.findRequiredView(source, R.id.notice_change_btn, "field 'noticeChangeBtn' and method 'onClick'");
     target.noticeChangeBtn = Utils.castView(view, R.id.notice_change_btn, "field 'noticeChangeBtn'", LinearLayout.class);
-    view2131821316 = view;
+    view2131821317 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -144,7 +145,7 @@ public class IndexFragMent_ViewBinding<T extends IndexFragMent> implements Unbin
     });
     view = Utils.findRequiredView(source, R.id.notice_birthday_btn, "field 'noticeBirthdayBtn' and method 'onClick'");
     target.noticeBirthdayBtn = Utils.castView(view, R.id.notice_birthday_btn, "field 'noticeBirthdayBtn'", LinearLayout.class);
-    view2131821322 = view;
+    view2131821323 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -158,7 +159,7 @@ public class IndexFragMent_ViewBinding<T extends IndexFragMent> implements Unbin
     target.btnHideList = Utils.findRequiredViewAsType(source, R.id.btn_hide_list, "field 'btnHideList'", ImageView.class);
     view = Utils.findRequiredView(source, R.id.btn_list_head, "field 'btnListHead' and method 'onClick'");
     target.btnListHead = Utils.castView(view, R.id.btn_list_head, "field 'btnListHead'", RelativeLayout.class);
-    view2131821328 = view;
+    view2131821329 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -196,6 +197,7 @@ public class IndexFragMent_ViewBinding<T extends IndexFragMent> implements Unbin
         target.onClick(p0);
       }
     });
+    target.swipeRefreshLayout = Utils.findRequiredViewAsType(source, R.id.swipeRefreshLayout, "field 'swipeRefreshLayout'", SwipeRefreshLayout.class);
   }
 
   @Override
@@ -246,6 +248,7 @@ public class IndexFragMent_ViewBinding<T extends IndexFragMent> implements Unbin
     target.timeBirthdayresult = null;
     target.layoutBottomBirthdayresult = null;
     target.chartsBtn = null;
+    target.swipeRefreshLayout = null;
 
     view2131821063.setOnClickListener(null);
     view2131821063 = null;
@@ -257,20 +260,20 @@ public class IndexFragMent_ViewBinding<T extends IndexFragMent> implements Unbin
     view2131821230 = null;
     view2131821231.setOnClickListener(null);
     view2131821231 = null;
-    view2131821294.setOnClickListener(null);
-    view2131821294 = null;
-    view2131821301.setOnClickListener(null);
-    view2131821301 = null;
-    view2131821306.setOnClickListener(null);
-    view2131821306 = null;
-    view2131821311.setOnClickListener(null);
-    view2131821311 = null;
-    view2131821316.setOnClickListener(null);
-    view2131821316 = null;
-    view2131821322.setOnClickListener(null);
-    view2131821322 = null;
-    view2131821328.setOnClickListener(null);
-    view2131821328 = null;
+    view2131821295.setOnClickListener(null);
+    view2131821295 = null;
+    view2131821302.setOnClickListener(null);
+    view2131821302 = null;
+    view2131821307.setOnClickListener(null);
+    view2131821307 = null;
+    view2131821312.setOnClickListener(null);
+    view2131821312 = null;
+    view2131821317.setOnClickListener(null);
+    view2131821317 = null;
+    view2131821323.setOnClickListener(null);
+    view2131821323 = null;
+    view2131821329.setOnClickListener(null);
+    view2131821329 = null;
     view2131821232.setOnClickListener(null);
     view2131821232 = null;
 

@@ -40,7 +40,12 @@ public class IntentService  extends GTIntentService {
 
     @Override
     public void onNotificationMessageArrived(Context context, GTNotificationMessage gtNotificationMessage) {
-
+        //接受到推送的通知发送广播给baseActivity显示对话框
+        Intent intent = new Intent();
+        intent.putExtra("title",gtNotificationMessage.getTitle());
+        intent.putExtra("message",gtNotificationMessage.getContent());
+        intent.setAction("com.action.receive.message");
+        sendBroadcast(intent);
     }
 
     @Override

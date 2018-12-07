@@ -84,6 +84,7 @@ public class LoginActivity extends BaseActivity<LoginActivityPresenter> implemen
 
     String clientId;
     long exitTime;
+    private String userName,userPwd;
 
     @Override
     protected void initInject() {
@@ -126,7 +127,6 @@ public class LoginActivity extends BaseActivity<LoginActivityPresenter> implemen
 
         if (clientId.equals("")){
             clientId=PushManager.getInstance().getClientid(this);
-
         }
         String name = (String) SpUtil.get(mContext, ACCOUNTKEY, "");
         String pwd = (String) SpUtil.get(mContext, PASSWRODKEY, "");
@@ -191,21 +191,16 @@ public class LoginActivity extends BaseActivity<LoginActivityPresenter> implemen
         SpUtil.remove(mContext, ISDERPARTMANAGERKEY);
         SpUtil.remove(mContext, DEPARTIDKEY);
     }
-
     @Override
     protected void initData() {
-
 //        JPushInterface.init(getApplicationContext());
 
     }
-
-
-
+    //方法错误的回调
     @Override
     public void showError(String msg) {
         loadingDialog.dismiss();
-        s(this, msg);
-
+        s(this, "网络错误请重试");
     }
 
     @Override
@@ -233,9 +228,7 @@ public class LoginActivity extends BaseActivity<LoginActivityPresenter> implemen
         if (loginBean.getPersonType().equals("会籍") || loginBean.getPersonType().equals("教练")) {
             intent = new Intent(LoginActivity.this, MainActivity.class);
 //        Intent intent = new Intent(LoginActivity.this, ChartsMainActivity.class);
-
         } else {
-
             intent = new Intent(LoginActivity.this, Main2Activity.class);
         }
         startActivity(intent);
@@ -276,7 +269,7 @@ public class LoginActivity extends BaseActivity<LoginActivityPresenter> implemen
             case R.id.remberCheckBox:
                 break;
             case R.id.login_btn:
-
+                clientId = (String) SpUtil.get(mContext, CLIENTID, "");
                 String name = username.getText().toString();
                 String pwd = password.getText().toString();
                 if (StringUtil.isSpace(name)) {

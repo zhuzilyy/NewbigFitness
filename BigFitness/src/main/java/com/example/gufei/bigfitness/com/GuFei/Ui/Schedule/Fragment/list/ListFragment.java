@@ -166,8 +166,6 @@ public class ListFragment extends BaseFragment<LIstPresenter> implements ListCon
             @Override
             protected void convert(ViewHolder holder, final AppointmentListByDateForOrderBean.ResultBean listBean, int i) {
                 holder.setText(R.id.text_create_name, UserName);
-//                AppointmentId = listBean.getAppointmentId();
-//                 holder.setText(R.id.text_class, listBean.getAppType());
                 TextView textName = (TextView) holder.getView(R.id.text_class);
                 Button btn1 = (Button) holder.getView(R.id.btn1);
                 Button btn2 = (Button) holder.getView(R.id.btn2);
@@ -209,8 +207,9 @@ public class ListFragment extends BaseFragment<LIstPresenter> implements ListCon
                         x.http().get(params, new Callback.CommonCallback<String>() {
                             @Override
                             public void onSuccess(String result) {
-                                ResultBean resultBean = new Gson().fromJson(result, ResultBean.class);
+                                listBean.setIsSignIn(0);
                                 notifyDataSetChanged();
+                                ResultBean resultBean = new Gson().fromJson(result, ResultBean.class);
                                 if (resultBean.getRet() == 0) {
                                     Toast.makeText(mContext, "下课结束！", Toast.LENGTH_SHORT).show();
                                     UpDownLoading();
@@ -253,8 +252,6 @@ public class ListFragment extends BaseFragment<LIstPresenter> implements ListCon
                             builder = new SpannableStringBuilder(arr[0] + "：" + arr[1]);
                             builder.setSpan(redSpan, 0, 4, Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
                         }
-
-
                     }
                 }
 
