@@ -20,11 +20,11 @@ import java.lang.Override;
 public class SiteSelectionActivity_ViewBinding<T extends SiteSelectionActivity> implements Unbinder {
   protected T target;
 
-  private View view2131821178;
+  private View view2131821180;
 
-  private View view2131820978;
+  private View view2131820980;
 
-  private View view2131820743;
+  private View view2131820745;
 
   @UiThread
   public SiteSelectionActivity_ViewBinding(final T target, View source) {
@@ -37,7 +37,7 @@ public class SiteSelectionActivity_ViewBinding<T extends SiteSelectionActivity> 
     target.textView6 = Utils.findRequiredViewAsType(source, R.id.textView6, "field 'textView6'", TextView.class);
     view = Utils.findRequiredView(source, R.id.btn_site_add, "field 'btnSiteAdd' and method 'onViewClicked'");
     target.btnSiteAdd = Utils.castView(view, R.id.btn_site_add, "field 'btnSiteAdd'", Button.class);
-    view2131821178 = view;
+    view2131821180 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -47,7 +47,7 @@ public class SiteSelectionActivity_ViewBinding<T extends SiteSelectionActivity> 
     target.activityTrainingPlanAdd = Utils.findRequiredViewAsType(source, R.id.activity_training_plan_add, "field 'activityTrainingPlanAdd'", LinearLayout.class);
     view = Utils.findRequiredView(source, R.id.btn_complete, "field 'btnComplete' and method 'onViewClicked'");
     target.btnComplete = Utils.castView(view, R.id.btn_complete, "field 'btnComplete'", Button.class);
-    view2131820978 = view;
+    view2131820980 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -56,7 +56,7 @@ public class SiteSelectionActivity_ViewBinding<T extends SiteSelectionActivity> 
     });
     view = Utils.findRequiredView(source, R.id.btn_back, "field 'btnBack' and method 'onViewClicked'");
     target.btnBack = Utils.castView(view, R.id.btn_back, "field 'btnBack'", ImageView.class);
-    view2131820743 = view;
+    view2131820745 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -80,12 +80,12 @@ public class SiteSelectionActivity_ViewBinding<T extends SiteSelectionActivity> 
     target.btnComplete = null;
     target.btnBack = null;
 
-    view2131821178.setOnClickListener(null);
-    view2131821178 = null;
-    view2131820978.setOnClickListener(null);
-    view2131820978 = null;
-    view2131820743.setOnClickListener(null);
-    view2131820743 = null;
+    view2131821180.setOnClickListener(null);
+    view2131821180 = null;
+    view2131820980.setOnClickListener(null);
+    view2131820980 = null;
+    view2131820745.setOnClickListener(null);
+    view2131820745 = null;
 
     this.target = null;
   }

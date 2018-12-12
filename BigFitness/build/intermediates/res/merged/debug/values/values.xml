@@ -207,6 +207,7 @@
     <color name="alpha_90_white">#E6FFFFFF</color>
     <color name="alpha_95_black">#F2000000</color>
     <color name="alpha_95_white">#F2FFFFFF</color>
+    <color name="appColor">#01C80A</color>
     <color name="background">#EFEFEF</color>
     <color name="background_floating_material_dark">@color/material_grey_800</color>
     <color name="background_floating_material_light">@android:color/white</color>
@@ -244,6 +245,7 @@
     <color name="colorPrimary">#DEDEDE</color>
     <color name="colorPrimaryDark">#DEDEDE</color>
     <color name="commit_btn">#f36744</color>
+    <color name="common_text_3">#333333</color>
     <color name="cpb_default_color">#33b5e5</color>
     <color name="crop__button_bar">#f3f3f3</color>
     <color name="crop__button_text">#666666</color>
@@ -655,6 +657,10 @@
     <declare-styleable name="MetroLayout"><attr format="dimension" name="metro_divider"/></declare-styleable>
     <declare-styleable name="NGHorizontalScrollCursor"><attr format="integer" name="space"/><attr format="color" name="cursorcolor"/></declare-styleable>
     <declare-styleable name="NavigationView"><attr name="android:background"/><attr name="android:fitsSystemWindows"/><attr name="android:maxWidth"/><attr name="elevation"/><attr format="reference" name="menu"/><attr format="color" name="itemIconTint"/><attr format="color" name="itemTextColor"/><attr format="reference" name="itemBackground"/><attr format="reference" name="itemTextAppearance"/><attr format="reference" name="headerLayout"/></declare-styleable>
+    <declare-styleable name="NumberProgressBar"><attr format="integer" name="progress_current"/><attr format="integer" name="progress_max"/><attr format="color" name="progress_unreached_color"/><attr format="color" name="progress_reached_color"/><attr format="dimension" name="progress_reached_bar_height"/><attr format="dimension" name="progress_unreached_bar_height"/><attr format="dimension" name="progress_text_size"/><attr format="color" name="progress_text_color"/><attr format="dimension" name="progress_text_offset"/><attr format="enum" name="progress_text_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+        </attr></declare-styleable>
     <declare-styleable name="PopupWindow"><attr format="boolean" name="overlapAnchor"/><attr name="android:popupBackground"/><attr name="android:popupAnimationStyle"/></declare-styleable>
     <declare-styleable name="PopupWindowBackgroundState"><attr format="boolean" name="state_above_anchor"/></declare-styleable>
     <declare-styleable name="RecycleListView"><attr format="dimension" name="paddingBottomNoButtons"/><attr format="dimension" name="paddingTopNoTitle"/></declare-styleable>
@@ -714,6 +720,7 @@
             
             <enum name="screen" value="15"/>
         </attr></declare-styleable>
+    <declare-styleable name="Themes"><attr format="reference" name="numberProgressBarStyle"/></declare-styleable>
     <declare-styleable name="Toolbar"><attr format="reference" name="titleTextAppearance"/><attr format="reference" name="subtitleTextAppearance"/><attr name="title"/><attr name="subtitle"/><attr name="android:gravity"/><attr format="dimension" name="titleMargin"/><attr format="dimension" name="titleMarginStart"/><attr format="dimension" name="titleMarginEnd"/><attr format="dimension" name="titleMarginTop"/><attr format="dimension" name="titleMarginBottom"/><attr format="dimension" name="titleMargins"/><attr name="contentInsetStart"/><attr name="contentInsetEnd"/><attr name="contentInsetLeft"/><attr name="contentInsetRight"/><attr name="contentInsetStartWithNavigation"/><attr name="contentInsetEndWithActions"/><attr format="dimension" name="maxButtonHeight"/><attr name="buttonGravity">
             
             <flag name="top" value="0x30"/>
@@ -858,6 +865,7 @@
     <dimen name="common_loading_progress_size">55dp</dimen>
     <dimen name="common_loading_text_lines_spacing">5dp</dimen>
     <dimen name="common_loading_text_margin">10dp</dimen>
+    <dimen name="common_padding">15dp</dimen>
     <dimen name="cpb_default_stroke_width">4dp</dimen>
     <dimen name="crop__bar_height">56dp</dimen>
     <dimen name="design_appbar_elevation">4dp</dimen>
@@ -2947,6 +2955,10 @@
 
         <item name="android:textColor">@color/no_back</item>
         <item name="android:textSize">@dimen/dimen_16sp</item>
+    </style>
+    <style name="transparentFrameWindowStyle" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item><!--除去title-->
+        <item name="android:windowBackground">@color/transparent</item>
     </style>
     <style name="zxing_CaptureTheme" parent="android:Theme.Black.NoTitleBar.Fullscreen">
   </style>

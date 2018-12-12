@@ -70,6 +70,7 @@ import com.example.gufei.bigfitness.com.GuFei.Model.local.reportForMonthBean;
 import com.example.gufei.bigfitness.com.GuFei.Model.local.reportMemberCardSaleSumBean;
 import com.example.gufei.bigfitness.com.GuFei.Model.local.reportMonthMemberCardSaleSumBean;
 import com.example.gufei.bigfitness.com.GuFei.Model.local.tDailyMemberLessonSumReportBean;
+import com.example.gufei.bigfitness.com.GuFei.Ui.UpdateVersion.UpdateBean;
 
 import retrofit2.http.Field;
 import retrofit2.http.FormUrlEncoded;
@@ -2015,4 +2016,12 @@ public interface Api {
 //            @Query("sort") String sort,
 //            @Query("order") String order
 //    );
+
+    /*新版本更新
+     * @return
+     */
+    @GET("appClub/getMemberId")
+    rx.Observable<UpdateBean> updateVersion(
+
+    );
 }

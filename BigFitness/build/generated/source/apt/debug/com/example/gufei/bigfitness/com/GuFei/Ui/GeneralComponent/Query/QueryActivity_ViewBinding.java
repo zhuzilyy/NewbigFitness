@@ -19,7 +19,7 @@ import java.lang.Override;
 public class QueryActivity_ViewBinding<T extends QueryActivity> implements Unbinder {
   protected T target;
 
-  private View view2131820978;
+  private View view2131820980;
 
   @UiThread
   public QueryActivity_ViewBinding(final T target, View source) {
@@ -30,7 +30,7 @@ public class QueryActivity_ViewBinding<T extends QueryActivity> implements Unbin
     target.searchView = Utils.findRequiredViewAsType(source, R.id.searchView, "field 'searchView'", SearchView.class);
     view = Utils.findRequiredView(source, R.id.btn_complete, "field 'btnComplete' and method 'onViewClicked'");
     target.btnComplete = Utils.castView(view, R.id.btn_complete, "field 'btnComplete'", Button.class);
-    view2131820978 = view;
+    view2131820980 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -53,8 +53,8 @@ public class QueryActivity_ViewBinding<T extends QueryActivity> implements Unbin
     target.recyclerView = null;
     target.swipeRefreshLayout = null;
 
-    view2131820978.setOnClickListener(null);
-    view2131820978 = null;
+    view2131820980.setOnClickListener(null);
+    view2131820980 = null;
 
     this.target = null;
   }

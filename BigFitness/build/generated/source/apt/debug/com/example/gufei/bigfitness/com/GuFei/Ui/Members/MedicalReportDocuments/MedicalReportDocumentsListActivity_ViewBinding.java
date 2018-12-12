@@ -19,9 +19,9 @@ import java.lang.Override;
 public class MedicalReportDocumentsListActivity_ViewBinding<T extends MedicalReportDocumentsListActivity> implements Unbinder {
   protected T target;
 
-  private View view2131821022;
+  private View view2131821024;
 
-  private View view2131821023;
+  private View view2131821025;
 
   @UiThread
   public MedicalReportDocumentsListActivity_ViewBinding(final T target, View source) {
@@ -34,7 +34,7 @@ public class MedicalReportDocumentsListActivity_ViewBinding<T extends MedicalRep
     target.swipeRefreshLayout = Utils.findRequiredViewAsType(source, R.id.swiperefreshlayoutid, "field 'swipeRefreshLayout'", SwipeRefreshLayout.class);
     view = Utils.findRequiredView(source, R.id.btn_up_img, "field 'btnUpImg' and method 'onViewClicked'");
     target.btnUpImg = Utils.castView(view, R.id.btn_up_img, "field 'btnUpImg'", ImageView.class);
-    view2131821022 = view;
+    view2131821024 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -43,7 +43,7 @@ public class MedicalReportDocumentsListActivity_ViewBinding<T extends MedicalRep
     });
     view = Utils.findRequiredView(source, R.id.btn_screen, "field 'btnScreen' and method 'onViewClicked'");
     target.btnScreen = Utils.castView(view, R.id.btn_screen, "field 'btnScreen'", ImageView.class);
-    view2131821023 = view;
+    view2131821025 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -65,10 +65,10 @@ public class MedicalReportDocumentsListActivity_ViewBinding<T extends MedicalRep
     target.btnUpImg = null;
     target.btnScreen = null;
 
-    view2131821022.setOnClickListener(null);
-    view2131821022 = null;
-    view2131821023.setOnClickListener(null);
-    view2131821023 = null;
+    view2131821024.setOnClickListener(null);
+    view2131821024 = null;
+    view2131821025.setOnClickListener(null);
+    view2131821025 = null;
 
     this.target = null;
   }

@@ -79,13 +79,8 @@ import static com.example.gufei.bigfitness.util.ToastUtil.s;
 
 @RuntimePermissions
 public class IndexFragMent extends BaseFragment<IndexFragMentPresenter> implements IndexFragMentContract.View {
-
-
     @BindView(R.id.ScanImg)
     ImageView ScanBtn;
-
-
-
     @BindView(R.id.activity_main)
     RelativeLayout activityMain;
     //    @BindView(R.id.address_btn)

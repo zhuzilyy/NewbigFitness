@@ -1,5 +1,6 @@
 package com.example.gufei.bigfitness.com.GuFei.Ui.main;
 
+import android.Manifest;
 import android.app.AlertDialog;
 import android.app.Fragment;
 import android.content.DialogInterface;
@@ -37,6 +38,8 @@ import com.example.gufei.bigfitness.com.GuFei.Ui.CustomScanActivity;
 import com.example.gufei.bigfitness.com.GuFei.Ui.FragMent.FragMentListening;
 import com.example.gufei.bigfitness.com.GuFei.Ui.FragMent.Index.IndexFragMent;
 import com.example.gufei.bigfitness.com.GuFei.Ui.Scan.ScanActivity;
+import com.example.gufei.bigfitness.com.GuFei.Ui.UpdateVersion.AppUpdate;
+import com.example.gufei.bigfitness.com.GuFei.Ui.UpdateVersion.PermissionUtils;
 import com.example.gufei.bigfitness.com.GuFei.Ui.User.Login.LoginActivity;
 import com.example.gufei.bigfitness.com.GuFei.Ui.User.MyCenter.main.MyCenterMainFragMent;
 import com.example.gufei.bigfitness.util.PermissionTool;
@@ -71,8 +74,6 @@ import static com.example.gufei.bigfitness.util.ToastUtil.s;
 
 
 public class MainActivity extends BaseActivity<MainActivityPresenter> implements MainActivityContract.View, FragMentListening, AddressEditListening, View.OnLayoutChangeListener {
-
-
     @BindView(R.id.vp_main)
     ViewPager mViewPager;
     @BindView(R.id.tab_main)
@@ -97,7 +98,7 @@ public class MainActivity extends BaseActivity<MainActivityPresenter> implements
     private int closeF = 0;
 
     long exitTime;
-
+    private AppUpdate appUpdate;
 
     @Override
     protected void initInject() {
@@ -242,10 +243,22 @@ public class MainActivity extends BaseActivity<MainActivityPresenter> implements
         mPresenter.updata(userid, token, clubid, String.valueOf(IsDepartManager), String.valueOf(DepartId));
         mPresenter.getCustomerSource(userid, token, clubid);
         mPresenter.getCustomerIntroducer(userid, token, clubid, "");
-
+        //checkPackageVersion();
 
     }
+    //更新的方法
+    private void checkPackageVersion() {
+        //检查或获取权限
+        boolean isGranted= PermissionUtils.checkOrRequestPermissions(this,new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE,Manifest.permission.READ_EXTERNAL_STORAGE},200,this);
+        if(isGranted){
+            //权限已经被赋予
+            appUpdate = new AppUpdate(MainActivity.this);
+            appUpdate.httpCheckUpdate(null);
+        }else{
+            Toast.makeText(this, "权限获取失败", Toast.LENGTH_SHORT).show();
+        }
 
+    }
 
     @Override
     public void onLayoutChange(View v, int left, int top, int right,
@@ -340,7 +353,6 @@ public class MainActivity extends BaseActivity<MainActivityPresenter> implements
                 super.onRequestPermissionsResult(requestCode, permissions, grantResults);
         }
     }
-
     /**
      * 处理二维码扫描结果
      */

@@ -200,7 +200,11 @@ public class LoginActivity extends BaseActivity<LoginActivityPresenter> implemen
     @Override
     public void showError(String msg) {
         loadingDialog.dismiss();
-        s(this, "网络错误请重试");
+        if (!msg.contains("登录")){
+            s(this, "网络错误请重试");
+        }else{
+            s(this, msg);
+        }
     }
 
     @Override

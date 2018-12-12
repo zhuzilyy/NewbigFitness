@@ -772,6 +772,10 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_update.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\dialog_update.xml"
+    },
+    {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mon.xml",
         "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\layout\\fragment_mon.xml"
     },

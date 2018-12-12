@@ -32,7 +32,7 @@ public class IntentService  extends GTIntentService {
     private NotificationManager myManager = null;
     private Notification myNotification;
     private static final int NOTIFICATION_ID_1 = 1;
-
+    private int count;
     public IntentService() {
 
 
@@ -46,6 +46,8 @@ public class IntentService  extends GTIntentService {
         intent.putExtra("message",gtNotificationMessage.getContent());
         intent.setAction("com.action.receive.message");
         sendBroadcast(intent);
+        count++;
+        Log.i("tag",count+"========count=========");
     }
 
     @Override

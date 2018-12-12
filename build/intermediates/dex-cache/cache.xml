@@ -3,12 +3,30 @@
 
     <item
         is-multidex="true"
-        jar="E:\NewbigFitness\library\build\intermediates\bundles\default\classes.jar"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.1\4d060ca3190df0eda4dc13415532a12e15ca5f11\okhttp-3.8.1.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="f9390ef679554b70853e62b9d10375cb3173ee23">
-        <dex dex="E:\NewbigFitness\BigFitness\build\intermediates\transforms\dex\debug\folders\1000\4\classes_c2aeeb7b81636faa3370f9bc593c774a47978fa6\classes.dex" />
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="E:\NewbigFitness\BigFitness\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.8.1_032b1d2117e56d98e15716cdfc48889f5c1fd244\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.3.0\af000bec2036a2a9d07197c4b03b8966bfc60b03\rxjava-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af000bec2036a2a9d07197c4b03b8966bfc60b03">
+        <dex dex="E:\NewbigFitness\BigFitness\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.3.0_07a75d7443549d05d9106a49b0497bd04cd04ea9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\7e444ea0b3fa16eefcc5939e3a57829571693706\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73e29ea5ff160d5cc7993fe3bbcc1cb7666c7a4c">
+        <dex dex="E:\NewbigFitness\BigFitness\build\intermediates\transforms\dex\debug\folders\1000\10\classes_85396053f3fd379918bd7346306f3ffaebd3b97c\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -18,6 +36,42 @@
         revision="25.0.2"
         sha1="76510e79440c09c591be16483d136a06a83de021">
         <dex dex="E:\NewbigFitness\BigFitness\build\intermediates\transforms\dex\debug\folders\1000\4\classes_61563854b19e6474b1429779d72ce8077a879c2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\7a313302a2f7ad56eafc133649d2449dc302f886\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9b94b5bf3f519e57421bbb1784fde8b3baff58b">
+        <dex dex="E:\NewbigFitness\BigFitness\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c14c3849b5eacd587215f2af5d881c3e43556b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="E:\NewbigFitness\BigFitness\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_f63c7ab08dbed3c34e0fe0b9b1a691240ffa1bb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\231c659027dfe54281e24b7cf3c7aab32e9256de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="11acd81e4e1b87c12391e637e628e59916d41dcf">
+        <dex dex="E:\NewbigFitness\BigFitness\build\intermediates\transforms\dex\debug\folders\1000\10\classes_213d5a355c2b61406c458373a79a52af505725e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\NewbigFitness\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9390ef679554b70853e62b9d10375cb3173ee23">
+        <dex dex="E:\NewbigFitness\BigFitness\build\intermediates\transforms\dex\debug\folders\1000\4\classes_c2aeeb7b81636faa3370f9bc593c774a47978fa6\classes.dex" />
     </item>
 
 </items>

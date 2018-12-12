@@ -21,27 +21,27 @@ import java.lang.Override;
 public class CustomerAddCollectionActivity_ViewBinding<T extends CustomerAddCollectionActivity> implements Unbinder {
   protected T target;
 
-  private View view2131820912;
-
   private View view2131820914;
 
-  private View view2131820917;
+  private View view2131820916;
 
-  private View view2131820920;
+  private View view2131820919;
 
-  private View view2131820924;
+  private View view2131820922;
 
-  private View view2131820928;
+  private View view2131820926;
 
-  private View view2131820931;
+  private View view2131820930;
 
-  private View view2131820935;
+  private View view2131820933;
 
-  private View view2131820978;
+  private View view2131820937;
 
-  private View view2131820906;
+  private View view2131820980;
 
-  private View view2131820907;
+  private View view2131820908;
+
+  private View view2131820909;
 
   @UiThread
   public CustomerAddCollectionActivity_ViewBinding(final T target, View source) {
@@ -54,7 +54,7 @@ public class CustomerAddCollectionActivity_ViewBinding<T extends CustomerAddColl
     target.collectionUserTelText = Utils.findRequiredViewAsType(source, R.id.collection_user_tel_text, "field 'collectionUserTelText'", TextView.class);
     view = Utils.findRequiredView(source, R.id.query_tel_btn, "field 'queryTelBtn' and method 'onClick'");
     target.queryTelBtn = Utils.castView(view, R.id.query_tel_btn, "field 'queryTelBtn'", TextView.class);
-    view2131820912 = view;
+    view2131820914 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -64,7 +64,7 @@ public class CustomerAddCollectionActivity_ViewBinding<T extends CustomerAddColl
     target.collectionUserTel = Utils.findRequiredViewAsType(source, R.id.collection_user_tel, "field 'collectionUserTel'", TextView.class);
     view = Utils.findRequiredView(source, R.id.references_btn, "field 'referencesBtn' and method 'onClick'");
     target.referencesBtn = Utils.castView(view, R.id.references_btn, "field 'referencesBtn'", RelativeLayout.class);
-    view2131820914 = view;
+    view2131820916 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -75,7 +75,7 @@ public class CustomerAddCollectionActivity_ViewBinding<T extends CustomerAddColl
     target.references = Utils.findRequiredViewAsType(source, R.id.references, "field 'references'", TextView.class);
     view = Utils.findRequiredView(source, R.id.user_source_btn, "field 'userSourceBtn' and method 'onClick'");
     target.userSourceBtn = Utils.castView(view, R.id.user_source_btn, "field 'userSourceBtn'", RelativeLayout.class);
-    view2131820917 = view;
+    view2131820919 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -86,7 +86,7 @@ public class CustomerAddCollectionActivity_ViewBinding<T extends CustomerAddColl
     target.customerSource = Utils.findRequiredViewAsType(source, R.id.customer_source, "field 'customerSource'", TextView.class);
     view = Utils.findRequiredView(source, R.id.customer_will_btn, "field 'customerWillBtn' and method 'onClick'");
     target.customerWillBtn = Utils.castView(view, R.id.customer_will_btn, "field 'customerWillBtn'", RelativeLayout.class);
-    view2131820920 = view;
+    view2131820922 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -97,7 +97,7 @@ public class CustomerAddCollectionActivity_ViewBinding<T extends CustomerAddColl
     target.customerWill = Utils.findRequiredViewAsType(source, R.id.customer_will, "field 'customerWill'", TextView.class);
     view = Utils.findRequiredView(source, R.id.customer_identification_btn, "field 'customerIdentificationBtn' and method 'onClick'");
     target.customerIdentificationBtn = Utils.castView(view, R.id.customer_identification_btn, "field 'customerIdentificationBtn'", RelativeLayout.class);
-    view2131820924 = view;
+    view2131820926 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -108,7 +108,7 @@ public class CustomerAddCollectionActivity_ViewBinding<T extends CustomerAddColl
     target.customerIdentification = Utils.findRequiredViewAsType(source, R.id.customer_identification, "field 'customerIdentification'", TextView.class);
     view = Utils.findRequiredView(source, R.id.collectors_btn, "field 'collectorsBtn' and method 'onClick'");
     target.collectorsBtn = Utils.castView(view, R.id.collectors_btn, "field 'collectorsBtn'", RelativeLayout.class);
-    view2131820928 = view;
+    view2131820930 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -121,7 +121,7 @@ public class CustomerAddCollectionActivity_ViewBinding<T extends CustomerAddColl
     target.membershipConsultant = Utils.findRequiredViewAsType(source, R.id.membership_consultant, "field 'membershipConsultant'", TextView.class);
     view = Utils.findRequiredView(source, R.id.membership_consultant_btn, "field 'membershipConsultantBtn' and method 'onClick'");
     target.membershipConsultantBtn = Utils.castView(view, R.id.membership_consultant_btn, "field 'membershipConsultantBtn'", RelativeLayout.class);
-    view2131820931 = view;
+    view2131820933 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -130,7 +130,7 @@ public class CustomerAddCollectionActivity_ViewBinding<T extends CustomerAddColl
     });
     view = Utils.findRequiredView(source, R.id.card_type_btn, "field 'cardTypeBtn' and method 'onClick'");
     target.cardTypeBtn = Utils.castView(view, R.id.card_type_btn, "field 'cardTypeBtn'", RelativeLayout.class);
-    view2131820935 = view;
+    view2131820937 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -147,7 +147,7 @@ public class CustomerAddCollectionActivity_ViewBinding<T extends CustomerAddColl
     target.tvTitle = Utils.findRequiredViewAsType(source, R.id.tv_title, "field 'tvTitle'", TextView.class);
     view = Utils.findRequiredView(source, R.id.btn_complete, "field 'btnComplete' and method 'onClick'");
     target.btnComplete = Utils.castView(view, R.id.btn_complete, "field 'btnComplete'", Button.class);
-    view2131820978 = view;
+    view2131820980 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -157,7 +157,7 @@ public class CustomerAddCollectionActivity_ViewBinding<T extends CustomerAddColl
     target.toolbar = Utils.findRequiredViewAsType(source, R.id.toolbar, "field 'toolbar'", Toolbar.class);
     view = Utils.findRequiredView(source, R.id.btn_sex_men, "field 'btnSexMen' and method 'onClick'");
     target.btnSexMen = Utils.castView(view, R.id.btn_sex_men, "field 'btnSexMen'", RadioButton.class);
-    view2131820906 = view;
+    view2131820908 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -166,7 +166,7 @@ public class CustomerAddCollectionActivity_ViewBinding<T extends CustomerAddColl
     });
     view = Utils.findRequiredView(source, R.id.btn_sex_women, "field 'btnSexWomen' and method 'onClick'");
     target.btnSexWomen = Utils.castView(view, R.id.btn_sex_women, "field 'btnSexWomen'", RadioButton.class);
-    view2131820907 = view;
+    view2131820909 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -227,28 +227,28 @@ public class CustomerAddCollectionActivity_ViewBinding<T extends CustomerAddColl
     target.star2 = null;
     target.starOwn = null;
 
-    view2131820912.setOnClickListener(null);
-    view2131820912 = null;
     view2131820914.setOnClickListener(null);
     view2131820914 = null;
-    view2131820917.setOnClickListener(null);
-    view2131820917 = null;
-    view2131820920.setOnClickListener(null);
-    view2131820920 = null;
-    view2131820924.setOnClickListener(null);
-    view2131820924 = null;
-    view2131820928.setOnClickListener(null);
-    view2131820928 = null;
-    view2131820931.setOnClickListener(null);
-    view2131820931 = null;
-    view2131820935.setOnClickListener(null);
-    view2131820935 = null;
-    view2131820978.setOnClickListener(null);
-    view2131820978 = null;
-    view2131820906.setOnClickListener(null);
-    view2131820906 = null;
-    view2131820907.setOnClickListener(null);
-    view2131820907 = null;
+    view2131820916.setOnClickListener(null);
+    view2131820916 = null;
+    view2131820919.setOnClickListener(null);
+    view2131820919 = null;
+    view2131820922.setOnClickListener(null);
+    view2131820922 = null;
+    view2131820926.setOnClickListener(null);
+    view2131820926 = null;
+    view2131820930.setOnClickListener(null);
+    view2131820930 = null;
+    view2131820933.setOnClickListener(null);
+    view2131820933 = null;
+    view2131820937.setOnClickListener(null);
+    view2131820937 = null;
+    view2131820980.setOnClickListener(null);
+    view2131820980 = null;
+    view2131820908.setOnClickListener(null);
+    view2131820908 = null;
+    view2131820909.setOnClickListener(null);
+    view2131820909 = null;
 
     this.target = null;
   }

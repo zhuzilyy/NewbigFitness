@@ -19,9 +19,7 @@ import java.lang.Override;
 public class AppraiseActivity_ViewBinding<T extends AppraiseActivity> implements Unbinder {
   protected T target;
 
-  private View view2131820797;
-
-  private View view2131820800;
+  private View view2131820799;
 
   private View view2131820802;
 
@@ -29,7 +27,9 @@ public class AppraiseActivity_ViewBinding<T extends AppraiseActivity> implements
 
   private View view2131820806;
 
-  private View view2131820809;
+  private View view2131820808;
+
+  private View view2131820811;
 
   @UiThread
   public AppraiseActivity_ViewBinding(final T target, View source) {
@@ -38,7 +38,7 @@ public class AppraiseActivity_ViewBinding<T extends AppraiseActivity> implements
     View view;
     view = Utils.findRequiredView(source, R.id.five_star_btn, "field 'fiveStarBtn' and method 'onViewClicked'");
     target.fiveStarBtn = Utils.castView(view, R.id.five_star_btn, "field 'fiveStarBtn'", LinearLayout.class);
-    view2131820797 = view;
+    view2131820799 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -47,7 +47,7 @@ public class AppraiseActivity_ViewBinding<T extends AppraiseActivity> implements
     });
     view = Utils.findRequiredView(source, R.id.four_star_btn, "field 'fourStarBtn' and method 'onViewClicked'");
     target.fourStarBtn = Utils.castView(view, R.id.four_star_btn, "field 'fourStarBtn'", LinearLayout.class);
-    view2131820800 = view;
+    view2131820802 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -56,7 +56,7 @@ public class AppraiseActivity_ViewBinding<T extends AppraiseActivity> implements
     });
     view = Utils.findRequiredView(source, R.id.three_star_btn, "field 'threeStarBtn' and method 'onViewClicked'");
     target.threeStarBtn = Utils.castView(view, R.id.three_star_btn, "field 'threeStarBtn'", LinearLayout.class);
-    view2131820802 = view;
+    view2131820804 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -65,7 +65,7 @@ public class AppraiseActivity_ViewBinding<T extends AppraiseActivity> implements
     });
     view = Utils.findRequiredView(source, R.id.two_star_btn, "field 'twoStarBtn' and method 'onViewClicked'");
     target.twoStarBtn = Utils.castView(view, R.id.two_star_btn, "field 'twoStarBtn'", LinearLayout.class);
-    view2131820804 = view;
+    view2131820806 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -74,7 +74,7 @@ public class AppraiseActivity_ViewBinding<T extends AppraiseActivity> implements
     });
     view = Utils.findRequiredView(source, R.id.one_star_btn, "field 'oneStarBtn' and method 'onViewClicked'");
     target.oneStarBtn = Utils.castView(view, R.id.one_star_btn, "field 'oneStarBtn'", LinearLayout.class);
-    view2131820806 = view;
+    view2131820808 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -84,7 +84,7 @@ public class AppraiseActivity_ViewBinding<T extends AppraiseActivity> implements
     target.contentText = Utils.findRequiredViewAsType(source, R.id.content_text, "field 'contentText'", TextView.class);
     view = Utils.findRequiredView(source, R.id.show_all_btn, "field 'showAllBtn' and method 'onViewClicked'");
     target.showAllBtn = Utils.castView(view, R.id.show_all_btn, "field 'showAllBtn'", TextView.class);
-    view2131820809 = view;
+    view2131820811 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -117,18 +117,18 @@ public class AppraiseActivity_ViewBinding<T extends AppraiseActivity> implements
     target.toolbar = null;
     target.activityAddressDetails = null;
 
-    view2131820797.setOnClickListener(null);
-    view2131820797 = null;
-    view2131820800.setOnClickListener(null);
-    view2131820800 = null;
+    view2131820799.setOnClickListener(null);
+    view2131820799 = null;
     view2131820802.setOnClickListener(null);
     view2131820802 = null;
     view2131820804.setOnClickListener(null);
     view2131820804 = null;
     view2131820806.setOnClickListener(null);
     view2131820806 = null;
-    view2131820809.setOnClickListener(null);
-    view2131820809 = null;
+    view2131820808.setOnClickListener(null);
+    view2131820808 = null;
+    view2131820811.setOnClickListener(null);
+    view2131820811 = null;
 
     this.target = null;
   }

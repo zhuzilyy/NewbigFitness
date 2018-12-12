@@ -16,7 +16,7 @@ import java.lang.Override;
 public class ScanActivity_ViewBinding<T extends ScanActivity> implements Unbinder {
   protected T target;
 
-  private View view2131820743;
+  private View view2131820745;
 
   @UiThread
   public ScanActivity_ViewBinding(final T target, View source) {
@@ -25,7 +25,7 @@ public class ScanActivity_ViewBinding<T extends ScanActivity> implements Unbinde
     View view;
     view = Utils.findRequiredView(source, R.id.btn_back, "field 'btnBack' and method 'onViewClicked'");
     target.btnBack = Utils.castView(view, R.id.btn_back, "field 'btnBack'", ImageView.class);
-    view2131820743 = view;
+    view2131820745 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -44,8 +44,8 @@ public class ScanActivity_ViewBinding<T extends ScanActivity> implements Unbinde
     target.btnBack = null;
     target.tvTitle = null;
 
-    view2131820743.setOnClickListener(null);
-    view2131820743 = null;
+    view2131820745.setOnClickListener(null);
+    view2131820745 = null;
 
     this.target = null;
   }

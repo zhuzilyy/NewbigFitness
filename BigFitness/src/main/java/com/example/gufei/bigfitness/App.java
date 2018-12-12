@@ -16,6 +16,7 @@ import com.example.gufei.bigfitness.com.GuFei.Push.IntentService;
 import com.example.gufei.bigfitness.component.CrashHandler;
 import com.example.gufei.bigfitness.util.FileUtil;
 import com.igexin.sdk.PushManager;
+import com.lzy.okgo.OkGo;
 import com.orhanobut.logger.Logger;
 
 
@@ -64,7 +65,7 @@ public class App extends Application {
         x.Ext.setDebug(true); //输出debug日志，开启会影响性能
 //         百度地图初始化
 //        SDKInitializer.initialize(this);
-
+        OkGo.getInstance().init(this);
         //初始化屏幕宽高
         getScreenSize();
 

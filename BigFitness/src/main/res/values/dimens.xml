@@ -57,5 +57,7 @@
     <dimen name="dimen_30dp">30dp</dimen>
     <dimen name="actionBarSize">32dip</dimen>
     <dimen name="dimen_18dp">18dp</dimen>
+    <!--边距-->
+    <dimen name="common_padding">15dp</dimen>
 
 </resources>

@@ -21,17 +21,17 @@ import java.lang.Override;
 public class MembersFollowUpRecordActivity_ViewBinding<T extends MembersFollowUpRecordActivity> implements Unbinder {
   protected T target;
 
-  private View view2131820825;
+  private View view2131820827;
 
-  private View view2131821438;
+  private View view2131821445;
 
-  private View view2131821156;
+  private View view2131821158;
 
-  private View view2131821441;
+  private View view2131821448;
 
-  private View view2131821442;
+  private View view2131821449;
 
-  private View view2131821443;
+  private View view2131821450;
 
   @UiThread
   public MembersFollowUpRecordActivity_ViewBinding(final T target, View source) {
@@ -47,7 +47,7 @@ public class MembersFollowUpRecordActivity_ViewBinding<T extends MembersFollowUp
     target.textCustomerImg = Utils.findRequiredViewAsType(source, R.id.text_customer_img, "field 'textCustomerImg'", ImageView.class);
     view = Utils.findRequiredView(source, R.id.btn_appointment, "field 'btnAppointment' and method 'onViewClicked'");
     target.btnAppointment = Utils.castView(view, R.id.btn_appointment, "field 'btnAppointment'", ImageView.class);
-    view2131820825 = view;
+    view2131820827 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -56,7 +56,7 @@ public class MembersFollowUpRecordActivity_ViewBinding<T extends MembersFollowUp
     });
     view = Utils.findRequiredView(source, R.id.btn_customer_info, "field 'btnCustomerInfo' and method 'onViewClicked'");
     target.btnCustomerInfo = Utils.castView(view, R.id.btn_customer_info, "field 'btnCustomerInfo'", ImageView.class);
-    view2131821438 = view;
+    view2131821445 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -65,7 +65,7 @@ public class MembersFollowUpRecordActivity_ViewBinding<T extends MembersFollowUp
     });
     view = Utils.findRequiredView(source, R.id.fab, "field 'floatingActionButton' and method 'onViewClicked'");
     target.floatingActionButton = Utils.castView(view, R.id.fab, "field 'floatingActionButton'", FloatingActionButton.class);
-    view2131821156 = view;
+    view2131821158 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -74,7 +74,7 @@ public class MembersFollowUpRecordActivity_ViewBinding<T extends MembersFollowUp
     });
     view = Utils.findRequiredView(source, R.id.btn_report_medical, "field 'btnReportMedical' and method 'onViewClicked'");
     target.btnReportMedical = Utils.castView(view, R.id.btn_report_medical, "field 'btnReportMedical'", LinearLayout.class);
-    view2131821441 = view;
+    view2131821448 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -83,7 +83,7 @@ public class MembersFollowUpRecordActivity_ViewBinding<T extends MembersFollowUp
     });
     view = Utils.findRequiredView(source, R.id.btn_report_appointment, "field 'btnReportAppointment' and method 'onViewClicked'");
     target.btnReportAppointment = Utils.castView(view, R.id.btn_report_appointment, "field 'btnReportAppointment'", LinearLayout.class);
-    view2131821442 = view;
+    view2131821449 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -92,7 +92,7 @@ public class MembersFollowUpRecordActivity_ViewBinding<T extends MembersFollowUp
     });
     view = Utils.findRequiredView(source, R.id.btn_class_record, "field 'btnClassRecord' and method 'onViewClicked'");
     target.btnClassRecord = Utils.castView(view, R.id.btn_class_record, "field 'btnClassRecord'", LinearLayout.class);
-    view2131821443 = view;
+    view2131821450 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -121,18 +121,18 @@ public class MembersFollowUpRecordActivity_ViewBinding<T extends MembersFollowUp
     target.btnReportAppointment = null;
     target.btnClassRecord = null;
 
-    view2131820825.setOnClickListener(null);
-    view2131820825 = null;
-    view2131821438.setOnClickListener(null);
-    view2131821438 = null;
-    view2131821156.setOnClickListener(null);
-    view2131821156 = null;
-    view2131821441.setOnClickListener(null);
-    view2131821441 = null;
-    view2131821442.setOnClickListener(null);
-    view2131821442 = null;
-    view2131821443.setOnClickListener(null);
-    view2131821443 = null;
+    view2131820827.setOnClickListener(null);
+    view2131820827 = null;
+    view2131821445.setOnClickListener(null);
+    view2131821445 = null;
+    view2131821158.setOnClickListener(null);
+    view2131821158 = null;
+    view2131821448.setOnClickListener(null);
+    view2131821448 = null;
+    view2131821449.setOnClickListener(null);
+    view2131821449 = null;
+    view2131821450.setOnClickListener(null);
+    view2131821450 = null;
 
     this.target = null;
   }

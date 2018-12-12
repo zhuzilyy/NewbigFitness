@@ -20,41 +20,41 @@ import java.lang.Override;
 public class MembersInfoActivity_ViewBinding<T extends MembersInfoActivity> implements Unbinder {
   protected T target;
 
-  private View view2131821072;
-
-  private View view2131821073;
-
   private View view2131821074;
+
+  private View view2131821075;
 
   private View view2131821076;
 
-  private View view2131821077;
+  private View view2131821078;
 
   private View view2131821079;
 
-  private View view2131821086;
+  private View view2131821081;
 
   private View view2131821088;
 
   private View view2131821090;
 
-  private View view2131821093;
+  private View view2131821092;
 
   private View view2131821095;
 
   private View view2131821097;
 
-  private View view2131821100;
-
   private View view2131821099;
 
-  private View view2131821103;
+  private View view2131821102;
+
+  private View view2131821101;
 
   private View view2131821105;
 
-  private View view2131821104;
+  private View view2131821107;
 
-  private View view2131820978;
+  private View view2131821106;
+
+  private View view2131820980;
 
   @UiThread
   public MembersInfoActivity_ViewBinding(final T target, View source) {
@@ -63,7 +63,7 @@ public class MembersInfoActivity_ViewBinding<T extends MembersInfoActivity> impl
     View view;
     view = Utils.findRequiredView(source, R.id.btn_card, "field 'btnCard' and method 'onViewClicked'");
     target.btnCard = Utils.castView(view, R.id.btn_card, "field 'btnCard'", LinearLayout.class);
-    view2131821072 = view;
+    view2131821074 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -72,7 +72,7 @@ public class MembersInfoActivity_ViewBinding<T extends MembersInfoActivity> impl
     });
     view = Utils.findRequiredView(source, R.id.btn_wardrobe, "field 'btnWardrobe' and method 'onViewClicked'");
     target.btnWardrobe = Utils.castView(view, R.id.btn_wardrobe, "field 'btnWardrobe'", LinearLayout.class);
-    view2131821073 = view;
+    view2131821075 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -81,7 +81,7 @@ public class MembersInfoActivity_ViewBinding<T extends MembersInfoActivity> impl
     });
     view = Utils.findRequiredView(source, R.id.btn_class, "field 'btnClass' and method 'onViewClicked'");
     target.btnClass = Utils.castView(view, R.id.btn_class, "field 'btnClass'", LinearLayout.class);
-    view2131821074 = view;
+    view2131821076 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -92,7 +92,7 @@ public class MembersInfoActivity_ViewBinding<T extends MembersInfoActivity> impl
     target.userNameText = Utils.findRequiredViewAsType(source, R.id.user_name_text, "field 'userNameText'", TextView.class);
     view = Utils.findRequiredView(source, R.id.head_name_btn, "field 'headNameBtn' and method 'onViewClicked'");
     target.headNameBtn = Utils.castView(view, R.id.head_name_btn, "field 'headNameBtn'", RelativeLayout.class);
-    view2131821076 = view;
+    view2131821078 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -102,7 +102,7 @@ public class MembersInfoActivity_ViewBinding<T extends MembersInfoActivity> impl
     target.userSexText = Utils.findRequiredViewAsType(source, R.id.user_sex_text, "field 'userSexText'", TextView.class);
     view = Utils.findRequiredView(source, R.id.head_sex_btn, "field 'headSexBtn' and method 'onViewClicked'");
     target.headSexBtn = Utils.castView(view, R.id.head_sex_btn, "field 'headSexBtn'", RelativeLayout.class);
-    view2131821077 = view;
+    view2131821079 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -112,7 +112,7 @@ public class MembersInfoActivity_ViewBinding<T extends MembersInfoActivity> impl
     target.userTelText = Utils.findRequiredViewAsType(source, R.id.user_tel_text, "field 'userTelText'", TextView.class);
     view = Utils.findRequiredView(source, R.id.head_tel_btn, "field 'headTelBtn' and method 'onViewClicked'");
     target.headTelBtn = Utils.castView(view, R.id.head_tel_btn, "field 'headTelBtn'", RelativeLayout.class);
-    view2131821079 = view;
+    view2131821081 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -126,7 +126,7 @@ public class MembersInfoActivity_ViewBinding<T extends MembersInfoActivity> impl
     target.sourceIdText = Utils.findRequiredViewAsType(source, R.id.source_id_text, "field 'sourceIdText'", TextView.class);
     view = Utils.findRequiredView(source, R.id.source_id_btn, "field 'sourceIdBtn' and method 'onViewClicked'");
     target.sourceIdBtn = Utils.castView(view, R.id.source_id_btn, "field 'sourceIdBtn'", RelativeLayout.class);
-    view2131821086 = view;
+    view2131821088 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -136,7 +136,7 @@ public class MembersInfoActivity_ViewBinding<T extends MembersInfoActivity> impl
     target.userLabelText = Utils.findRequiredViewAsType(source, R.id.user_label_text, "field 'userLabelText'", TextView.class);
     view = Utils.findRequiredView(source, R.id.label_btn, "field 'labelBtn' and method 'onViewClicked'");
     target.labelBtn = Utils.castView(view, R.id.label_btn, "field 'labelBtn'", RelativeLayout.class);
-    view2131821088 = view;
+    view2131821090 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -147,7 +147,7 @@ public class MembersInfoActivity_ViewBinding<T extends MembersInfoActivity> impl
     target.memberIntentionText = Utils.findRequiredViewAsType(source, R.id.member_intention_text, "field 'memberIntentionText'", TextView.class);
     view = Utils.findRequiredView(source, R.id.member_intention_btn, "field 'memberIntentionBtn' and method 'onViewClicked'");
     target.memberIntentionBtn = Utils.castView(view, R.id.member_intention_btn, "field 'memberIntentionBtn'", RelativeLayout.class);
-    view2131821090 = view;
+    view2131821092 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -157,7 +157,7 @@ public class MembersInfoActivity_ViewBinding<T extends MembersInfoActivity> impl
     target.textConsultant = Utils.findRequiredViewAsType(source, R.id.text_consultant, "field 'textConsultant'", TextView.class);
     view = Utils.findRequiredView(source, R.id.btn_consultant, "field 'btnConsultant' and method 'onViewClicked'");
     target.btnConsultant = Utils.castView(view, R.id.btn_consultant, "field 'btnConsultant'", RelativeLayout.class);
-    view2131821093 = view;
+    view2131821095 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -167,7 +167,7 @@ public class MembersInfoActivity_ViewBinding<T extends MembersInfoActivity> impl
     target.textCoachPos = Utils.findRequiredViewAsType(source, R.id.text_coach_pos, "field 'textCoachPos'", TextView.class);
     view = Utils.findRequiredView(source, R.id.btn_coach_pos, "field 'btnCoachPos' and method 'onViewClicked'");
     target.btnCoachPos = Utils.castView(view, R.id.btn_coach_pos, "field 'btnCoachPos'", RelativeLayout.class);
-    view2131821095 = view;
+    view2131821097 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -177,7 +177,7 @@ public class MembersInfoActivity_ViewBinding<T extends MembersInfoActivity> impl
     target.textCoachTrack = Utils.findRequiredViewAsType(source, R.id.text_coach_track, "field 'textCoachTrack'", TextView.class);
     view = Utils.findRequiredView(source, R.id.btn_coach_track, "field 'btnCoachTrack' and method 'onViewClicked'");
     target.btnCoachTrack = Utils.castView(view, R.id.btn_coach_track, "field 'btnCoachTrack'", RelativeLayout.class);
-    view2131821097 = view;
+    view2131821099 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -186,7 +186,7 @@ public class MembersInfoActivity_ViewBinding<T extends MembersInfoActivity> impl
     });
     view = Utils.findRequiredView(source, R.id.text_follow_time, "field 'textFollowTime' and method 'onViewClicked'");
     target.textFollowTime = Utils.castView(view, R.id.text_follow_time, "field 'textFollowTime'", TextView.class);
-    view2131821100 = view;
+    view2131821102 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -195,7 +195,7 @@ public class MembersInfoActivity_ViewBinding<T extends MembersInfoActivity> impl
     });
     view = Utils.findRequiredView(source, R.id.btn_follow_time, "field 'btnFollowTime' and method 'onViewClicked'");
     target.btnFollowTime = Utils.castView(view, R.id.btn_follow_time, "field 'btnFollowTime'", RelativeLayout.class);
-    view2131821099 = view;
+    view2131821101 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -208,7 +208,7 @@ public class MembersInfoActivity_ViewBinding<T extends MembersInfoActivity> impl
     target.textOperator = Utils.findRequiredViewAsType(source, R.id.text_operator, "field 'textOperator'", TextView.class);
     view = Utils.findRequiredView(source, R.id.btn_operator, "field 'btnOperator' and method 'onViewClicked'");
     target.btnOperator = Utils.castView(view, R.id.btn_operator, "field 'btnOperator'", RelativeLayout.class);
-    view2131821103 = view;
+    view2131821105 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -217,7 +217,7 @@ public class MembersInfoActivity_ViewBinding<T extends MembersInfoActivity> impl
     });
     view = Utils.findRequiredView(source, R.id.text_operating_time, "field 'textOperatingTime' and method 'onViewClicked'");
     target.textOperatingTime = Utils.castView(view, R.id.text_operating_time, "field 'textOperatingTime'", TextView.class);
-    view2131821105 = view;
+    view2131821107 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -226,7 +226,7 @@ public class MembersInfoActivity_ViewBinding<T extends MembersInfoActivity> impl
     });
     view = Utils.findRequiredView(source, R.id.btn_operating_time, "field 'btnOperatingTime' and method 'onViewClicked'");
     target.btnOperatingTime = Utils.castView(view, R.id.btn_operating_time, "field 'btnOperatingTime'", RelativeLayout.class);
-    view2131821104 = view;
+    view2131821106 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -236,7 +236,7 @@ public class MembersInfoActivity_ViewBinding<T extends MembersInfoActivity> impl
     target.tvTitle = Utils.findRequiredViewAsType(source, R.id.tv_title, "field 'tvTitle'", TextView.class);
     view = Utils.findRequiredView(source, R.id.btn_complete, "field 'btnComplete' and method 'onViewClicked'");
     target.btnComplete = Utils.castView(view, R.id.btn_complete, "field 'btnComplete'", Button.class);
-    view2131820978 = view;
+    view2131820980 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -294,42 +294,42 @@ public class MembersInfoActivity_ViewBinding<T extends MembersInfoActivity> impl
     target.toolbar = null;
     target.activityMembersInfo = null;
 
-    view2131821072.setOnClickListener(null);
-    view2131821072 = null;
-    view2131821073.setOnClickListener(null);
-    view2131821073 = null;
     view2131821074.setOnClickListener(null);
     view2131821074 = null;
+    view2131821075.setOnClickListener(null);
+    view2131821075 = null;
     view2131821076.setOnClickListener(null);
     view2131821076 = null;
-    view2131821077.setOnClickListener(null);
-    view2131821077 = null;
+    view2131821078.setOnClickListener(null);
+    view2131821078 = null;
     view2131821079.setOnClickListener(null);
     view2131821079 = null;
-    view2131821086.setOnClickListener(null);
-    view2131821086 = null;
+    view2131821081.setOnClickListener(null);
+    view2131821081 = null;
     view2131821088.setOnClickListener(null);
     view2131821088 = null;
     view2131821090.setOnClickListener(null);
     view2131821090 = null;
-    view2131821093.setOnClickListener(null);
-    view2131821093 = null;
+    view2131821092.setOnClickListener(null);
+    view2131821092 = null;
     view2131821095.setOnClickListener(null);
     view2131821095 = null;
     view2131821097.setOnClickListener(null);
     view2131821097 = null;
-    view2131821100.setOnClickListener(null);
-    view2131821100 = null;
     view2131821099.setOnClickListener(null);
     view2131821099 = null;
-    view2131821103.setOnClickListener(null);
-    view2131821103 = null;
+    view2131821102.setOnClickListener(null);
+    view2131821102 = null;
+    view2131821101.setOnClickListener(null);
+    view2131821101 = null;
     view2131821105.setOnClickListener(null);
     view2131821105 = null;
-    view2131821104.setOnClickListener(null);
-    view2131821104 = null;
-    view2131820978.setOnClickListener(null);
-    view2131820978 = null;
+    view2131821107.setOnClickListener(null);
+    view2131821107 = null;
+    view2131821106.setOnClickListener(null);
+    view2131821106 = null;
+    view2131820980.setOnClickListener(null);
+    view2131820980 = null;
 
     this.target = null;
   }

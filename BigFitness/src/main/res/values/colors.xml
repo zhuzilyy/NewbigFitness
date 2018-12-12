@@ -162,5 +162,6 @@
     <color name="charts_list_6_color">#F25649</color>
 
     <color name="radio_button_checked">#01C80A</color>
-
+    <color name="common_text_3">#333333</color>
+    <color name="appColor">#01C80A</color>
 </resources>

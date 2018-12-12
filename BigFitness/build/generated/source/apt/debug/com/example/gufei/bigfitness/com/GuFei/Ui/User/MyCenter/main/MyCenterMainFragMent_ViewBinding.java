@@ -18,9 +18,9 @@ import java.lang.Override;
 public class MyCenterMainFragMent_ViewBinding<T extends MyCenterMainFragMent> implements Unbinder {
   protected T target;
 
-  private View view2131821107;
+  private View view2131821109;
 
-  private View view2131821111;
+  private View view2131821113;
 
   @UiThread
   public MyCenterMainFragMent_ViewBinding(final T target, View source) {
@@ -31,7 +31,7 @@ public class MyCenterMainFragMent_ViewBinding<T extends MyCenterMainFragMent> im
     target.toolbar = Utils.findRequiredViewAsType(source, R.id.toolbar, "field 'toolbar'", Toolbar.class);
     view = Utils.findRequiredView(source, R.id.my_center_btn, "field 'myCenterBtn' and method 'onViewClicked'");
     target.myCenterBtn = Utils.castView(view, R.id.my_center_btn, "field 'myCenterBtn'", ImageView.class);
-    view2131821107 = view;
+    view2131821109 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -40,7 +40,7 @@ public class MyCenterMainFragMent_ViewBinding<T extends MyCenterMainFragMent> im
     });
     view = Utils.findRequiredView(source, R.id.seting_btn, "field 'setingBtn' and method 'onViewClicked'");
     target.setingBtn = Utils.castView(view, R.id.seting_btn, "field 'setingBtn'", LinearLayout.class);
-    view2131821111 = view;
+    view2131821113 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -68,10 +68,10 @@ public class MyCenterMainFragMent_ViewBinding<T extends MyCenterMainFragMent> im
     target.itemTxtPosition = null;
     target.activityAddressDetails = null;
 
-    view2131821107.setOnClickListener(null);
-    view2131821107 = null;
-    view2131821111.setOnClickListener(null);
-    view2131821111 = null;
+    view2131821109.setOnClickListener(null);
+    view2131821109 = null;
+    view2131821113.setOnClickListener(null);
+    view2131821113 = null;
 
     this.target = null;
   }

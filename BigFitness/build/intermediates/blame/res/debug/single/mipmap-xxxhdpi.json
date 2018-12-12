@@ -32,12 +32,12 @@
         "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\mipmap-xxxhdpi\\privatememberinfor_10.png"
     },
     {
-        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\screening_down.png",
-        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\mipmap-xxxhdpi\\screening_down.png"
-    },
-    {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\scheduleweek_13.png",
         "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\mipmap-xxxhdpi\\scheduleweek_13.png"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\screening_down.png",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\mipmap-xxxhdpi\\screening_down.png"
     },
     {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\tel.png",

@@ -165,6 +165,8 @@ public class ListFragment extends BaseFragment<LIstPresenter> implements ListCon
         commonAdapter = new CommonAdapter<AppointmentListByDateForOrderBean.ResultBean>(R.layout.card_schedule_list, mContext, datas) {
             @Override
             protected void convert(ViewHolder holder, final AppointmentListByDateForOrderBean.ResultBean listBean, int i) {
+                int appointmentStatus = listBean.getAppointmentStatus();
+                int appointmentOwner = listBean.getAppointmentOwner();
                 holder.setText(R.id.text_create_name, UserName);
                 TextView textName = (TextView) holder.getView(R.id.text_class);
                 Button btn1 = (Button) holder.getView(R.id.btn1);

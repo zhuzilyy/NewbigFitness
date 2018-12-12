@@ -18,6 +18,7 @@ ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:2:1-217:12
 uses-permission#android.permission.INTERNET
 ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:7:5-67
 MERGED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:11:5-67
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\Administrator\.android\build-cache\7e444ea0b3fa16eefcc5939e3a57829571693706\output\AndroidManifest.xml:26:5-67
 	android:name
 		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:7:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
@@ -25,12 +26,14 @@ ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:9:5-81
 MERGED from [com.yanzhenjie:album:1.0.0] C:\Users\Administrator\.android\build-cache\d3e4c2f76ca213dd025bd3627a5e09ca7a7f6ff9\output\AndroidManifest.xml:11:5-81
 MERGED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache\f4c1e4c28db8986309098f5a6b1082b8c2199fb1\output\AndroidManifest.xml:18:5-81
 MERGED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\Administrator\.android\build-cache\0ea2ac124a1b289ab70bd1ab34b64cf5cc920374\output\AndroidManifest.xml:11:5-81
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\Administrator\.android\build-cache\7e444ea0b3fa16eefcc5939e3a57829571693706\output\AndroidManifest.xml:28:5-81
 	android:name
 		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:9:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:10:5-80
 MERGED from [com.yanzhenjie:album:1.0.0] C:\Users\Administrator\.android\build-cache\d3e4c2f76ca213dd025bd3627a5e09ca7a7f6ff9\output\AndroidManifest.xml:10:5-80
 MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\Administrator\.android\build-cache\e9f78fe1d50946cbd356d50c5db2a49bd18bf2d3\output\AndroidManifest.xml:11:5-80
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\Administrator\.android\build-cache\7e444ea0b3fa16eefcc5939e3a57829571693706\output\AndroidManifest.xml:27:5-80
 	android:name
 		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:10:22-77
 uses-permission#android.permission.CAMERA
@@ -70,6 +73,7 @@ MERGED from [com.getui:sdk:2.12.5.0] C:\Users\Administrator\.android\build-cache
 		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:24:22-73
 uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
 ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:26:5-27:47
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\Administrator\.android\build-cache\7e444ea0b3fa16eefcc5939e3a57829571693706\output\AndroidManifest.xml:29:5-84
 	tools:ignore
 		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:27:9-44
 	android:name
@@ -691,6 +695,9 @@ MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administr
 MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\afc467b11e9ed725ed7a86a9905af2fa562afc0c\output\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\10edda28c3c9cfd38ea377db69ca9c62877df808\output\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\e4a1f5699f03949432b728fcb469baaa55f67b6f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.lzy.net:okrx:1.0.2] C:\Users\Administrator\.android\build-cache\7a313302a2f7ad56eafc133649d2449dc302f886\output\AndroidManifest.xml:23:5-25:41
+MERGED from [com.lzy.net:okserver:2.0.5] C:\Users\Administrator\.android\build-cache\231c659027dfe54281e24b7cf3c7aab32e9256de\output\AndroidManifest.xml:23:5-25:41
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\Administrator\.android\build-cache\7e444ea0b3fa16eefcc5939e3a57829571693706\output\AndroidManifest.xml:22:5-24:41
 	tools:overrideLibrary
 		ADDED from [com.github.hotchemi:permissionsdispatcher:2.3.1] C:\Users\Administrator\.android\build-cache\9a2d614c244c80561302a963ab5b091bb22a1148\output\AndroidManifest.xml:9:9-52
 	android:targetSdkVersion
