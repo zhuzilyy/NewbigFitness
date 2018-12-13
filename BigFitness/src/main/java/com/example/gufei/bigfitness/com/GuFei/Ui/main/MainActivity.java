@@ -23,6 +23,7 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.bumptech.glide.Glide;
 import com.example.gufei.bigfitness.Constants;
 import com.example.gufei.bigfitness.Presenter.MainAdapter;
 import com.example.gufei.bigfitness.R;
@@ -40,8 +41,10 @@ import com.example.gufei.bigfitness.com.GuFei.Ui.FragMent.Index.IndexFragMent;
 import com.example.gufei.bigfitness.com.GuFei.Ui.Scan.ScanActivity;
 import com.example.gufei.bigfitness.com.GuFei.Ui.UpdateVersion.AppUpdate;
 import com.example.gufei.bigfitness.com.GuFei.Ui.UpdateVersion.PermissionUtils;
+import com.example.gufei.bigfitness.com.GuFei.Ui.UpdateVersion.UpdateBean;
 import com.example.gufei.bigfitness.com.GuFei.Ui.User.Login.LoginActivity;
 import com.example.gufei.bigfitness.com.GuFei.Ui.User.MyCenter.main.MyCenterMainFragMent;
+import com.example.gufei.bigfitness.util.MobileUtil;
 import com.example.gufei.bigfitness.util.PermissionTool;
 import com.example.gufei.bigfitness.util.SpUtil;
 import com.google.gson.Gson;
@@ -131,7 +134,6 @@ public class MainActivity extends BaseActivity<MainActivityPresenter> implements
 
     @Override
     protected void initView() {
-
         userId = (int) SpUtil.get(mContext, USERIDKEY,0);
         // 从资源文件中获取标题
         tabTitles = getResources().getStringArray(R.array.tabTitle);
@@ -243,16 +245,58 @@ public class MainActivity extends BaseActivity<MainActivityPresenter> implements
         mPresenter.updata(userid, token, clubid, String.valueOf(IsDepartManager), String.valueOf(DepartId));
         mPresenter.getCustomerSource(userid, token, clubid);
         mPresenter.getCustomerIntroducer(userid, token, clubid, "");
-        //checkPackageVersion();
+        //mPresenter.upDateApp("0");
+        //没办法后台写的更新的接口 BaseUrl和项目的不一样 不能够用这种请求方式了
+        //updateApp();
 
     }
+    //检查新版本
+    private void updateApp() {
+        RequestParams params = new RequestParams(Constants.UPDATE_CHECK_URL);
+        params.addParameter("AppType","0");
+        x.http().post(params, new Callback.CommonCallback<String>() {
+            @Override
+            public void onSuccess(String result) {
+                try {
+                    Gson gson = new Gson();
+                    UpdateBean updateBean = gson.fromJson(result, UpdateBean.class);
+                    String version = updateBean.getRows().getVersion();
+                    int newVersion = Integer.parseInt(version);
+                    int currentVersion = MobileUtil.getVersionCode();
+                    if (newVersion > currentVersion){
+                        appUpdate = new AppUpdate(MainActivity.this,updateBean);
+                        appUpdate.httpCheckUpdate(null);
+                    }
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+
+            }
+
+            @Override
+            public void onError(Throwable ex, boolean isOnCallback) {
+
+            }
+
+            @Override
+            public void onCancelled(CancelledException cex) {
+
+            }
+
+            @Override
+            public void onFinished() {
+
+            }
+        });
+    }
+
     //更新的方法
-    private void checkPackageVersion() {
+    private void checkPackageVersion(UpdateBean updateBean) {
         //检查或获取权限
         boolean isGranted= PermissionUtils.checkOrRequestPermissions(this,new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE,Manifest.permission.READ_EXTERNAL_STORAGE},200,this);
         if(isGranted){
             //权限已经被赋予
-            appUpdate = new AppUpdate(MainActivity.this);
+            appUpdate = new AppUpdate(MainActivity.this,updateBean);
             appUpdate.httpCheckUpdate(null);
         }else{
             Toast.makeText(this, "权限获取失败", Toast.LENGTH_SHORT).show();
@@ -303,6 +347,10 @@ public class MainActivity extends BaseActivity<MainActivityPresenter> implements
         remove();
         startActivity(intent);
         finish();
+    }
+    @Override
+    public void update(UpdateBean updateBean) {
+        checkPackageVersion(updateBean);
     }
 
     @Override

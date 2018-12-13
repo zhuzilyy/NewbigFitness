@@ -1,4 +1,4 @@
-#Wed Dec 12 14:37:15 CST 2018
+#Thu Dec 13 17:18:13 CST 2018
 file.83=E\:\\NewbigFitness\\BigFitness\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\javawriter-2.1.1_af7ee2f3b9d3630486ce20b1419f79e060750c11\\classes.dex
 file.82=E\:\\NewbigFitness\\BigFitness\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.3.1_f586fb4d0c241506d19cfee8903fc9d2ea3748d1\\classes.dex
 file.81=E\:\\NewbigFitness\\BigFitness\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_cf95f56aeca9d09b4485529cbdf442f3fde7b73e\\classes.dex

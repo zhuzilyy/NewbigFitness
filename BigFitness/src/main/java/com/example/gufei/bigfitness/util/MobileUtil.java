@@ -1,5 +1,10 @@
 package com.example.gufei.bigfitness.util;
 
+import android.content.pm.PackageInfo;
+import android.content.pm.PackageManager;
+
+import com.example.gufei.bigfitness.App;
+
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -50,5 +55,12 @@ public class MobileUtil {
             return m.matches();
         }
     }
-
+    public static int getVersionCode() throws Exception {
+        // 获取packagemanager的实例
+        PackageManager packageManager = App.getInstance().getPackageManager();
+        // getPackageName()是你当前类的包名，0代表是获取版本信息
+        PackageInfo packInfo = packageManager.getPackageInfo(App.getInstance().getPackageName(), 0);
+        int versionCode = packInfo.versionCode;
+        return versionCode;
+    }
 }

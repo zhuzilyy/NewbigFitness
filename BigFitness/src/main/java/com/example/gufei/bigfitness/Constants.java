@@ -194,5 +194,9 @@ public interface Constants {
     //  String CUSTOMER_ORDER_Interface= "LastContactTime,CreateTime,CustomerName";
 
     //
+    //app下载地址
+    String APP_DOWNLOAD_URL = "https://www.clfitsys.com/BigFitness-Coach.apk";
+    //新版本app的检查地址
+    String UPDATE_CHECK_URL = "http://www.clfitsys.com:8080/appVersion/getNewestVersion";
 
 }

@@ -86,10 +86,7 @@ import static com.example.gufei.bigfitness.Constants.BASEURL;
  */
 
 public interface Api {
-
-
     String baseUrl = BASEURL;
-
     /**
      * 登录
      */
@@ -2020,8 +2017,11 @@ public interface Api {
     /*新版本更新
      * @return
      */
-    @GET("appClub/getMemberId")
+    /*新版本更新
+     * @return
+     */
+    @GET("appVersion/getNewestVersion")
     rx.Observable<UpdateBean> updateVersion(
-
+            @Query("AppType") String AppType
     );
 }

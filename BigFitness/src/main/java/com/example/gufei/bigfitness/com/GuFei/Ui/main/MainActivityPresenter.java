@@ -8,6 +8,7 @@ import com.example.gufei.bigfitness.com.GuFei.Model.local.AppPreloadDicBean;
 import com.example.gufei.bigfitness.com.GuFei.Model.local.CustomerIntroducerBean;
 import com.example.gufei.bigfitness.com.GuFei.Model.local.CustomerSourceBean;
 import com.example.gufei.bigfitness.com.GuFei.NetWork.Api;
+import com.example.gufei.bigfitness.com.GuFei.Ui.UpdateVersion.UpdateBean;
 import com.example.gufei.bigfitness.util.RxUtil;
 import com.example.gufei.bigfitness.util.SpUtil;
 
@@ -189,6 +190,26 @@ public class MainActivityPresenter extends RxPresenter<MainActivityContract.View
               mView.showError(ErrMessages);
 
 
+                    }
+                });
+        addSubscription(subscription);
+    }
+
+    @Override
+    public void upDateApp(String appType) {
+        Subscription subscription = api.updateVersion(appType)
+                .compose(RxUtil.<UpdateBean>rxSchedulerHelper())
+                .subscribe(new Action1<UpdateBean>() {
+                    @Override
+                    public void call(UpdateBean updateBean) {
+                        if (updateBean.getRet() == 0) {
+                            mView.update(updateBean);
+                        }
+                    }
+                }, new Action1<Throwable>() {
+                    @Override
+                    public void call(Throwable throwable) {
+                        mView.showError("服务器请求失败");
                     }
                 });
         addSubscription(subscription);

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Dec 12 14:37:15 CST 2018
+#Thu Dec 13 09:58:20 CST 2018
 1073.file=E\:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\day_cell_view.xml
 1090.base=E\:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\resources-debug.ap_
 1007.base=E\:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\resources-debug.ap_
