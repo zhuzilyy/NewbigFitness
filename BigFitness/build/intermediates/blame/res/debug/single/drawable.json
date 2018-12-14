@@ -76,12 +76,12 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\debug\\drawable\\text_round_rect_1.xml",
-        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\text_round_rect_1.xml"
-    },
-    {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\debug\\drawable\\scan_image.png",
         "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\scan_image.png"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\debug\\drawable\\text_round_rect_1.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\text_round_rect_1.xml"
     },
     {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_corner.xml",
@@ -148,12 +148,12 @@
         "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\shape_switch.xml"
     },
     {
-        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
-    },
-    {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
@@ -234,6 +234,10 @@
     {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\fac1e64b34affd092a574c0853246c0642929d58\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_push.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\shape_push.xml"
     },
     {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_toast_layout.xml",

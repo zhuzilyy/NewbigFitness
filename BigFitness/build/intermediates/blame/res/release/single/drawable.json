@@ -4,20 +4,20 @@
         "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\shape_corner.xml"
     },
     {
-        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
-    },
-    {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\text_round_rect.xml",
         "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\text_round_rect.xml"
     },
     {
-        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\text_round_rect_4.xml",
-        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\text_round_rect_4.xml"
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\text_round_rect_4.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\text_round_rect_4.xml"
     },
     {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\item_layer_shape.xml",
@@ -164,20 +164,20 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\gray_thumb.xml",
-        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\gray_thumb.xml"
-    },
-    {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\edit_search.png",
         "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\edit_search.png"
     },
     {
-        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\mark_custom2.xml",
-        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\mark_custom2.xml"
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\gray_thumb.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\gray_thumb.xml"
     },
     {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\mark_custom2.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\mark_custom2.xml"
     },
     {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
@@ -386,6 +386,10 @@
     {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\c06b7510b2423f8ad91ce39823af8ddbb09eadf5\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\shape_app3.xml",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\drawable\\shape_app3.xml"
     },
     {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\drawable\\unchecked.png",

@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.MotionEvent;
@@ -38,6 +39,7 @@ import butterknife.OnClick;
 
 import static com.example.gufei.bigfitness.App.context;
 import static com.example.gufei.bigfitness.Constants.CLUBIDKEY;
+import static com.example.gufei.bigfitness.Constants.LOGINKEY;
 import static com.example.gufei.bigfitness.Constants.TOKENKEY;
 import static com.example.gufei.bigfitness.Constants.USERIDKEY;
 import static com.example.gufei.bigfitness.util.ToastUtil.s;
@@ -69,7 +71,7 @@ public class MessagesListActivity extends BaseActivity<MessagesListActivityPrese
 
     private CommonAdapter<MessageslistBean.ResultBean> commonAdapter;
 
-    private boolean isLoadingMore = true;//加载标志位
+    private boolean isLoadingMore = false;//加载标志位
     private List<MessageslistBean.ResultBean> datas = new ArrayList<MessageslistBean.ResultBean>();
     private int page = 0;
     private View view;
@@ -79,7 +81,7 @@ public class MessagesListActivity extends BaseActivity<MessagesListActivityPrese
     private String token;
     private int clubid;
     private String MsgTypeId;
-
+    private String getDataTag;
 
     @Override
     protected void initInject() {
@@ -112,7 +114,6 @@ public class MessagesListActivity extends BaseActivity<MessagesListActivityPrese
         clubid = (int) SpUtil.get(mContext, CLUBIDKEY, 0);
 
         titletext.setText(s);
-
 
 
         switch (titletext.getText().toString()) {
@@ -155,7 +156,7 @@ public class MessagesListActivity extends BaseActivity<MessagesListActivityPrese
                         break;
 
                 }
-                refresh();
+                //refresh();
             }
 
             @Override
@@ -201,50 +202,13 @@ public class MessagesListActivity extends BaseActivity<MessagesListActivityPrese
                 } else {
                     holder.getView(R.id.hint_num).setVisibility(View.GONE);
                 }
-
-
-//                        loadIntoUseFitWidth(context, listBean.get(), R.mipmap.nullimg, holder.setImage(R.id.head_img));//头像
                 holder.getView(R.id.head_img).setVisibility(View.GONE);
-
-        /*        switch (titletext.getText().toString()) {
-
-
-
-
-                    case "系统通知":
-
-
-                        MsgTypeId="1";
-                        break;
-                    case "到期通知":
-                        MsgTypeId="2";
-                        break;
-                    case "签到通知":
-
-
-                        MsgTypeId="3";
-                        break;
-                    case "预约通知":
-                        MsgTypeId="4";
-                        break;
-                    case "变更通知":
-                        MsgTypeId="5";
-                        break;
-                    case "会员生日通知":
-                        MsgTypeId="6";
-                        break;
-
-                }
-*/
-
                 holder.itemView.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
                         view = v;
                         holder.getView(R.id.hint_num).setVisibility(View.GONE);
                         mPresenter.getPushUserMessageInfo(userid, token, clubid, listBean.getMessageId());
-
-
                     }
                 });
 
@@ -271,23 +235,15 @@ public class MessagesListActivity extends BaseActivity<MessagesListActivityPrese
         swipeRefreshLayout.setSize(SwipeRefreshLayout.DEFAULT);
 
 
-        swipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener()
-
-        {
-
+        swipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
             @Override
             public void onRefresh() {
-
+                datas.clear();
                 refresh();
-
             }
-
-
         });
 
-        swipeRefreshLayout.post(new
-
-                                        Runnable() {
+        swipeRefreshLayout.post(new Runnable() {
 
                                             @Override
                                             public void run() {
@@ -296,7 +252,6 @@ public class MessagesListActivity extends BaseActivity<MessagesListActivityPrese
                                                 commonAdapter.setShowFooter(false);
                                             }
                                         });
-
 
         if (recyclerView.getLayoutManager() instanceof LinearLayoutManager)
 
@@ -311,29 +266,42 @@ public class MessagesListActivity extends BaseActivity<MessagesListActivityPrese
 
                 @Override
                 public void onScrolled(RecyclerView recyclerView, int dx, int dy) {
-
                     super.onScrolled(recyclerView, dx, dy);
-
+                    isLoadingMore = true;
+                    //加载更多数据
+                    getDataTag = "loadMore";
                     //总记录条数
                     //　int totalItemCount = linearLayoutManager.getItemCount();
                     int totalItemCount = recyclerView != null ? recyclerView.getAdapter().getItemCount() : 0;
-
                     //最后条数的位置
                     int lastVisubleItem = RecycViewlayoutManager.findLastVisibleItemPosition();
-
-
                     if (isLoadingMore && totalItemCount - 1 <= lastVisubleItem && dy > 0) {
-
-                        isLoadingMore = false;
-
-                        loading();
-
+                        Loading();
                     }
                 }
             });
 
         }
-
+      /*  int totalItemCount = recyclerView != null ? recyclerView.getAdapter().getItemCount() : 0;
+        //最后条数的位置
+        int lastVisubleItem = RecycViewlayoutManager.findLastVisibleItemPosition();
+        if (dy > 0) {
+            if (isLoadingMore && totalItemCount - 1 <= lastVisubleItem) {
+                if (tvTitle.getText().toString().equals("预约记录")) {
+                    isLoadingMore = false;
+                    UpDownMark = "down";
+                    DownPage++;
+                    IsHistory = 0;
+                    UpDownLoading();
+                } else {
+                    isLoadingMore = false;
+                    UpDownMark = "down";
+                    DownPage++;
+                    IsHistory = 1;
+                    UpDownLoading();
+                }
+            }
+        }*/
 
     }
 
@@ -373,26 +341,26 @@ public class MessagesListActivity extends BaseActivity<MessagesListActivityPrese
 
     @Override
     public void Loading() {
-
-        int type = 0;
-
         page++;
         mPresenter.getPushUserMessageList(userid, token, clubid, page, MsgTypeId);
-
-
     }
+
     @Override
     public void succeed(MessageslistBean messageslistBean) {
         swipeRefreshLayout.setRefreshing(false);
         try {
             datas = messageslistBean.getResult();
-            if (datas.size() == 0){
+            if (datas.size() == 0 && page == 1) {
                 tvNoMore.setVisibility(View.VISIBLE);
                 swipeRefreshLayout.setVisibility(View.GONE);
-            }else {
+            } else {
                 tvNoMore.setVisibility(View.GONE);
                 swipeRefreshLayout.setVisibility(View.VISIBLE);
-                commonAdapter.replaceData(datas);
+                if (getDataTag.equals("loadMore")) {
+                    commonAdapter.insertData(datas);
+                } else if (getDataTag.equals("refresh")) {
+                    commonAdapter.replaceData(datas);
+                }
             }
         } catch (Exception e) {
             e.printStackTrace();
@@ -412,11 +380,10 @@ public class MessagesListActivity extends BaseActivity<MessagesListActivityPrese
     }
 
     public void refresh() {
-
-        int type = 0;
-
+        Log.i("tag","=====1111==========");
+        datas.clear();
+        getDataTag = "refresh";
         page = 1;
-
         int userid = (int) SpUtil.get(mContext, USERIDKEY, 0);
 
         String token = (String) SpUtil.get(mContext, TOKENKEY, "");

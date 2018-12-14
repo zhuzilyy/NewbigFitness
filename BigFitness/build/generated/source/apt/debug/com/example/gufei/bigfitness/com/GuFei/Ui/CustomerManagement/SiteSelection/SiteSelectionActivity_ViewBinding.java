@@ -20,7 +20,7 @@ import java.lang.Override;
 public class SiteSelectionActivity_ViewBinding<T extends SiteSelectionActivity> implements Unbinder {
   protected T target;
 
-  private View view2131821180;
+  private View view2131821182;
 
   private View view2131820980;
 
@@ -37,7 +37,7 @@ public class SiteSelectionActivity_ViewBinding<T extends SiteSelectionActivity> 
     target.textView6 = Utils.findRequiredViewAsType(source, R.id.textView6, "field 'textView6'", TextView.class);
     view = Utils.findRequiredView(source, R.id.btn_site_add, "field 'btnSiteAdd' and method 'onViewClicked'");
     target.btnSiteAdd = Utils.castView(view, R.id.btn_site_add, "field 'btnSiteAdd'", Button.class);
-    view2131821180 = view;
+    view2131821182 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -80,8 +80,8 @@ public class SiteSelectionActivity_ViewBinding<T extends SiteSelectionActivity> 
     target.btnComplete = null;
     target.btnBack = null;
 
-    view2131821180.setOnClickListener(null);
-    view2131821180 = null;
+    view2131821182.setOnClickListener(null);
+    view2131821182 = null;
     view2131820980.setOnClickListener(null);
     view2131820980 = null;
     view2131820745.setOnClickListener(null);

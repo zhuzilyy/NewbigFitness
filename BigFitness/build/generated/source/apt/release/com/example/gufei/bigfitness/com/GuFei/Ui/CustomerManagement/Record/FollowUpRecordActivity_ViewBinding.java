@@ -20,11 +20,11 @@ import java.lang.Override;
 public class FollowUpRecordActivity_ViewBinding<T extends FollowUpRecordActivity> implements Unbinder {
   protected T target;
 
-  private View view2131820825;
+  private View view2131820827;
 
-  private View view2131821438;
+  private View view2131821445;
 
-  private View view2131821156;
+  private View view2131821158;
 
   @UiThread
   public FollowUpRecordActivity_ViewBinding(final T target, View source) {
@@ -40,7 +40,7 @@ public class FollowUpRecordActivity_ViewBinding<T extends FollowUpRecordActivity
     target.textCustomerImg = Utils.findRequiredViewAsType(source, R.id.text_customer_img, "field 'textCustomerImg'", ImageView.class);
     view = Utils.findRequiredView(source, R.id.btn_appointment, "field 'btnAppointment' and method 'onViewClicked'");
     target.btnAppointment = Utils.castView(view, R.id.btn_appointment, "field 'btnAppointment'", ImageView.class);
-    view2131820825 = view;
+    view2131820827 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -49,7 +49,7 @@ public class FollowUpRecordActivity_ViewBinding<T extends FollowUpRecordActivity
     });
     view = Utils.findRequiredView(source, R.id.btn_customer_info, "field 'btnCustomerInfo' and method 'onViewClicked'");
     target.btnCustomerInfo = Utils.castView(view, R.id.btn_customer_info, "field 'btnCustomerInfo'", ImageView.class);
-    view2131821438 = view;
+    view2131821445 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -58,7 +58,7 @@ public class FollowUpRecordActivity_ViewBinding<T extends FollowUpRecordActivity
     });
     view = Utils.findRequiredView(source, R.id.fab, "field 'floatingActionButton' and method 'onViewClicked'");
     target.floatingActionButton = Utils.castView(view, R.id.fab, "field 'floatingActionButton'", FloatingActionButton.class);
-    view2131821156 = view;
+    view2131821158 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -84,12 +84,12 @@ public class FollowUpRecordActivity_ViewBinding<T extends FollowUpRecordActivity
     target.btnCustomerInfo = null;
     target.floatingActionButton = null;
 
-    view2131820825.setOnClickListener(null);
-    view2131820825 = null;
-    view2131821438.setOnClickListener(null);
-    view2131821438 = null;
-    view2131821156.setOnClickListener(null);
-    view2131821156 = null;
+    view2131820827.setOnClickListener(null);
+    view2131820827 = null;
+    view2131821445.setOnClickListener(null);
+    view2131821445 = null;
+    view2131821158.setOnClickListener(null);
+    view2131821158 = null;
 
     this.target = null;
   }

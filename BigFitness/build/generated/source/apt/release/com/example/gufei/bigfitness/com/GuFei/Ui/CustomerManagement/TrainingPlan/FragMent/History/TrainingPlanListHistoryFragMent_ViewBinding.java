@@ -17,7 +17,7 @@ import java.lang.Override;
 public class TrainingPlanListHistoryFragMent_ViewBinding<T extends TrainingPlanListHistoryFragMent> implements Unbinder {
   protected T target;
 
-  private View view2131821339;
+  private View view2131821346;
 
   @UiThread
   public TrainingPlanListHistoryFragMent_ViewBinding(final T target, View source) {
@@ -28,7 +28,7 @@ public class TrainingPlanListHistoryFragMent_ViewBinding<T extends TrainingPlanL
     target.swipeRefreshLayout = Utils.findRequiredViewAsType(source, R.id.swiperefreshlayoutid, "field 'swipeRefreshLayout'", SwipeRefreshLayout.class);
     view = Utils.findRequiredView(source, R.id.btn_copy, "field 'btnCopy' and method 'onViewClicked'");
     target.btnCopy = Utils.castView(view, R.id.btn_copy, "field 'btnCopy'", TextView.class);
-    view2131821339 = view;
+    view2131821346 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -49,8 +49,8 @@ public class TrainingPlanListHistoryFragMent_ViewBinding<T extends TrainingPlanL
     target.btnCopy = null;
     target.textTitle = null;
 
-    view2131821339.setOnClickListener(null);
-    view2131821339 = null;
+    view2131821346.setOnClickListener(null);
+    view2131821346 = null;
 
     this.target = null;
   }

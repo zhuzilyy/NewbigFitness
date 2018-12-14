@@ -792,7 +792,6 @@ public class CustomerListActivity extends BaseActivity<CustomerListPresenter> im
     }
 
     public void refresh() {
-
         page = 1;
         getList();
 

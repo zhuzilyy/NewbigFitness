@@ -20,11 +20,9 @@ import java.lang.Override;
 public class AddMembersFollowActivity_ViewBinding<T extends AddMembersFollowActivity> implements Unbinder {
   protected T target;
 
-  private View view2131820978;
+  private View view2131820980;
 
-  private View view2131820969;
-
-  private View view2131820960;
+  private View view2131820971;
 
   private View view2131820962;
 
@@ -33,6 +31,8 @@ public class AddMembersFollowActivity_ViewBinding<T extends AddMembersFollowActi
   private View view2131820966;
 
   private View view2131820968;
+
+  private View view2131820970;
 
   @UiThread
   public AddMembersFollowActivity_ViewBinding(final T target, View source) {
@@ -43,7 +43,7 @@ public class AddMembersFollowActivity_ViewBinding<T extends AddMembersFollowActi
     target.toolbar = Utils.findRequiredViewAsType(source, R.id.toolbar, "field 'toolbar'", Toolbar.class);
     view = Utils.findRequiredView(source, R.id.btn_complete, "field 'btnRelease' and method 'onViewClicked'");
     target.btnRelease = Utils.castView(view, R.id.btn_complete, "field 'btnRelease'", Button.class);
-    view2131820978 = view;
+    view2131820980 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -56,7 +56,7 @@ public class AddMembersFollowActivity_ViewBinding<T extends AddMembersFollowActi
     target.textContext = Utils.findRequiredViewAsType(source, R.id.text_content, "field 'textContext'", EditText.class);
     view = Utils.findRequiredView(source, R.id.btn_select_img, "field 'btnSelectImg' and method 'onViewClicked'");
     target.btnSelectImg = Utils.castView(view, R.id.btn_select_img, "field 'btnSelectImg'", ImageView.class);
-    view2131820969 = view;
+    view2131820971 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -66,7 +66,7 @@ public class AddMembersFollowActivity_ViewBinding<T extends AddMembersFollowActi
     target.img1 = Utils.findRequiredViewAsType(source, R.id.img1, "field 'img1'", MyImageView.class);
     view = Utils.findRequiredView(source, R.id.btn_del_1, "field 'btnDel1' and method 'onViewClicked'");
     target.btnDel1 = Utils.castView(view, R.id.btn_del_1, "field 'btnDel1'", ImageView.class);
-    view2131820960 = view;
+    view2131820962 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -76,7 +76,7 @@ public class AddMembersFollowActivity_ViewBinding<T extends AddMembersFollowActi
     target.img2 = Utils.findRequiredViewAsType(source, R.id.img2, "field 'img2'", MyImageView.class);
     view = Utils.findRequiredView(source, R.id.btn_del_2, "field 'btnDel2' and method 'onViewClicked'");
     target.btnDel2 = Utils.castView(view, R.id.btn_del_2, "field 'btnDel2'", ImageView.class);
-    view2131820962 = view;
+    view2131820964 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -86,7 +86,7 @@ public class AddMembersFollowActivity_ViewBinding<T extends AddMembersFollowActi
     target.img3 = Utils.findRequiredViewAsType(source, R.id.img3, "field 'img3'", MyImageView.class);
     view = Utils.findRequiredView(source, R.id.btn_del_3, "field 'btnDel3' and method 'onViewClicked'");
     target.btnDel3 = Utils.castView(view, R.id.btn_del_3, "field 'btnDel3'", ImageView.class);
-    view2131820964 = view;
+    view2131820966 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -96,7 +96,7 @@ public class AddMembersFollowActivity_ViewBinding<T extends AddMembersFollowActi
     target.img4 = Utils.findRequiredViewAsType(source, R.id.img4, "field 'img4'", MyImageView.class);
     view = Utils.findRequiredView(source, R.id.btn_del_4, "field 'btnDel4' and method 'onViewClicked'");
     target.btnDel4 = Utils.castView(view, R.id.btn_del_4, "field 'btnDel4'", ImageView.class);
-    view2131820966 = view;
+    view2131820968 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -106,7 +106,7 @@ public class AddMembersFollowActivity_ViewBinding<T extends AddMembersFollowActi
     target.img5 = Utils.findRequiredViewAsType(source, R.id.img5, "field 'img5'", MyImageView.class);
     view = Utils.findRequiredView(source, R.id.btn_del_5, "field 'btnDel5' and method 'onViewClicked'");
     target.btnDel5 = Utils.castView(view, R.id.btn_del_5, "field 'btnDel5'", ImageView.class);
-    view2131820968 = view;
+    view2131820970 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -140,12 +140,10 @@ public class AddMembersFollowActivity_ViewBinding<T extends AddMembersFollowActi
     target.img5 = null;
     target.btnDel5 = null;
 
-    view2131820978.setOnClickListener(null);
-    view2131820978 = null;
-    view2131820969.setOnClickListener(null);
-    view2131820969 = null;
-    view2131820960.setOnClickListener(null);
-    view2131820960 = null;
+    view2131820980.setOnClickListener(null);
+    view2131820980 = null;
+    view2131820971.setOnClickListener(null);
+    view2131820971 = null;
     view2131820962.setOnClickListener(null);
     view2131820962 = null;
     view2131820964.setOnClickListener(null);
@@ -154,6 +152,8 @@ public class AddMembersFollowActivity_ViewBinding<T extends AddMembersFollowActi
     view2131820966 = null;
     view2131820968.setOnClickListener(null);
     view2131820968 = null;
+    view2131820970.setOnClickListener(null);
+    view2131820970 = null;
 
     this.target = null;
   }

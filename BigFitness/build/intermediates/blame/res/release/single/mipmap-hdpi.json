@@ -24,12 +24,12 @@
         "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\mipmap-hdpi\\mainpage_11.png"
     },
     {
-        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\bottom_04_2.png",
-        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\mipmap-hdpi\\bottom_04_2.png"
-    },
-    {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\signin07.png",
         "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\mipmap-hdpi\\signin07.png"
+    },
+    {
+        "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\bottom_04_2.png",
+        "source": "E:\\NewbigFitness\\BigFitness\\src\\main\\res\\mipmap-hdpi\\bottom_04_2.png"
     },
     {
         "merged": "E:\\NewbigFitness\\BigFitness\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\bottom_03.png",

@@ -25,23 +25,23 @@ import java.lang.Override;
 public class PublicSeaListActivity_ViewBinding<T extends PublicSeaListActivity> implements Unbinder {
   protected T target;
 
-  private View view2131821142;
+  private View view2131821144;
 
-  private View view2131821145;
+  private View view2131821147;
 
-  private View view2131820815;
+  private View view2131820817;
 
-  private View view2131821141;
-
-  private View view2131821151;
-
-  private View view2131821152;
+  private View view2131821143;
 
   private View view2131821153;
 
   private View view2131821154;
 
-  private View view2131821150;
+  private View view2131821155;
+
+  private View view2131821156;
+
+  private View view2131821152;
 
   @UiThread
   public PublicSeaListActivity_ViewBinding(final T target, View source) {
@@ -50,7 +50,7 @@ public class PublicSeaListActivity_ViewBinding<T extends PublicSeaListActivity> 
     View view;
     view = Utils.findRequiredView(source, R.id.sorting_btn, "field 'sortingBtn' and method 'onClick'");
     target.sortingBtn = Utils.castView(view, R.id.sorting_btn, "field 'sortingBtn'", RelativeLayout.class);
-    view2131821142 = view;
+    view2131821144 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -59,7 +59,7 @@ public class PublicSeaListActivity_ViewBinding<T extends PublicSeaListActivity> 
     });
     view = Utils.findRequiredView(source, R.id.screening_btn, "field 'screeningBtn' and method 'onClick'");
     target.screeningBtn = Utils.castView(view, R.id.screening_btn, "field 'screeningBtn'", RelativeLayout.class);
-    view2131821145 = view;
+    view2131821147 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -70,7 +70,7 @@ public class PublicSeaListActivity_ViewBinding<T extends PublicSeaListActivity> 
     target.title = Utils.findRequiredViewAsType(source, R.id.sp_title, "field 'title'", Spinner.class);
     view = Utils.findRequiredView(source, R.id.btn_edit, "field 'BtnEdit' and method 'onClick'");
     target.BtnEdit = Utils.castView(view, R.id.btn_edit, "field 'BtnEdit'", Button.class);
-    view2131820815 = view;
+    view2131820817 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -79,7 +79,7 @@ public class PublicSeaListActivity_ViewBinding<T extends PublicSeaListActivity> 
     });
     view = Utils.findRequiredView(source, R.id.img_search, "field 'search' and method 'onClick'");
     target.search = Utils.castView(view, R.id.img_search, "field 'search'", ImageView.class);
-    view2131821141 = view;
+    view2131821143 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -95,7 +95,7 @@ public class PublicSeaListActivity_ViewBinding<T extends PublicSeaListActivity> 
     target.swipeRefreshLayout = Utils.findRequiredViewAsType(source, R.id.swiperefreshlayoutid, "field 'swipeRefreshLayout'", SwipeRefreshLayout.class);
     view = Utils.findRequiredView(source, R.id.btn_gain_publicsea, "field 'btnGainPublicsea' and method 'onClick'");
     target.btnGainPublicsea = Utils.castView(view, R.id.btn_gain_publicsea, "field 'btnGainPublicsea'", TextView.class);
-    view2131821151 = view;
+    view2131821153 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -104,7 +104,7 @@ public class PublicSeaListActivity_ViewBinding<T extends PublicSeaListActivity> 
     });
     view = Utils.findRequiredView(source, R.id.btn_Change_publicStype, "field 'btnChangePublicStype' and method 'onClick'");
     target.btnChangePublicStype = Utils.castView(view, R.id.btn_Change_publicStype, "field 'btnChangePublicStype'", TextView.class);
-    view2131821152 = view;
+    view2131821154 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -113,7 +113,7 @@ public class PublicSeaListActivity_ViewBinding<T extends PublicSeaListActivity> 
     });
     view = Utils.findRequiredView(source, R.id.btn_Change_OwnManager, "field 'btnChangeOwnManager' and method 'onClick'");
     target.btnChangeOwnManager = Utils.castView(view, R.id.btn_Change_OwnManager, "field 'btnChangeOwnManager'", TextView.class);
-    view2131821153 = view;
+    view2131821155 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -122,7 +122,7 @@ public class PublicSeaListActivity_ViewBinding<T extends PublicSeaListActivity> 
     });
     view = Utils.findRequiredView(source, R.id.btn_Change_coachLesson, "field 'btnChangeCoachLesson' and method 'onClick'");
     target.btnChangeCoachLesson = Utils.castView(view, R.id.btn_Change_coachLesson, "field 'btnChangeCoachLesson'", TextView.class);
-    view2131821154 = view;
+    view2131821156 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -134,7 +134,7 @@ public class PublicSeaListActivity_ViewBinding<T extends PublicSeaListActivity> 
     target.fab = Utils.findRequiredViewAsType(source, R.id.fab, "field 'fab'", FloatingActionButton.class);
     view = Utils.findRequiredView(source, R.id.btn_selected_all, "field 'btnSelectedAll' and method 'onClick'");
     target.btnSelectedAll = Utils.castView(view, R.id.btn_selected_all, "field 'btnSelectedAll'", CheckBox.class);
-    view2131821150 = view;
+    view2131821152 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -173,24 +173,24 @@ public class PublicSeaListActivity_ViewBinding<T extends PublicSeaListActivity> 
     target.btnSelectedAll = null;
     target.layoutAlpha = null;
 
-    view2131821142.setOnClickListener(null);
-    view2131821142 = null;
-    view2131821145.setOnClickListener(null);
-    view2131821145 = null;
-    view2131820815.setOnClickListener(null);
-    view2131820815 = null;
-    view2131821141.setOnClickListener(null);
-    view2131821141 = null;
-    view2131821151.setOnClickListener(null);
-    view2131821151 = null;
-    view2131821152.setOnClickListener(null);
-    view2131821152 = null;
+    view2131821144.setOnClickListener(null);
+    view2131821144 = null;
+    view2131821147.setOnClickListener(null);
+    view2131821147 = null;
+    view2131820817.setOnClickListener(null);
+    view2131820817 = null;
+    view2131821143.setOnClickListener(null);
+    view2131821143 = null;
     view2131821153.setOnClickListener(null);
     view2131821153 = null;
     view2131821154.setOnClickListener(null);
     view2131821154 = null;
-    view2131821150.setOnClickListener(null);
-    view2131821150 = null;
+    view2131821155.setOnClickListener(null);
+    view2131821155 = null;
+    view2131821156.setOnClickListener(null);
+    view2131821156 = null;
+    view2131821152.setOnClickListener(null);
+    view2131821152 = null;
 
     this.target = null;
   }

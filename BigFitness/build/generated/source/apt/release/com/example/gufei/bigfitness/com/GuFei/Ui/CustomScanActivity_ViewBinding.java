@@ -16,7 +16,7 @@ import java.lang.Override;
 public class CustomScanActivity_ViewBinding<T extends CustomScanActivity> implements Unbinder {
   protected T target;
 
-  private View view2131820904;
+  private View view2131820906;
 
   @UiThread
   public CustomScanActivity_ViewBinding(final T target, View source) {
@@ -26,7 +26,7 @@ public class CustomScanActivity_ViewBinding<T extends CustomScanActivity> implem
     target.dbvCustom = Utils.findRequiredViewAsType(source, R.id.dbv_custom, "field 'dbvCustom'", DecoratedBarcodeView.class);
     view = Utils.findRequiredView(source, R.id.btn_switch, "field 'btnSwitch' and method 'onViewClicked'");
     target.btnSwitch = Utils.castView(view, R.id.btn_switch, "field 'btnSwitch'", Button.class);
-    view2131820904 = view;
+    view2131820906 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -44,8 +44,8 @@ public class CustomScanActivity_ViewBinding<T extends CustomScanActivity> implem
     target.dbvCustom = null;
     target.btnSwitch = null;
 
-    view2131820904.setOnClickListener(null);
-    view2131820904 = null;
+    view2131820906.setOnClickListener(null);
+    view2131820906 = null;
 
     this.target = null;
   }

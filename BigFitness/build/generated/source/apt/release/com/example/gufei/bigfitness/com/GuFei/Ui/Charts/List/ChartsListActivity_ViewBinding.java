@@ -21,9 +21,9 @@ import java.lang.Override;
 public class ChartsListActivity_ViewBinding<T extends ChartsListActivity> implements Unbinder {
   protected T target;
 
-  private View view2131821142;
+  private View view2131821144;
 
-  private View view2131821145;
+  private View view2131821147;
 
   @UiThread
   public ChartsListActivity_ViewBinding(final T target, View source) {
@@ -32,7 +32,7 @@ public class ChartsListActivity_ViewBinding<T extends ChartsListActivity> implem
     View view;
     view = Utils.findRequiredView(source, R.id.sorting_btn, "field 'sortingBtn' and method 'onClick'");
     target.sortingBtn = Utils.castView(view, R.id.sorting_btn, "field 'sortingBtn'", RelativeLayout.class);
-    view2131821142 = view;
+    view2131821144 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -41,7 +41,7 @@ public class ChartsListActivity_ViewBinding<T extends ChartsListActivity> implem
     });
     view = Utils.findRequiredView(source, R.id.screening_btn, "field 'screeningBtn' and method 'onClick'");
     target.screeningBtn = Utils.castView(view, R.id.screening_btn, "field 'screeningBtn'", RelativeLayout.class);
-    view2131821145 = view;
+    view2131821147 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -77,10 +77,10 @@ public class ChartsListActivity_ViewBinding<T extends ChartsListActivity> implem
     target.titleNum = null;
     target.layoutAlpha = null;
 
-    view2131821142.setOnClickListener(null);
-    view2131821142 = null;
-    view2131821145.setOnClickListener(null);
-    view2131821145 = null;
+    view2131821144.setOnClickListener(null);
+    view2131821144 = null;
+    view2131821147.setOnClickListener(null);
+    view2131821147 = null;
 
     this.target = null;
   }

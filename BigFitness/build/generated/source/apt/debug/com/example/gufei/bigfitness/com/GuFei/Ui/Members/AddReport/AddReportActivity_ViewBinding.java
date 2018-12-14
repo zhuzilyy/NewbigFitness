@@ -20,7 +20,7 @@ public class AddReportActivity_ViewBinding<T extends AddReportActivity> implemen
 
   private View view2131820980;
 
-  private View view2131821162;
+  private View view2131821164;
 
   private View view2131820971;
 
@@ -43,7 +43,7 @@ public class AddReportActivity_ViewBinding<T extends AddReportActivity> implemen
     target.textCustomerType = Utils.findRequiredViewAsType(source, R.id.text_customer_type, "field 'textCustomerType'", TextView.class);
     view = Utils.findRequiredView(source, R.id.text_time, "field 'textTime' and method 'onViewClicked'");
     target.textTime = Utils.castView(view, R.id.text_time, "field 'textTime'", TextView.class);
-    view2131821162 = view;
+    view2131821164 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -78,8 +78,8 @@ public class AddReportActivity_ViewBinding<T extends AddReportActivity> implemen
 
     view2131820980.setOnClickListener(null);
     view2131820980 = null;
-    view2131821162.setOnClickListener(null);
-    view2131821162 = null;
+    view2131821164.setOnClickListener(null);
+    view2131821164 = null;
     view2131820971.setOnClickListener(null);
     view2131820971 = null;
 

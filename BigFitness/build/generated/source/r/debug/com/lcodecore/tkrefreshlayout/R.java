@@ -47,19 +47,19 @@ public final class R {
         public static final int ic_arrow = 0x7f020079;
     }
     public static final class id {
-        public static final int draweeView = 0x7f110407;
+        public static final int draweeView = 0x7f110409;
         public static final int ex_header = 0x7f110004;
         public static final int item_touch_helper_previous_elevation = 0x7f11000b;
-        public static final int iv_arrow = 0x7f11040e;
-        public static final int iv_loading = 0x7f11040f;
-        public static final int ripple = 0x7f11040a;
-        public static final int round1 = 0x7f110408;
-        public static final int round2 = 0x7f110409;
-        public static final int tv = 0x7f110410;
+        public static final int iv_arrow = 0x7f110410;
+        public static final int iv_loading = 0x7f110411;
+        public static final int ripple = 0x7f11040c;
+        public static final int round1 = 0x7f11040a;
+        public static final int round2 = 0x7f11040b;
+        public static final int tv = 0x7f110412;
     }
     public static final class layout {
-        public static final int view_bezier = 0x7f0400ef;
-        public static final int view_sinaheader = 0x7f0400f5;
+        public static final int view_bezier = 0x7f0400f0;
+        public static final int view_sinaheader = 0x7f0400f6;
     }
     public static final class mipmap {
         public static final int refresh_head_arrow = 0x7f030051;

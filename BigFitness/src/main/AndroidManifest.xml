@@ -212,6 +212,22 @@
                 <!--android:name="android.support.FILE_PROVIDER_PATHS"-->
                 <!--android:resource="@xml/filepaths"/>-->
         <!--</provider>-->
+        //静态注册广播
+        <receiver
+            android:name=".com.GuFei.Push.HandlePushReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                //自定义Action
+                <action android:name="com.action.receive.message"/>
+            </intent-filter>
+        </receiver>
+        <!--推送的详情-->
+        <activity
+            android:theme="@style/DialogActivity"
+            android:name=".com.GuFei.Push.PushDetailActivity"
+            android:screenOrientation="portrait"
+            />
     </application>
 
 </manifest>

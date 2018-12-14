@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:2:1-217:12
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:2:1-233:12
 	package
 		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:4:5-43
 		INJECTED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml
@@ -112,7 +112,7 @@ ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:37:5-74
 	android:name
 		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:37:22-71
 application
-ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:39:5-215:19
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:39:5-231:19
 MERGED from [NewbigFitness:library:unspecified] E:\NewbigFitness\library\build\intermediates\bundles\default\AndroidManifest.xml:11:5-14:19
 MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\Administrator\.android\build-cache\aaa418f1f71ec28055f90f63ef5bd5a25a2882e0\output\AndroidManifest.xml:22:5-20
 MERGED from [me.yokeyword:fragmentation:0.7.9] C:\Users\Administrator\.android\build-cache\b57a0315bfbbc99fea4e13bbdae05ce7f1f84fec\output\AndroidManifest.xml:9:5-12:19
@@ -645,6 +645,28 @@ ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:205:9-106
 		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:205:68-104
 	android:name
 		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:205:19-66
+receiver#com.example.gufei.bigfitness.com.GuFei.Push.HandlePushReceiver
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:216:9-224:20
+	android:enabled
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:218:13-35
+	android:exported
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:219:13-36
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:217:13-62
+intent-filter#com.action.receive.message
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:220:13-223:29
+action#com.action.receive.message
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:222:17-68
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:222:25-66
+activity#com.example.gufei.bigfitness.com.GuFei.Push.PushDetailActivity
+ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:226:9-230:15
+	android:screenOrientation
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:229:13-49
+	android:theme
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:227:13-50
+	android:name
+		ADDED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml:228:13-62
 uses-sdk
 INJECTED from E:\NewbigFitness\BigFitness\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [io.realm:realm-android-library:2.1.1] C:\Users\Administrator\.android\build-cache\310f9e72b627d4585a2f4af12697b4b3a775dbc9\output\AndroidManifest.xml:5:5-7:41

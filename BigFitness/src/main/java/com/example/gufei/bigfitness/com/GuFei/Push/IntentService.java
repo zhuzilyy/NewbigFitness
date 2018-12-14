@@ -4,6 +4,7 @@ import android.app.Notification;
 import android.app.NotificationManager;
 import android.app.PendingIntent;
 import android.app.Service;
+import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
@@ -45,9 +46,8 @@ public class IntentService  extends GTIntentService {
         intent.putExtra("title",gtNotificationMessage.getTitle());
         intent.putExtra("message",gtNotificationMessage.getContent());
         intent.setAction("com.action.receive.message");
+        intent.setComponent(new ComponentName("com.example.gufei.bigfitness", "com.example.gufei.bigfitness.com.GuFei.Push.HandlePushReceiver"));
         sendBroadcast(intent);
-        count++;
-        Log.i("tag",count+"========count=========");
     }
 
     @Override

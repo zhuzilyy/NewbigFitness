@@ -57,9 +57,9 @@ public final class R {
         public static final int previous = 0x7f0a006e;
     }
     public static final class style {
-        public static final int TextAppearance_MaterialCalendarWidget_Date = 0x7f0c012e;
-        public static final int TextAppearance_MaterialCalendarWidget_Header = 0x7f0c012f;
-        public static final int TextAppearance_MaterialCalendarWidget_WeekDay = 0x7f0c0130;
+        public static final int TextAppearance_MaterialCalendarWidget_Date = 0x7f0c012f;
+        public static final int TextAppearance_MaterialCalendarWidget_Header = 0x7f0c0130;
+        public static final int TextAppearance_MaterialCalendarWidget_WeekDay = 0x7f0c0131;
     }
     public static final class styleable {
         public static final int[] MaterialCalendarView = { 0x7f01012e, 0x7f01012f, 0x7f010130, 0x7f010131, 0x7f010132, 0x7f010133, 0x7f010134, 0x7f010135, 0x7f010136, 0x7f010137, 0x7f010138, 0x7f010139, 0x7f01013a, 0x7f01013b, 0x7f01013c, 0x7f01013d };

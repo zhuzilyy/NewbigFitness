@@ -33,16 +33,16 @@ public final class R {
     }
     public static final class id {
         public static final int always = 0x7f110062;
-        public static final int btn_cancel = 0x7f1102d9;
-        public static final int btn_done = 0x7f1102da;
+        public static final int btn_cancel = 0x7f1102db;
+        public static final int btn_done = 0x7f1102dc;
         public static final int changing = 0x7f110063;
-        public static final int crop_image = 0x7f1102d7;
-        public static final int done_cancel_bar = 0x7f1102d8;
+        public static final int crop_image = 0x7f1102d9;
+        public static final int done_cancel_bar = 0x7f1102da;
         public static final int never = 0x7f110064;
     }
     public static final class layout {
-        public static final int crop__activity_crop = 0x7f040087;
-        public static final int crop__layout_done_cancel = 0x7f040088;
+        public static final int crop__activity_crop = 0x7f040088;
+        public static final int crop__layout_done_cancel = 0x7f040089;
     }
     public static final class string {
         public static final int crop__cancel = 0x7f0a0019;

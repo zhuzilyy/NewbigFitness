@@ -195,8 +195,6 @@ public interface Api {
             @Query("token") String token,
             @Query("ClubId") int ClubId,
             @Query("MessageId") int MessageId
-
-
     );
 
 

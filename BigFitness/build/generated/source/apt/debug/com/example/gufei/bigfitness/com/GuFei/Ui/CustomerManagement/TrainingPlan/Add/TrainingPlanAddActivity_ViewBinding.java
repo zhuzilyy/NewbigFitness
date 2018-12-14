@@ -21,7 +21,7 @@ public class TrainingPlanAddActivity_ViewBinding<T extends TrainingPlanAddActivi
 
   private View view2131820980;
 
-  private View view2131821185;
+  private View view2131821187;
 
   @UiThread
   public TrainingPlanAddActivity_ViewBinding(final T target, View source) {
@@ -44,7 +44,7 @@ public class TrainingPlanAddActivity_ViewBinding<T extends TrainingPlanAddActivi
     target.textView6 = Utils.findRequiredViewAsType(source, R.id.textView6, "field 'textView6'", TextView.class);
     view = Utils.findRequiredView(source, R.id.btn, "field 'btn' and method 'onViewClicked'");
     target.btn = Utils.castView(view, R.id.btn, "field 'btn'", Button.class);
-    view2131821185 = view;
+    view2131821187 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -69,8 +69,8 @@ public class TrainingPlanAddActivity_ViewBinding<T extends TrainingPlanAddActivi
 
     view2131820980.setOnClickListener(null);
     view2131820980 = null;
-    view2131821185.setOnClickListener(null);
-    view2131821185 = null;
+    view2131821187.setOnClickListener(null);
+    view2131821187 = null;
 
     this.target = null;
   }

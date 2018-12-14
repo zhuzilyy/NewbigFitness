@@ -2,6 +2,7 @@ package com.example.gufei.bigfitness.base;
 
 
 import android.app.Activity;
+import android.app.ActivityManager;
 import android.app.AlertDialog;
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -94,7 +95,6 @@ public abstract class BaseActivity<T extends BasePresenter> extends AppCompatAct
 
     public static boolean isForeground = false;
     private NotificationReceiver myReceiver;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -103,10 +103,10 @@ public abstract class BaseActivity<T extends BasePresenter> extends AppCompatAct
         if (layoutId != 0) {
             setContentView(layoutId);
         }
-        myReceiver = new NotificationReceiver();
+      /*  myReceiver = new NotificationReceiver();
         IntentFilter intentFilter = new IntentFilter();
         intentFilter.addAction("com.action.receive.message");
-        registerReceiver(myReceiver,intentFilter);
+        registerReceiver(myReceiver,intentFilter);*/
 
         mUnBinder = ButterKnife.bind(this);
         mContext = this;
@@ -379,23 +379,29 @@ public abstract class BaseActivity<T extends BasePresenter> extends AppCompatAct
     }
     //注册广播接收到通送的广播显示对话框
     static class NotificationReceiver extends BroadcastReceiver{
+        boolean isShownDialog;
         @Override
         public void onReceive(Context context, Intent intent) {
-            String action = intent.getAction();
-            if (action.equals("com.action.receive.message")){
-                String title = intent.getStringExtra("title");
-                String message = intent.getStringExtra("message");
-                AlertDialog.Builder dialog=new AlertDialog.Builder(context);
-                dialog.setTitle(title);//设置标题
-                dialog.setMessage(message);//设置信息具体内容
-                dialog.setCancelable(false);//设置是否可取消
-                dialog.setPositiveButton("确定", new DialogInterface.OnClickListener() {
-                    @Override
-                    public void onClick(DialogInterface dialog, int which) {
-                        dialog.dismiss();
-                    }
-                });
-                dialog.show();
+            synchronized (BaseActivity.class){
+                if (!isShownDialog){
+                    isShownDialog = true;
+                    String action = intent.getAction();
+                    if (action.equals("com.action.receive.message")){
+                        String title = intent.getStringExtra("title");
+                        String message = intent.getStringExtra("message");
+                        AlertDialog.Builder dialog=new AlertDialog.Builder(context);
+                        dialog.setTitle(title);//设置标题
+                        dialog.setMessage(message);//设置信息具体内容
+                        dialog.setCancelable(false);//设置是否可取消
+                        dialog.setPositiveButton("确定", new DialogInterface.OnClickListener() {
+                            @Override
+                            public void onClick(DialogInterface dialog, int which) {
+                                dialog.dismiss();
+                            }
+                        });
+                        dialog.show();
+                     }
+                }
             }
         }
     }

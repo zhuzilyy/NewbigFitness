@@ -17,11 +17,11 @@ import java.lang.Override;
 public class MembersMainActivity_ViewBinding<T extends MembersMainActivity> implements Unbinder {
   protected T target;
 
-  private View view2131820950;
-
-  private View view2131820951;
-
   private View view2131820952;
+
+  private View view2131820953;
+
+  private View view2131820954;
 
   @UiThread
   public MembersMainActivity_ViewBinding(final T target, View source) {
@@ -30,7 +30,7 @@ public class MembersMainActivity_ViewBinding<T extends MembersMainActivity> impl
     View view;
     view = Utils.findRequiredView(source, R.id.customer_acquisition_btn, "field 'customerAcquisitionBtn' and method 'onClick'");
     target.customerAcquisitionBtn = Utils.castView(view, R.id.customer_acquisition_btn, "field 'customerAcquisitionBtn'", LinearLayout.class);
-    view2131820950 = view;
+    view2131820952 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -39,7 +39,7 @@ public class MembersMainActivity_ViewBinding<T extends MembersMainActivity> impl
     });
     view = Utils.findRequiredView(source, R.id.customer_list_btn, "field 'customerListBtn' and method 'onClick'");
     target.customerListBtn = Utils.castView(view, R.id.customer_list_btn, "field 'customerListBtn'", LinearLayout.class);
-    view2131820951 = view;
+    view2131820953 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -48,7 +48,7 @@ public class MembersMainActivity_ViewBinding<T extends MembersMainActivity> impl
     });
     view = Utils.findRequiredView(source, R.id.non_members_list_btn, "field 'nonMembersListBtn' and method 'onClick'");
     target.nonMembersListBtn = Utils.castView(view, R.id.non_members_list_btn, "field 'nonMembersListBtn'", LinearLayout.class);
-    view2131820952 = view;
+    view2131820954 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -71,12 +71,12 @@ public class MembersMainActivity_ViewBinding<T extends MembersMainActivity> impl
     target.tvTitle = null;
     target.toolbar = null;
 
-    view2131820950.setOnClickListener(null);
-    view2131820950 = null;
-    view2131820951.setOnClickListener(null);
-    view2131820951 = null;
     view2131820952.setOnClickListener(null);
     view2131820952 = null;
+    view2131820953.setOnClickListener(null);
+    view2131820953 = null;
+    view2131820954.setOnClickListener(null);
+    view2131820954 = null;
 
     this.target = null;
   }

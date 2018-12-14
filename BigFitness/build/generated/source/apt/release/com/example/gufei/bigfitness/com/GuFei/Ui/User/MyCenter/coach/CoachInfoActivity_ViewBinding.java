@@ -20,13 +20,11 @@ import java.lang.Override;
 public class CoachInfoActivity_ViewBinding<T extends CoachInfoActivity> implements Unbinder {
   protected T target;
 
-  private View view2131820868;
-
   private View view2131820870;
 
-  private View view2131820874;
+  private View view2131820872;
 
-  private View view2131820877;
+  private View view2131820876;
 
   private View view2131820879;
 
@@ -44,9 +42,11 @@ public class CoachInfoActivity_ViewBinding<T extends CoachInfoActivity> implemen
 
   private View view2131820893;
 
-  private View view2131820896;
+  private View view2131820895;
 
-  private View view2131820978;
+  private View view2131820898;
+
+  private View view2131820980;
 
   @UiThread
   public CoachInfoActivity_ViewBinding(final T target, View source) {
@@ -57,7 +57,7 @@ public class CoachInfoActivity_ViewBinding<T extends CoachInfoActivity> implemen
     target.toolbar = Utils.findRequiredViewAsType(source, R.id.toolbar, "field 'toolbar'", Toolbar.class);
     view = Utils.findRequiredView(source, R.id.user_av_btn, "field 'userAvBtn' and method 'onViewClicked'");
     target.userAvBtn = Utils.castView(view, R.id.user_av_btn, "field 'userAvBtn'", RelativeLayout.class);
-    view2131820868 = view;
+    view2131820870 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -67,7 +67,7 @@ public class CoachInfoActivity_ViewBinding<T extends CoachInfoActivity> implemen
     target.userHeightText = Utils.findRequiredViewAsType(source, R.id.user_height_text, "field 'userHeightText'", TextView.class);
     view = Utils.findRequiredView(source, R.id.user_height_btn, "field 'userHeightBtn' and method 'onViewClicked'");
     target.userHeightBtn = Utils.castView(view, R.id.user_height_btn, "field 'userHeightBtn'", RelativeLayout.class);
-    view2131820870 = view;
+    view2131820872 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -77,7 +77,7 @@ public class CoachInfoActivity_ViewBinding<T extends CoachInfoActivity> implemen
     target.userWeightText = Utils.findRequiredViewAsType(source, R.id.user_weight_text, "field 'userWeightText'", TextView.class);
     view = Utils.findRequiredView(source, R.id.user_weight_btn, "field 'userWeightBtn' and method 'onViewClicked'");
     target.userWeightBtn = Utils.castView(view, R.id.user_weight_btn, "field 'userWeightBtn'", RelativeLayout.class);
-    view2131820874 = view;
+    view2131820876 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -87,7 +87,7 @@ public class CoachInfoActivity_ViewBinding<T extends CoachInfoActivity> implemen
     target.userLevelText = Utils.findRequiredViewAsType(source, R.id.user_level_text, "field 'userLevelText'", TextView.class);
     view = Utils.findRequiredView(source, R.id.user_level_btn, "field 'userLevelBtn' and method 'onViewClicked'");
     target.userLevelBtn = Utils.castView(view, R.id.user_level_btn, "field 'userLevelBtn'", RelativeLayout.class);
-    view2131820877 = view;
+    view2131820879 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -97,7 +97,7 @@ public class CoachInfoActivity_ViewBinding<T extends CoachInfoActivity> implemen
     target.userAgeText = Utils.findRequiredViewAsType(source, R.id.user_age_text, "field 'userAgeText'", TextView.class);
     view = Utils.findRequiredView(source, R.id.user_age_btn, "field 'userAgeBtn' and method 'onViewClicked'");
     target.userAgeBtn = Utils.castView(view, R.id.user_age_btn, "field 'userAgeBtn'", RelativeLayout.class);
-    view2131820879 = view;
+    view2131820881 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -106,7 +106,7 @@ public class CoachInfoActivity_ViewBinding<T extends CoachInfoActivity> implemen
     });
     view = Utils.findRequiredView(source, R.id.user_certificate_btn, "field 'userCertificateBtn' and method 'onViewClicked'");
     target.userCertificateBtn = Utils.castView(view, R.id.user_certificate_btn, "field 'userCertificateBtn'", RelativeLayout.class);
-    view2131820881 = view;
+    view2131820883 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -115,7 +115,7 @@ public class CoachInfoActivity_ViewBinding<T extends CoachInfoActivity> implemen
     });
     view = Utils.findRequiredView(source, R.id.good_btn, "field 'goodBtn' and method 'onViewClicked'");
     target.goodBtn = Utils.castView(view, R.id.good_btn, "field 'goodBtn'", RelativeLayout.class);
-    view2131820883 = view;
+    view2131820885 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -125,7 +125,7 @@ public class CoachInfoActivity_ViewBinding<T extends CoachInfoActivity> implemen
     target.classTimeText = Utils.findRequiredViewAsType(source, R.id.class_time_text, "field 'classTimeText'", TextView.class);
     view = Utils.findRequiredView(source, R.id.class_time_btn, "field 'classTimeBtn' and method 'onViewClicked'");
     target.classTimeBtn = Utils.castView(view, R.id.class_time_btn, "field 'classTimeBtn'", RelativeLayout.class);
-    view2131820885 = view;
+    view2131820887 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -135,7 +135,7 @@ public class CoachInfoActivity_ViewBinding<T extends CoachInfoActivity> implemen
     target.classStuNumText = Utils.findRequiredViewAsType(source, R.id.class_stu_num_text, "field 'classStuNumText'", TextView.class);
     view = Utils.findRequiredView(source, R.id.class_stu_num_btn, "field 'classStuNumBtn' and method 'onViewClicked'");
     target.classStuNumBtn = Utils.castView(view, R.id.class_stu_num_btn, "field 'classStuNumBtn'", RelativeLayout.class);
-    view2131820887 = view;
+    view2131820889 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -145,7 +145,7 @@ public class CoachInfoActivity_ViewBinding<T extends CoachInfoActivity> implemen
     target.classTotalWeightText = Utils.findRequiredViewAsType(source, R.id.class_total_weight_text, "field 'classTotalWeightText'", TextView.class);
     view = Utils.findRequiredView(source, R.id.class_total_weight_btn, "field 'classTotalWeightBtn' and method 'onViewClicked'");
     target.classTotalWeightBtn = Utils.castView(view, R.id.class_total_weight_btn, "field 'classTotalWeightBtn'", RelativeLayout.class);
-    view2131820889 = view;
+    view2131820891 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -154,7 +154,7 @@ public class CoachInfoActivity_ViewBinding<T extends CoachInfoActivity> implemen
     });
     view = Utils.findRequiredView(source, R.id.user_introduce_btn, "field 'userIntroduceBtn' and method 'onViewClicked'");
     target.userIntroduceBtn = Utils.castView(view, R.id.user_introduce_btn, "field 'userIntroduceBtn'", RelativeLayout.class);
-    view2131820891 = view;
+    view2131820893 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -164,7 +164,7 @@ public class CoachInfoActivity_ViewBinding<T extends CoachInfoActivity> implemen
     target.userEvaluationText = Utils.findRequiredViewAsType(source, R.id.user_evaluation_text, "field 'userEvaluationText'", TextView.class);
     view = Utils.findRequiredView(source, R.id.user_evaluation_btn, "field 'userEvaluationBtn' and method 'onViewClicked'");
     target.userEvaluationBtn = Utils.castView(view, R.id.user_evaluation_btn, "field 'userEvaluationBtn'", RelativeLayout.class);
-    view2131820893 = view;
+    view2131820895 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -173,7 +173,7 @@ public class CoachInfoActivity_ViewBinding<T extends CoachInfoActivity> implemen
     });
     view = Utils.findRequiredView(source, R.id.user_class_btn, "field 'userClassBtn' and method 'onViewClicked'");
     target.userClassBtn = Utils.castView(view, R.id.user_class_btn, "field 'userClassBtn'", RelativeLayout.class);
-    view2131820896 = view;
+    view2131820898 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -183,7 +183,7 @@ public class CoachInfoActivity_ViewBinding<T extends CoachInfoActivity> implemen
     target.activityAddressDetails = Utils.findRequiredViewAsType(source, R.id.activity_address_details, "field 'activityAddressDetails'", LinearLayout.class);
     view = Utils.findRequiredView(source, R.id.btn_complete, "field 'btnComplete' and method 'onViewClicked'");
     target.btnComplete = Utils.castView(view, R.id.btn_complete, "field 'btnComplete'", Button.class);
-    view2131820978 = view;
+    view2131820980 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -240,14 +240,12 @@ public class CoachInfoActivity_ViewBinding<T extends CoachInfoActivity> implemen
     target.userEvaluationImg = null;
     target.userClassImg = null;
 
-    view2131820868.setOnClickListener(null);
-    view2131820868 = null;
     view2131820870.setOnClickListener(null);
     view2131820870 = null;
-    view2131820874.setOnClickListener(null);
-    view2131820874 = null;
-    view2131820877.setOnClickListener(null);
-    view2131820877 = null;
+    view2131820872.setOnClickListener(null);
+    view2131820872 = null;
+    view2131820876.setOnClickListener(null);
+    view2131820876 = null;
     view2131820879.setOnClickListener(null);
     view2131820879 = null;
     view2131820881.setOnClickListener(null);
@@ -264,10 +262,12 @@ public class CoachInfoActivity_ViewBinding<T extends CoachInfoActivity> implemen
     view2131820891 = null;
     view2131820893.setOnClickListener(null);
     view2131820893 = null;
-    view2131820896.setOnClickListener(null);
-    view2131820896 = null;
-    view2131820978.setOnClickListener(null);
-    view2131820978 = null;
+    view2131820895.setOnClickListener(null);
+    view2131820895 = null;
+    view2131820898.setOnClickListener(null);
+    view2131820898 = null;
+    view2131820980.setOnClickListener(null);
+    view2131820980 = null;
 
     this.target = null;
   }

@@ -23,15 +23,15 @@ public class MembersFollowUpRecordActivity_ViewBinding<T extends MembersFollowUp
 
   private View view2131820827;
 
-  private View view2131821445;
+  private View view2131821447;
 
   private View view2131821158;
 
-  private View view2131821448;
-
-  private View view2131821449;
-
   private View view2131821450;
+
+  private View view2131821451;
+
+  private View view2131821452;
 
   @UiThread
   public MembersFollowUpRecordActivity_ViewBinding(final T target, View source) {
@@ -56,7 +56,7 @@ public class MembersFollowUpRecordActivity_ViewBinding<T extends MembersFollowUp
     });
     view = Utils.findRequiredView(source, R.id.btn_customer_info, "field 'btnCustomerInfo' and method 'onViewClicked'");
     target.btnCustomerInfo = Utils.castView(view, R.id.btn_customer_info, "field 'btnCustomerInfo'", ImageView.class);
-    view2131821445 = view;
+    view2131821447 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -74,7 +74,7 @@ public class MembersFollowUpRecordActivity_ViewBinding<T extends MembersFollowUp
     });
     view = Utils.findRequiredView(source, R.id.btn_report_medical, "field 'btnReportMedical' and method 'onViewClicked'");
     target.btnReportMedical = Utils.castView(view, R.id.btn_report_medical, "field 'btnReportMedical'", LinearLayout.class);
-    view2131821448 = view;
+    view2131821450 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -83,7 +83,7 @@ public class MembersFollowUpRecordActivity_ViewBinding<T extends MembersFollowUp
     });
     view = Utils.findRequiredView(source, R.id.btn_report_appointment, "field 'btnReportAppointment' and method 'onViewClicked'");
     target.btnReportAppointment = Utils.castView(view, R.id.btn_report_appointment, "field 'btnReportAppointment'", LinearLayout.class);
-    view2131821449 = view;
+    view2131821451 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -92,7 +92,7 @@ public class MembersFollowUpRecordActivity_ViewBinding<T extends MembersFollowUp
     });
     view = Utils.findRequiredView(source, R.id.btn_class_record, "field 'btnClassRecord' and method 'onViewClicked'");
     target.btnClassRecord = Utils.castView(view, R.id.btn_class_record, "field 'btnClassRecord'", LinearLayout.class);
-    view2131821450 = view;
+    view2131821452 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -123,16 +123,16 @@ public class MembersFollowUpRecordActivity_ViewBinding<T extends MembersFollowUp
 
     view2131820827.setOnClickListener(null);
     view2131820827 = null;
-    view2131821445.setOnClickListener(null);
-    view2131821445 = null;
+    view2131821447.setOnClickListener(null);
+    view2131821447 = null;
     view2131821158.setOnClickListener(null);
     view2131821158 = null;
-    view2131821448.setOnClickListener(null);
-    view2131821448 = null;
-    view2131821449.setOnClickListener(null);
-    view2131821449 = null;
     view2131821450.setOnClickListener(null);
     view2131821450 = null;
+    view2131821451.setOnClickListener(null);
+    view2131821451 = null;
+    view2131821452.setOnClickListener(null);
+    view2131821452 = null;
 
     this.target = null;
   }

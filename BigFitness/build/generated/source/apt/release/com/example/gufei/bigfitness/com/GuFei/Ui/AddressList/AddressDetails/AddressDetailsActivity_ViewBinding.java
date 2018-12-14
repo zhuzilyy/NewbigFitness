@@ -17,11 +17,11 @@ import java.lang.Override;
 public class AddressDetailsActivity_ViewBinding<T extends AddressDetailsActivity> implements Unbinder {
   protected T target;
 
-  private View view2131820743;
+  private View view2131820745;
 
-  private View view2131820748;
+  private View view2131820750;
 
-  private View view2131820749;
+  private View view2131820751;
 
   @UiThread
   public AddressDetailsActivity_ViewBinding(final T target, View source) {
@@ -30,7 +30,7 @@ public class AddressDetailsActivity_ViewBinding<T extends AddressDetailsActivity
     View view;
     view = Utils.findRequiredView(source, R.id.btn_back, "field 'btnBack' and method 'onViewClicked'");
     target.btnBack = Utils.castView(view, R.id.btn_back, "field 'btnBack'", ImageView.class);
-    view2131820743 = view;
+    view2131820745 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -42,7 +42,7 @@ public class AddressDetailsActivity_ViewBinding<T extends AddressDetailsActivity
     target.tel = Utils.findRequiredViewAsType(source, R.id.tel, "field 'tel'", TextView.class);
     view = Utils.findRequiredView(source, R.id.btn_msg, "field 'btnMsg' and method 'onViewClicked'");
     target.btnMsg = Utils.castView(view, R.id.btn_msg, "field 'btnMsg'", ImageView.class);
-    view2131820748 = view;
+    view2131820750 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -51,7 +51,7 @@ public class AddressDetailsActivity_ViewBinding<T extends AddressDetailsActivity
     });
     view = Utils.findRequiredView(source, R.id.btn_tel, "field 'btnTel' and method 'onViewClicked'");
     target.btnTel = Utils.castView(view, R.id.btn_tel, "field 'btnTel'", ImageView.class);
-    view2131820749 = view;
+    view2131820751 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -79,12 +79,12 @@ public class AddressDetailsActivity_ViewBinding<T extends AddressDetailsActivity
     target.headImg = null;
     target.activityAddressDetails = null;
 
-    view2131820743.setOnClickListener(null);
-    view2131820743 = null;
-    view2131820748.setOnClickListener(null);
-    view2131820748 = null;
-    view2131820749.setOnClickListener(null);
-    view2131820749 = null;
+    view2131820745.setOnClickListener(null);
+    view2131820745 = null;
+    view2131820750.setOnClickListener(null);
+    view2131820750 = null;
+    view2131820751.setOnClickListener(null);
+    view2131820751 = null;
 
     this.target = null;
   }

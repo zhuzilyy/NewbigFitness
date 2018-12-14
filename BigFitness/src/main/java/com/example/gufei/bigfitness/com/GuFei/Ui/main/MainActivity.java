@@ -2,16 +2,12 @@ package com.example.gufei.bigfitness.com.GuFei.Ui.main;
 
 import android.Manifest;
 import android.app.AlertDialog;
-import android.app.Fragment;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.os.Build;
-import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.design.widget.TabLayout;
-import android.support.v4.app.ActivityCompat;
-//import android.support.v4.app.Fragment;
 import android.support.v4.content.ContextCompat;
 import android.support.v4.view.ViewPager;
 import android.view.KeyEvent;
@@ -19,20 +15,15 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
-import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.bumptech.glide.Glide;
 import com.example.gufei.bigfitness.Constants;
 import com.example.gufei.bigfitness.Presenter.MainAdapter;
 import com.example.gufei.bigfitness.R;
 import com.example.gufei.bigfitness.base.BaseActivity;
-import com.example.gufei.bigfitness.com.GuFei.Model.local.AdddayBean;
-import com.example.gufei.bigfitness.com.GuFei.Model.local.CodeBean;
 import com.example.gufei.bigfitness.com.GuFei.Model.local.MainMsgBean;
 import com.example.gufei.bigfitness.com.GuFei.Model.local.ResultBean;
-import com.example.gufei.bigfitness.com.GuFei.Push.IntentService;
 import com.example.gufei.bigfitness.com.GuFei.Ui.AddressList.AddressDetails.AddressEditListening;
 import com.example.gufei.bigfitness.com.GuFei.Ui.AddressList.AddressListFragMent;
 import com.example.gufei.bigfitness.com.GuFei.Ui.CustomScanActivity;
@@ -50,8 +41,6 @@ import com.example.gufei.bigfitness.util.SpUtil;
 import com.google.gson.Gson;
 import com.google.zxing.integration.android.IntentIntegrator;
 import com.google.zxing.integration.android.IntentResult;
-import com.igexin.sdk.PushManager;
-
 
 import org.xutils.common.Callback;
 import org.xutils.http.RequestParams;
@@ -70,6 +59,8 @@ import static com.example.gufei.bigfitness.Constants.ISDERPARTMANAGERKEY;
 import static com.example.gufei.bigfitness.Constants.TOKENKEY;
 import static com.example.gufei.bigfitness.Constants.USERIDKEY;
 import static com.example.gufei.bigfitness.util.ToastUtil.s;
+
+//import android.support.v4.app.Fragment;
 
 /**
  * Created by GuFei_lyf on 2017/3/22

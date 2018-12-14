@@ -33,6 +33,7 @@ javax/annotation/meta/TypeQualifierValidator.class
 com/example/gufei/bigfitness/com/GuFei/Ui/CustomerManagement/LessonInfoDetails/GroupLesson/GroupLesssonActivityPresenter.class
 butterknife/BindDrawable.class
 android/support/test/espresso/core/deps/guava/collect/DenseImmutableTable$ImmutableArrayMap.class
+okhttp3/OkHttpClient.class
 android/support/test/espresso/core/deps/guava/collect/RegularImmutableMap$NonTerminalMapEntry.class
 android/support/v4/net/ConnectivityManagerCompat$HoneycombMR2ConnectivityManagerCompatImpl.class
 com/example/gufei/bigfitness/com/GuFei/Ui/CustomerManagement/ReservationRecord/ReservationRecordActivityPresenter.class
@@ -44,10 +45,12 @@ android/support/v4/app/LoaderManager.class
 android/support/design/widget/BaseTransientBottomBar$BaseCallback.class
 android/support/v7/widget/AdapterHelper$UpdateOp.class
 com/prolificinteractive/materialcalendarview/DayView.class
+okio/ByteString.class
 rx/annotations/Experimental.class
 org/xutils/view/annotation/Event.class
 android/support/v4/net/ConnectivityManagerCompat$JellyBeanConnectivityManagerCompatImpl.class
 org/junit/internal/JUnitSystem.class
+okhttp3/ResponseBody$1.class
 javax/annotation/Nonnull.class
 org/hamcrest/core/IsSame.class
 android/support/v4/net/ConnectivityManagerCompatHoneycombMR2.class
@@ -114,6 +117,7 @@ android/support/v7/graphics/drawable/DrawerArrowDrawable.class
 javax/annotation/PreDestroy.class
 com/prolificinteractive/materialcalendarview/OnDateSelectedListener.class
 me/yokeyword/fragmentation/helper/DebounceAnimListener.class
+okhttp3/CertificatePinner.class
 android/support/v7/app/ActionBar$OnNavigationListener.class
 android/support/test/runner/lifecycle/ApplicationStage.class
 permissions/dispatcher/NeedsPermission.class
@@ -124,6 +128,7 @@ android/support/design/widget/VisibilityAwareImageButton.class
 android/support/test/espresso/base/ThreadPoolExecutorExtractor.class
 android/support/v7/view/menu/CascadingMenuPopup$1.class
 com/prolificinteractive/materialcalendarview/CalendarPagerAdapter.class
+okhttp3/ConnectionPool.class
 android/support/test/internal/runner/lifecycle/ActivityLifecycleMonitorImpl.class
 android/support/test/espresso/base/CompatAsyncTask.class
 org/hamcrest/number/OrderingComparison.class
@@ -187,6 +192,7 @@ android/support/annotation/DimenRes.class
 android/support/test/espresso/core/deps/guava/eventbus/AllowConcurrentEvents.class
 android/support/v7/view/menu/ShowableListMenu.class
 javax/annotation/meta/TypeQualifierNickname.class
+okhttp3/Authenticator.class
 android/support/v4/app/ServiceCompat$StopForegroundFlags.class
 com/lcodecore/tkrefreshlayout/header/progresslayout/MaterialProgressDrawable.class
 android/support/test/espresso/core/deps/guava/io/package-info.class
@@ -238,11 +244,11 @@ android/support/test/espresso/core/deps/guava/util/concurrent/Futures$ImmediateS
 android/support/v4/media/session/MediaSessionCompat$2.class
 com/example/gufei/bigfitness/com/GuFei/Component/DaggerAppComponent$Builder.class
 android/support/v4/app/NotificationBuilderWithBuilderAccessor.class
-rx/CompletableEmitter.class
 com/example/gufei/bigfitness/com/GuFei/Ui/User/MyCenter/coach/CoachInfoActivityPresenter.class
 android/support/v7/widget/LinearLayoutCompat$DividerMode.class
 android/support/test/espresso/core/deps/guava/collect/ImmutableMapEntry$TerminalEntry.class
 dagger/Multibindings.class
+okio/HashingSink.class
 org/hamcrest/Factory.class
 com/example/gufei/bigfitness/com/GuFei/Ui/Members/Private/LessonInfo/LessonInfoPrivateActivityPresenter.class
 org/junit/runners/model/FrameworkMethod.class
@@ -270,6 +276,7 @@ android/support/v7/widget/OpReorderer$Callback.class
 android/support/test/espresso/core/deps/guava/annotations/GwtCompatible.class
 retrofit2/http/HEAD.class
 android/support/v4/media/MediaBrowserCompat$MediaItem$Flags.class
+okhttp3/Cache$2.class
 android/support/test/internal/runner/hidden/ExposedInstrumentationApi.class
 com/example/gufei/bigfitness/com/GuFei/Ui/User/MyCenter/appraise/AppraiseActivityPresenter.class
 android/support/test/espresso/core/deps/guava/collect/ImmutableRangeMap.class
@@ -323,12 +330,15 @@ android/support/annotation/FloatRange.class
 org/junit/validator/AnnotationsValidator$FieldValidator.class
 android/support/v4/app/NotificationCompat$MessagingStyle.class
 android/support/v4/view/ViewPager$MyAccessibilityDelegate.class
+okhttp3/Address.class
 rx/observers/TestObserver.class
 android/support/annotation/StringDef.class
 android/support/v4/media/RatingCompatKitkat.class
 android/support/v4/app/NotificationCompat.class
+okhttp3/internal/cache/DiskLruCache$Snapshot.class
 butterknife/OnTouch.class
 android/support/v4/media/session/MediaSessionCompat.class
+okhttp3/internal/cache/DiskLruCache.class
 org/hamcrest/Matcher.class
 android/support/design/widget/TabLayout$AdapterChangeListener.class
 android/support/test/InstrumentationRegistry.class
@@ -388,9 +398,11 @@ android/support/design/widget/TabLayout$Mode.class
 android/support/v4/widget/MaterialProgressDrawable$2.class
 android/support/annotation/AnimatorRes.class
 android/support/v7/widget/MenuPopupWindow.class
+okhttp3/MediaType.class
 android/support/test/espresso/core/deps/guava/util/concurrent/MoreExecutors.class
 retrofit2/http/GET.class
 org/junit/runners/model/FrameworkMember.class
+okhttp3/HttpUrl.class
 android/support/test/espresso/core/deps/guava/reflect/Types$ClassOwnership$2.class
 android/support/v7/widget/SimpleItemAnimator.class
 com/example/gufei/bigfitness/com/GuFei/Ui/FragMent/SelectList/SelectListPresenter.class
@@ -401,6 +413,7 @@ android/support/annotation/BoolRes.class
 android/support/v4/media/MediaMetadataCompat.class
 com/example/gufei/bigfitness/com/GuFei/Ui/Members/cardlist/CardListPresenter.class
 org/junit/runners/Suite$SuiteClasses.class
+okio/Buffer.class
 com/example/gufei/bigfitness/com/GuFei/Ui/Members/LessonReportDocuments/LessonReportDocumentsListActivityPresenter.class
 android/support/v4/view/ViewCompat$JBViewCompatImpl.class
 android/support/v4/media/RatingCompat$1.class
@@ -428,6 +441,7 @@ android/support/v4/media/MediaMetadataCompat$1.class
 android/support/v7/app/AlertDialog$Builder.class
 android/support/test/espresso/core/deps/guava/collect/RegularImmutableBiMap.class
 com/example/gufei/bigfitness/com/GuFei/Ui/Schedule/horizontalexpcalendar/HorizontalExpApplication.class
+okhttp3/ConnectionSpec.class
 android/support/test/espresso/core/deps/guava/collect/Sets$FilteredNavigableSet.class
 android/support/test/espresso/core/deps/guava/base/Equivalence$EquivalentToPredicate.class
 com/example/gufei/bigfitness/com/GuFei/Ui/Members/MembersInfo/MembersInfoActivityPresenter.class
@@ -547,6 +561,7 @@ android/support/v7/appcompat/R$style.class
 android/support/test/espresso/core/deps/guava/collect/package-info.class
 android/support/annotation/RestrictTo.class
 android/support/v4/media/MediaBrowserCompatApi21$MediaItem.class
+okio/BufferedSource.class
 com/prolificinteractive/materialcalendarview/TitleChanger.class
 android/support/v4/view/ViewConfigurationCompat.class
 dagger/multibindings/IntKey.class
@@ -585,6 +600,7 @@ com/example/gufei/bigfitness/com/GuFei/Component/AppComponent.class
 android/support/v4/view/ViewCompat$ICSMr1ViewCompatImpl.class
 android/support/v4/app/NotificationCompat$Builder.class
 android/support/test/espresso/core/deps/guava/base/Objects.class
+okio/RealBufferedSource.class
 org/junit/runners/parameterized/BlockJUnit4ClassRunnerWithParameters.class
 org/junit/internal/runners/JUnit4ClassRunner.class
 android/support/v4/net/ConnectivityManagerCompat$RestrictBackgroundStatus.class
@@ -604,6 +620,7 @@ com/example/gufei/bigfitness/com/GuFei/Ui/CustomerManagement/TrainingPlan/List/T
 android/support/v4/widget/ViewDragHelper$Callback.class
 android/support/design/widget/BaseTransientBottomBar$6.class
 org/junit/runner/notification/RunListener$ThreadSafe.class
+okio/Segment.class
 android/support/design/widget/BottomSheetBehavior$State.class
 android/support/v4/net/ConnectivityManagerCompat$ConnectivityManagerCompatImpl.class
 org/hamcrest/core/IsAnything.class
@@ -705,6 +722,7 @@ android/support/v4/media/RatingCompat$Style.class
 org/junit/runner/manipulation/Sortable.class
 android/support/v7/app/AppCompatDelegate.class
 com/example/gufei/bigfitness/com/GuFei/Ui/Members/AppointmentDetails/AppointmentDetailsActivityPresenter.class
+okhttp3/package-info.class
 com/example/gufei/bigfitness/com/GuFei/Ui/User/Messages/MessagesListActivityPresenter.class
 android/support/v4/app/TaskStackBuilder$SupportParentable.class
 android/support/design/widget/BaseTransientBottomBar$Behavior.class
@@ -745,6 +763,7 @@ android/support/v7/view/menu/MenuBuilder$Callback.class
 io/realm/BaseRealm.class
 org/junit/validator/TestClassValidator.class
 javax/annotation/concurrent/Immutable.class
+okhttp3/CacheControl.class
 android/support/v4/widget/DrawerLayout.class
 android/support/v4/app/NotificationCompat$NotificationCompatImplHoneycomb.class
 org/junit/rules/TestWatchman.class
@@ -779,6 +798,7 @@ android/support/v7/widget/LinearLayoutCompat$OrientationMode.class
 org/junit/runner/Runner.class
 android/support/test/espresso/core/deps/dagger/Component$Builder.class
 android/support/v7/widget/RecyclerView$LayoutParams.class
+okhttp3/Handshake.class
 retrofit2/http/DELETE.class
 android/support/test/espresso/core/deps/guava/util/concurrent/ExecutionList$RunnableExecutorPair.class
 android/support/test/internal/runner/lifecycle/ApplicationLifecycleMonitorImpl.class
@@ -807,6 +827,7 @@ android/support/test/espresso/core/deps/guava/collect/RegularImmutableBiMap$NonT
 android/support/test/espresso/core/deps/guava/io/ByteArrayDataOutput.class
 com/example/gufei/bigfitness/com/GuFei/Component/FragmentComponent.class
 org/junit/runners/Parameterized$UseParametersRunnerFactory.class
+okhttp3/Headers.class
 com/example/gufei/bigfitness/com/GuFei/Ui/User/welcome/WelcomeActivityPresenter.class
 android/support/design/widget/AppBarLayout$Behavior$1.class
 cn/jiguang/a/a/c/b.class
@@ -827,6 +848,7 @@ android/support/test/espresso/core/deps/guava/base/Joiner.class
 android/support/v7/app/ActionBar$TabListener.class
 android/support/test/espresso/core/deps/guava/cache/package-info.class
 android/support/v7/app/AppCompatDelegateImplN.class
+okhttp3/HttpUrl$Builder.class
 javax/annotation/meta/Exclusive.class
 org/junit/runner/Describable.class
 org/joda/time/Hours.class
@@ -856,16 +878,18 @@ rx/android/schedulers/HandlerScheduler.class
 android/support/v4/util/Pools$SimplePool.class
 android/support/v4/util/ArrayMap$1.class
 javax/annotation/MatchesPattern.class
-rx/internal/operators/OnSubscribeFromAsyncEmitter.class
 android/support/v7/widget/LinearLayoutManager.class
 android/support/annotation/ArrayRes.class
+okhttp3/Dispatcher.class
 retrofit2/http/Multipart.class
 io/realm/annotations/RealmClass.class
 android/support/v7/widget/ListPopupWindow.class
 android/support/v4/view/animation/FastOutSlowInInterpolator.class
 butterknife/internal/Utils.class
+okhttp3/Connection.class
 android/support/test/espresso/core/deps/guava/collect/Multisets.class
 org/junit/runner/RunWith.class
+okhttp3/Cache$CacheResponseBody.class
 android/support/design/widget/BottomSheetBehavior.class
 android/support/test/runner/lifecycle/ApplicationLifecycleCallback.class
 android/support/v4/text/util/LinkifyCompat$1.class
@@ -875,6 +899,7 @@ android/support/v4/app/RemoteInputCompatBase$RemoteInput.class
 org/joda/time/format/DateTimeParserBucket.class
 com/example/gufei/bigfitness/com/GuFei/Ui/User/MyCenter/personainfo/PersonalInfoActivityPresenter.class
 android/support/v7/recyclerview/R.class
+com/lzy/okgo/OkGo.class
 android/support/design/R$dimen.class
 android/support/v7/view/menu/CascadingMenuPopup$HorizPosition.class
 android/support/design/widget/CoordinatorLayout.class
@@ -913,6 +938,7 @@ com/bigkoo/pickerview/OptionsPickerView$Builder.class
 android/support/v7/widget/ChildHelper.class
 android/support/v4/media/VolumeProviderCompat$ControlType.class
 android/support/v4/view/ViewPropertyAnimatorListenerAdapter.class
+okhttp3/Cookie.class
 org/junit/validator/AnnotationsValidator$1.class
 android/support/test/runner/MonitoringInstrumentation.class
 android/support/test/runner/MonitoringInstrumentation$3.class
@@ -965,6 +991,7 @@ com/example/gufei/bigfitness/com/GuFei/NetWork/ApiBak.class
 android/support/v7/graphics/drawable/DrawerArrowDrawable$ArrowDirection.class
 org/joda/time/DateMidnight.class
 android/support/v7/widget/RecyclerView$ItemAnimator$AdapterChanges.class
+okhttp3/OkHttpClient$Builder.class
 android/support/v7/widget/RecyclerView$3.class
 android/support/design/widget/SwipeDismissBehavior.class
 android/support/test/espresso/core/deps/guava/collect/TreeRangeSet$SubRangeSet.class
@@ -987,6 +1014,7 @@ org/joda/time/Seconds.class
 com/example/gufei/bigfitness/com/GuFei/Ui/CustomerManagement/LessonInfoDetails/PrivateLessson/PrivateLesssonActivityPresenter.class
 butterknife/OnCheckedChanged.class
 android/support/v4/media/MediaBrowserCompatApi21.class
+okhttp3/Cache.class
 android/support/v7/widget/ViewBoundsCheck.class
 permissions/dispatcher/OnPermissionDenied.class
 org/xutils/db/annotation/Table.class
@@ -1077,6 +1105,7 @@ me/yokeyword/fragmentation/SupportFragment$1.class
 com/example/gufei/bigfitness/com/GuFei/Ui/CustomerManagement/EditCustomer/CustomerEditCollectionActivityPresenter.class
 android/support/v4/view/ViewCompat$JbMr1ViewCompatImpl.class
 android/support/v7/app/AppCompatDelegateImplBase.class
+okhttp3/Cache$Entry.class
 android/support/v7/view/menu/CascadingMenuPopup.class
 org/junit/internal/runners/TestClass.class
 android/support/test/internal/runner/TestRequestBuilder.class
@@ -1145,6 +1174,7 @@ butterknife/OnFocusChange.class
 org/junit/runner/notification/SynchronizedRunListener.class
 android/support/test/filters/SdkSuppress.class
 android/support/test/espresso/core/deps/guava/escape/package-info.class
+okhttp3/RequestBody$1.class
 android/support/design/widget/BottomSheetBehavior$2.class
 android/support/v4/view/ViewPager$OnPageChangeListener.class
 android/support/annotation/RequiresPermission$Write.class
@@ -1183,6 +1213,7 @@ android/support/test/espresso/core/deps/guava/cache/Cache.class
 javax/annotation/Signed.class
 butterknife/internal/ListenerClass$NONE.class
 android/support/design/R$style.class
+okio/SegmentPool.class
 android/support/v7/widget/RecyclerView$ItemAnimatorRestoreListener.class
 android/support/design/widget/AppBarLayout$OnOffsetChangedListener.class
 org/junit/runner/manipulation/NoTestsRemainException.class
@@ -1200,6 +1231,7 @@ org/joda/time/DateTimeZone.class
 com/prolificinteractive/materialcalendarview/format/MonthArrayTitleFormatter.class
 android/support/design/widget/ValueAnimatorCompat$Creator.class
 com/google/gson/annotations/Until.class
+okhttp3/Interceptor$Chain.class
 com/guojunustb/library/WeekDView.class
 com/example/gufei/bigfitness/base/BaseActivity.class
 com/jude/rollviewpager/adapter/LoopPagerAdapter.class
@@ -1211,13 +1243,16 @@ com/prolificinteractive/materialcalendarview/MaterialCalendarView$1.class
 org/hamcrest/xml/HasXPath.class
 android/support/test/espresso/core/deps/guava/cache/CacheBuilderSpec.class
 com/example/gufei/bigfitness/com/GuFei/Ui/CustomerManagement/Record/FollowUpRecordActivityPresenter.class
+okhttp3/Response$Builder.class
 android/support/test/espresso/core/deps/guava/collect/TreeMultiset$Reference.class
+okhttp3/MultipartBody$Part.class
 android/support/test/espresso/base/Default.class
 android/support/v4/view/InputDeviceCompat.class
 android/support/v4/app/RemoteInputCompatBase$RemoteInput$Factory.class
 android/support/v7/widget/RecyclerView$OnItemTouchListener.class
 android/support/v4/media/session/PlaybackStateCompat.class
 javax/annotation/Untainted.class
+okhttp3/ResponseBody.class
 com/example/gufei/bigfitness/com/GuFei/Ui/Charts/FragMent/Index2/Index2FragMent$WebAppInterface.class
 android/support/v4/view/ViewCompat$FocusRelativeDirection.class
 android/support/test/espresso/core/deps/dagger/MapKey.class
@@ -1258,15 +1293,16 @@ org/junit/runners/parameterized/BlockJUnit4ClassRunnerWithParametersFactory.clas
 android/support/v7/app/ActionBarDrawerToggle$DelegateProvider.class
 org/junit/runners/ParentRunner$2.class
 android/support/test/annotation/UiThreadTest.class
+okhttp3/RequestBody$3.class
 android/support/annotation/RequiresApi.class
 javax/annotation/ParametersAreNonnullByDefault.class
+okhttp3/RequestBody.class
 android/support/v4/media/session/PlaybackStateCompat$RepeatMode.class
 com/example/gufei/bigfitness/com/GuFei/Ui/Members/ReservationRecord/ReservationRecordMembersActivityPresenter.class
 android/support/v4/view/accessibility/AccessibilityRecordCompat.class
 com/bumptech/glide/util/Util.class
 android/support/design/widget/TabLayout$PagerAdapterObserver.class
 android/support/test/espresso/core/deps/guava/collect/GeneralRange.class
-rx/AsyncEmitter.class
 android/support/v4/app/NotificationBuilderWithActions.class
 com/example/gufei/bigfitness/com/GuFei/Ui/CustomerManagement/CustomerInfo/CustomerInfoCollectionPresenter.class
 android/support/v4/view/ViewCompatICSMr1.class
@@ -1281,6 +1317,7 @@ android/support/design/widget/CoordinatorLayout$1.class
 android/support/annotation/Px.class
 android/support/test/espresso/core/deps/guava/util/concurrent/Futures.class
 android/support/annotation/AttrRes.class
+okhttp3/ConnectionSpec$Builder.class
 android/support/test/espresso/core/deps/guava/collect/ImmutableMap.class
 dagger/multibindings/LongKey.class
 org/hamcrest/core/IsNot.class
@@ -1289,6 +1326,7 @@ android/support/v7/app/ActionBar$DisplayOptions.class
 org/junit/internal/runners/statements/RunBefores.class
 android/support/v4/app/NotificationCompat$CarExtender.class
 com/prolificinteractive/materialcalendarview/CalendarPagerView.class
+okio/package-info.class
 org/hamcrest/collection/IsIterableContainingInAnyOrder.class
 android/support/test/espresso/core/deps/guava/collect/ImmutableListMultimap.class
 org/junit/runners/ParentRunner$3.class
@@ -1319,6 +1357,7 @@ org/junit/runners/model/RunnerScheduler.class
 android/support/test/espresso/base/RootViewPicker.class
 org/junit/runners/ParentRunner$1.class
 android/support/v4/view/ViewPager$ViewPositionComparator.class
+okhttp3/RequestBody$2.class
 org/junit/runners/parameterized/TestWithParameters.class
 android/support/annotation/WorkerThread.class
 android/support/design/widget/BottomSheetBehavior$1.class
@@ -1327,6 +1366,7 @@ android/support/multidex/ZipUtil.class
 android/support/test/espresso/core/deps/guava/primitives/Doubles.class
 android/support/annotation/FractionRes.class
 android/support/annotation/PluralsRes.class
+okhttp3/internal/cache/CacheStrategy.class
 butterknife/OnItemSelected.class
 org/greenrobot/eventbus/ThreadMode.class
 android/support/v4/app/NotificationCompat$NotificationCompatImplApi20.class
@@ -1355,6 +1395,7 @@ com/example/gufei/bigfitness/com/GuFei/Ui/Charts/List/ChartsListActivityPresente
 android/support/v4/net/ConnectivityManagerCompatJellyBean.class
 android/support/test/espresso/core/deps/guava/collect/TreeRangeMap$1.class
 android/support/test/runner/MonitoringInstrumentation$StubResultCallable.class
+okhttp3/Request.class
 com/prolificinteractive/materialcalendarview/MaterialCalendarView$StateBuilder.class
 android/support/v4/app/NotificationCompat$NotificationCompatImplIceCreamSandwich.class
 android/support/v4/app/Fragment$1.class
@@ -1374,10 +1415,12 @@ org/joda/time/LocalDateTime.class
 android/support/v7/view/menu/MenuPopup.class
 android/support/v4/media/MediaBrowserCompat$ItemReceiver.class
 android/support/v4/view/MotionEventCompat.class
+okio/AsyncTimeout.class
 android/support/test/espresso/ViewInteractionModule.class
 butterknife/OnItemSelected$Callback.class
 android/support/v4/app/ServiceCompatApi24.class
 android/support/v4/util/PatternsCompat.class
+okhttp3/Response.class
 android/support/v4/media/VolumeProviderCompat$Callback.class
 android/support/v4/app/FragmentManagerNonConfig.class
 com/example/gufei/bigfitness/com/GuFei/Ui/Members/EditAppointment/EditMebersAppointmentActivityPresenter.class

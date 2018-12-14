@@ -22,7 +22,7 @@ public class FollowUpRecordActivity_ViewBinding<T extends FollowUpRecordActivity
 
   private View view2131820827;
 
-  private View view2131821445;
+  private View view2131821447;
 
   private View view2131821158;
 
@@ -49,7 +49,7 @@ public class FollowUpRecordActivity_ViewBinding<T extends FollowUpRecordActivity
     });
     view = Utils.findRequiredView(source, R.id.btn_customer_info, "field 'btnCustomerInfo' and method 'onViewClicked'");
     target.btnCustomerInfo = Utils.castView(view, R.id.btn_customer_info, "field 'btnCustomerInfo'", ImageView.class);
-    view2131821445 = view;
+    view2131821447 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -86,8 +86,8 @@ public class FollowUpRecordActivity_ViewBinding<T extends FollowUpRecordActivity
 
     view2131820827.setOnClickListener(null);
     view2131820827 = null;
-    view2131821445.setOnClickListener(null);
-    view2131821445 = null;
+    view2131821447.setOnClickListener(null);
+    view2131821447 = null;
     view2131821158.setOnClickListener(null);
     view2131821158 = null;
 

@@ -8,28 +8,28 @@ package com.lcodecore.tkrefreshlayout;
 
 public final class R {
     public static final class attr {
-        public static final int layoutManager = 0x7f010155;
-        public static final int reverseLayout = 0x7f010157;
-        public static final int spanCount = 0x7f010156;
-        public static final int stackFromEnd = 0x7f010158;
-        public static final int tr_autoLoadMore = 0x7f0101be;
-        public static final int tr_bottomView = 0x7f0101bc;
-        public static final int tr_bottom_height = 0x7f0101b3;
-        public static final int tr_enable_keepIView = 0x7f0101bf;
-        public static final int tr_enable_loadmore = 0x7f0101b6;
-        public static final int tr_enable_overscroll = 0x7f0101ba;
-        public static final int tr_enable_refresh = 0x7f0101b5;
-        public static final int tr_floatRefresh = 0x7f0101bd;
-        public static final int tr_head_height = 0x7f0101b1;
-        public static final int tr_headerView = 0x7f0101bb;
-        public static final int tr_max_bottom_height = 0x7f0101b2;
-        public static final int tr_max_head_height = 0x7f0101b0;
-        public static final int tr_overscroll_bottom_show = 0x7f0101b9;
-        public static final int tr_overscroll_height = 0x7f0101b4;
-        public static final int tr_overscroll_top_show = 0x7f0101b8;
-        public static final int tr_pureScrollMode_on = 0x7f0101b7;
-        public static final int tr_showLoadingWhenOverScroll = 0x7f0101c1;
-        public static final int tr_showRefreshingWhenOverScroll = 0x7f0101c0;
+        public static final int layoutManager = 0x7f01015f;
+        public static final int reverseLayout = 0x7f010161;
+        public static final int spanCount = 0x7f010160;
+        public static final int stackFromEnd = 0x7f010162;
+        public static final int tr_autoLoadMore = 0x7f0101c9;
+        public static final int tr_bottomView = 0x7f0101c7;
+        public static final int tr_bottom_height = 0x7f0101be;
+        public static final int tr_enable_keepIView = 0x7f0101ca;
+        public static final int tr_enable_loadmore = 0x7f0101c1;
+        public static final int tr_enable_overscroll = 0x7f0101c5;
+        public static final int tr_enable_refresh = 0x7f0101c0;
+        public static final int tr_floatRefresh = 0x7f0101c8;
+        public static final int tr_head_height = 0x7f0101bc;
+        public static final int tr_headerView = 0x7f0101c6;
+        public static final int tr_max_bottom_height = 0x7f0101bd;
+        public static final int tr_max_head_height = 0x7f0101bb;
+        public static final int tr_overscroll_bottom_show = 0x7f0101c4;
+        public static final int tr_overscroll_height = 0x7f0101bf;
+        public static final int tr_overscroll_top_show = 0x7f0101c3;
+        public static final int tr_pureScrollMode_on = 0x7f0101c2;
+        public static final int tr_showLoadingWhenOverScroll = 0x7f0101cc;
+        public static final int tr_showRefreshingWhenOverScroll = 0x7f0101cb;
     }
     public static final class color {
         public static final int Blue = 0x7f0f0003;
@@ -38,28 +38,28 @@ public final class R {
         public static final int Yellow = 0x7f0f0006;
     }
     public static final class dimen {
-        public static final int item_touch_helper_max_drag_scroll_per_frame = 0x7f0b00b6;
-        public static final int item_touch_helper_swipe_escape_max_velocity = 0x7f0b00b7;
-        public static final int item_touch_helper_swipe_escape_velocity = 0x7f0b00b8;
+        public static final int item_touch_helper_max_drag_scroll_per_frame = 0x7f0b00b7;
+        public static final int item_touch_helper_swipe_escape_max_velocity = 0x7f0b00b8;
+        public static final int item_touch_helper_swipe_escape_velocity = 0x7f0b00b9;
     }
     public static final class drawable {
         public static final int anim_loading_view = 0x7f020058;
         public static final int ic_arrow = 0x7f020079;
     }
     public static final class id {
-        public static final int draweeView = 0x7f110400;
+        public static final int draweeView = 0x7f110407;
         public static final int ex_header = 0x7f110004;
         public static final int item_touch_helper_previous_elevation = 0x7f11000b;
-        public static final int iv_arrow = 0x7f110407;
-        public static final int iv_loading = 0x7f110408;
-        public static final int ripple = 0x7f110403;
-        public static final int round1 = 0x7f110401;
-        public static final int round2 = 0x7f110402;
-        public static final int tv = 0x7f110409;
+        public static final int iv_arrow = 0x7f11040e;
+        public static final int iv_loading = 0x7f11040f;
+        public static final int ripple = 0x7f11040a;
+        public static final int round1 = 0x7f110408;
+        public static final int round2 = 0x7f110409;
+        public static final int tv = 0x7f110410;
     }
     public static final class layout {
-        public static final int view_bezier = 0x7f0400ee;
-        public static final int view_sinaheader = 0x7f0400f4;
+        public static final int view_bezier = 0x7f0400ef;
+        public static final int view_sinaheader = 0x7f0400f5;
     }
     public static final class mipmap {
         public static final int refresh_head_arrow = 0x7f030051;
@@ -80,14 +80,14 @@ public final class R {
         public static final int app_name = 0x7f0a0024;
     }
     public static final class styleable {
-        public static final int[] RecyclerView = { 0x010100c4, 0x010100f1, 0x7f010155, 0x7f010156, 0x7f010157, 0x7f010158 };
+        public static final int[] RecyclerView = { 0x010100c4, 0x010100f1, 0x7f01015f, 0x7f010160, 0x7f010161, 0x7f010162 };
         public static final int RecyclerView_android_descendantFocusability = 1;
         public static final int RecyclerView_android_orientation = 0;
         public static final int RecyclerView_layoutManager = 2;
         public static final int RecyclerView_reverseLayout = 4;
         public static final int RecyclerView_spanCount = 3;
         public static final int RecyclerView_stackFromEnd = 5;
-        public static final int[] TwinklingRefreshLayout = { 0x7f0101b0, 0x7f0101b1, 0x7f0101b2, 0x7f0101b3, 0x7f0101b4, 0x7f0101b5, 0x7f0101b6, 0x7f0101b7, 0x7f0101b8, 0x7f0101b9, 0x7f0101ba, 0x7f0101bb, 0x7f0101bc, 0x7f0101bd, 0x7f0101be, 0x7f0101bf, 0x7f0101c0, 0x7f0101c1 };
+        public static final int[] TwinklingRefreshLayout = { 0x7f0101bb, 0x7f0101bc, 0x7f0101bd, 0x7f0101be, 0x7f0101bf, 0x7f0101c0, 0x7f0101c1, 0x7f0101c2, 0x7f0101c3, 0x7f0101c4, 0x7f0101c5, 0x7f0101c6, 0x7f0101c7, 0x7f0101c8, 0x7f0101c9, 0x7f0101ca, 0x7f0101cb, 0x7f0101cc };
         public static final int TwinklingRefreshLayout_tr_autoLoadMore = 14;
         public static final int TwinklingRefreshLayout_tr_bottomView = 12;
         public static final int TwinklingRefreshLayout_tr_bottom_height = 3;

@@ -20,27 +20,27 @@ import java.lang.Override;
 public class AddAppointmentScheduleActivity_ViewBinding<T extends AddAppointmentScheduleActivity> implements Unbinder {
   protected T target;
 
-  private View view2131820761;
+  private View view2131820763;
 
-  private View view2131820770;
+  private View view2131820772;
 
-  private View view2131820773;
+  private View view2131820775;
 
-  private View view2131820776;
+  private View view2131820778;
 
-  private View view2131820767;
+  private View view2131820769;
 
-  private View view2131821168;
+  private View view2131821170;
 
-  private View view2131820757;
+  private View view2131820759;
 
-  private View view2131820780;
+  private View view2131820782;
 
-  private View view2131820783;
+  private View view2131820785;
 
-  private View view2131821164;
+  private View view2131821166;
 
-  private View view2131820758;
+  private View view2131820760;
 
   @UiThread
   public AddAppointmentScheduleActivity_ViewBinding(final T target, View source) {
@@ -56,7 +56,7 @@ public class AddAppointmentScheduleActivity_ViewBinding<T extends AddAppointment
     target.intervalTimeText = Utils.findRequiredViewAsType(source, R.id.interval_time_text, "field 'intervalTimeText'", TextView.class);
     view = Utils.findRequiredView(source, R.id.appointment_type_btn, "field 'appointmentTypeBtn' and method 'onViewClicked'");
     target.appointmentTypeBtn = Utils.castView(view, R.id.appointment_type_btn, "field 'appointmentTypeBtn'", RelativeLayout.class);
-    view2131820761 = view;
+    view2131820763 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -65,7 +65,7 @@ public class AddAppointmentScheduleActivity_ViewBinding<T extends AddAppointment
     });
     view = Utils.findRequiredView(source, R.id.end_time_btn, "field 'endTimeBtn' and method 'onViewClicked'");
     target.endTimeBtn = Utils.castView(view, R.id.end_time_btn, "field 'endTimeBtn'", RelativeLayout.class);
-    view2131820770 = view;
+    view2131820772 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -74,7 +74,7 @@ public class AddAppointmentScheduleActivity_ViewBinding<T extends AddAppointment
     });
     view = Utils.findRequiredView(source, R.id.remind_time_btn, "field 'remindTimeBtn' and method 'onViewClicked'");
     target.remindTimeBtn = Utils.castView(view, R.id.remind_time_btn, "field 'remindTimeBtn'", RelativeLayout.class);
-    view2131820773 = view;
+    view2131820775 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -83,7 +83,7 @@ public class AddAppointmentScheduleActivity_ViewBinding<T extends AddAppointment
     });
     view = Utils.findRequiredView(source, R.id.interval_time_btn, "field 'intervalTimeBtn' and method 'onViewClicked'");
     target.intervalTimeBtn = Utils.castView(view, R.id.interval_time_btn, "field 'intervalTimeBtn'", RelativeLayout.class);
-    view2131820776 = view;
+    view2131820778 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -92,7 +92,7 @@ public class AddAppointmentScheduleActivity_ViewBinding<T extends AddAppointment
     });
     view = Utils.findRequiredView(source, R.id.begin_time_btn, "field 'beginTimeBtn' and method 'onViewClicked'");
     target.beginTimeBtn = Utils.castView(view, R.id.begin_time_btn, "field 'beginTimeBtn'", RelativeLayout.class);
-    view2131820767 = view;
+    view2131820769 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -102,7 +102,7 @@ public class AddAppointmentScheduleActivity_ViewBinding<T extends AddAppointment
     target.layoutTrainingPlan = Utils.findRequiredViewAsType(source, R.id.layout_training_plan, "field 'layoutTrainingPlan'", LinearLayout.class);
     view = Utils.findRequiredView(source, R.id.layout_course_type, "field 'layoutCourseType' and method 'onViewClicked'");
     target.layoutCourseType = Utils.castView(view, R.id.layout_course_type, "field 'layoutCourseType'", LinearLayout.class);
-    view2131821168 = view;
+    view2131821170 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -113,7 +113,7 @@ public class AddAppointmentScheduleActivity_ViewBinding<T extends AddAppointment
     target.courseTypeText = Utils.findRequiredViewAsType(source, R.id.course_type_text, "field 'courseTypeText'", TextView.class);
     view = Utils.findRequiredView(source, R.id.btn_confirm, "field 'btnConfirm' and method 'onViewClicked'");
     target.btnConfirm = Utils.castView(view, R.id.btn_confirm, "field 'btnConfirm'", TextView.class);
-    view2131820757 = view;
+    view2131820759 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -125,7 +125,7 @@ public class AddAppointmentScheduleActivity_ViewBinding<T extends AddAppointment
     target.trainingPlan = Utils.findRequiredViewAsType(source, R.id.training_plan, "field 'trainingPlan'", TextView.class);
     view = Utils.findRequiredView(source, R.id.btn_training_plan, "field 'btnTrainingPlan' and method 'onViewClicked'");
     target.btnTrainingPlan = Utils.castView(view, R.id.btn_training_plan, "field 'btnTrainingPlan'", RelativeLayout.class);
-    view2131820780 = view;
+    view2131820782 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -139,7 +139,7 @@ public class AddAppointmentScheduleActivity_ViewBinding<T extends AddAppointment
     target.trainingPlanImg = Utils.findRequiredViewAsType(source, R.id.training_plan_img, "field 'trainingPlanImg'", ImageView.class);
     view = Utils.findRequiredView(source, R.id.text_training_plan, "field 'textTrainingPlan' and method 'onViewClicked'");
     target.textTrainingPlan = Utils.castView(view, R.id.text_training_plan, "field 'textTrainingPlan'", TextView.class);
-    view2131820783 = view;
+    view2131820785 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -151,7 +151,7 @@ public class AddAppointmentScheduleActivity_ViewBinding<T extends AddAppointment
     target.memberText = Utils.findRequiredViewAsType(source, R.id.member_text, "field 'memberText'", TextView.class);
     view = Utils.findRequiredView(source, R.id.member_btn, "field 'memberBtn' and method 'onViewClicked'");
     target.memberBtn = Utils.castView(view, R.id.member_btn, "field 'memberBtn'", RelativeLayout.class);
-    view2131821164 = view;
+    view2131821166 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -160,7 +160,7 @@ public class AddAppointmentScheduleActivity_ViewBinding<T extends AddAppointment
     });
     target.appointmentClientImg = Utils.findRequiredViewAsType(source, R.id.appointment_client_img, "field 'appointmentClientImg'", ImageView.class);
     view = Utils.findRequiredView(source, R.id.client, "method 'onViewClicked'");
-    view2131820758 = view;
+    view2131820760 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -208,28 +208,28 @@ public class AddAppointmentScheduleActivity_ViewBinding<T extends AddAppointment
     target.memberBtn = null;
     target.appointmentClientImg = null;
 
-    view2131820761.setOnClickListener(null);
-    view2131820761 = null;
-    view2131820770.setOnClickListener(null);
-    view2131820770 = null;
-    view2131820773.setOnClickListener(null);
-    view2131820773 = null;
-    view2131820776.setOnClickListener(null);
-    view2131820776 = null;
-    view2131820767.setOnClickListener(null);
-    view2131820767 = null;
-    view2131821168.setOnClickListener(null);
-    view2131821168 = null;
-    view2131820757.setOnClickListener(null);
-    view2131820757 = null;
-    view2131820780.setOnClickListener(null);
-    view2131820780 = null;
-    view2131820783.setOnClickListener(null);
-    view2131820783 = null;
-    view2131821164.setOnClickListener(null);
-    view2131821164 = null;
-    view2131820758.setOnClickListener(null);
-    view2131820758 = null;
+    view2131820763.setOnClickListener(null);
+    view2131820763 = null;
+    view2131820772.setOnClickListener(null);
+    view2131820772 = null;
+    view2131820775.setOnClickListener(null);
+    view2131820775 = null;
+    view2131820778.setOnClickListener(null);
+    view2131820778 = null;
+    view2131820769.setOnClickListener(null);
+    view2131820769 = null;
+    view2131821170.setOnClickListener(null);
+    view2131821170 = null;
+    view2131820759.setOnClickListener(null);
+    view2131820759 = null;
+    view2131820782.setOnClickListener(null);
+    view2131820782 = null;
+    view2131820785.setOnClickListener(null);
+    view2131820785 = null;
+    view2131821166.setOnClickListener(null);
+    view2131821166 = null;
+    view2131820760.setOnClickListener(null);
+    view2131820760 = null;
 
     this.target = null;
   }

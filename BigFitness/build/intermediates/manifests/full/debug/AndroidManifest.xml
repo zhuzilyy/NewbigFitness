@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.gufei.bigfitness"
-    android:versionCode="6"
-    android:versionName="1.1.4" >
+    android:versionCode="7"
+    android:versionName="1.1.5" >
 
     <uses-sdk
         android:minSdkVersion="19"
@@ -373,6 +373,22 @@
         <!-- android:name="android.support.FILE_PROVIDER_PATHS" -->
         <!-- android:resource="@xml/filepaths"/> -->
         <!-- </provider> -->
+        //静态注册广播
+        <receiver
+            android:name="com.example.gufei.bigfitness.com.GuFei.Push.HandlePushReceiver"
+            android:enabled="true"
+            android:exported="true" >
+            <intent-filter>
+                //自定义Action
+                <action android:name="com.action.receive.message" />
+            </intent-filter>
+        </receiver>
+        <!-- 推送的详情 -->
+        <activity
+            android:name="com.example.gufei.bigfitness.com.GuFei.Push.PushDetailActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/DialogActivity" />
+
         <meta-data
             android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
             android:value="GlideModule" /> <!-- 第三方应用配置 -->
